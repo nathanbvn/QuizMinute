@@ -1,0 +1,3674 @@
+{
+      "0": {
+            "tag": "CEH",
+            "question": "Q1. What is the focus of a security audit or vulnerability assessment?",
+            "A": "A) Locating vulnerabilities",
+            "B": "B) Locating threats",
+            "C": "C) Enacting threats",
+            "D": "D) Exploiting vulnerabilities",
+            "answer": "A"
+      },
+      "1": {
+            "tag": "CEH",
+            "question": "2. What kind of physical access device restricts access to a single individual at any one time?",
+            "A": "A) Checkpoint",
+            "B": "B) Perimeter security",
+            "C": "C) Security zones",
+            "D": "D) Mantrap",
+            "answer": "D"
+      },
+      "2": {
+            "tag": "CEH",
+            "question": "3. Which of the following is a mechanism for managing digital certificates through a system of trust?",
+            "A": "A) PKI",
+            "B": "B) PKCS",
+            "C": "C) ISA",
+            "D": "D) SSL",
+            "answer": "A"
+      },
+      "3": {
+            "tag": "CEH",
+            "question": "4. Which protocol is used to create a secure environment in a wireless network?",
+            "A": "A) WAP",
+            "B": "B) WPA",
+            "C": "C) WTLS",
+            "D": "D) WML",
+            "answer": "B"
+      },
+      "4": {
+            "tag": "CEH",
+            "question": "5. What type of exercise is conducted with full knowledge of the target environment?",
+            "A": "A) White box",
+            "B": "B) Gray box",
+            "C": "C) Black box",
+            "D": "D) Glass box",
+            "answer": "A"
+      },
+      "5": {
+            "tag": "CEH",
+            "question": "6. You want to establish a network connection between two LANs using the Internet. Which technology would best accomplish that for you?",
+            "A": "A) IPSec",
+            "B": "B) L2TP",
+            "C": "C) PPP",
+            "D": "D) SLIP",
+            "answer": "B"
+      },
+      "6": {
+            "tag": "CEH",
+            "question": "7. Which design concept limits access to systems from outside users while protecting users and systems inside the LAN?",
+            "A": "A) DMZ",
+            "B": "B) VLAN",
+            "C": "C) I&A",
+            "D": "D) Router",
+            "answer": "A"
+      },
+      "7": {
+            "tag": "CEH",
+            "question": "8. In the key recovery process, which key must be recoverable?",
+            "A": "A) Rollover key",
+            "B": "B) Secret key",
+            "C": "C) Previous key",
+            "D": "D) Escrow key",
+            "answer": "D"
+      },
+      "8": {
+            "tag": "CEH",
+            "question": "9. Which kind of attack is designed to overload a system or resource, taking it temporarily or permanently offline?",
+            "A": "A) Spoofing",
+            "B": "B) Trojan",
+            "C": "C) Man in the middle",
+            "D": "D) SYN flood",
+            "answer": "D"
+      },
+      "9": {
+            "tag": "CEH",
+            "question": "10. Which component of an NIDS collects data?",
+            "A": "A) Data source",
+            "B": "B) Sensor",
+            "C": "C) Event",
+            "D": "D) Analyzer",
+            "answer": "B"
+      },
+      "10": {
+            "tag": "CEH",
+            "question": "11. What is the process of making an operating system secure from attack called?",
+            "A": "A) Hardening",
+            "B": "B) Tuning",
+            "C": "C) Sealing",
+            "D": "D) Locking down",
+            "answer": "A"
+      },
+      "11": {
+            "tag": "CEH",
+            "question": "12. The integrity component provides which feature of the CIA triad?",
+            "A": "A) Verification that information is accurate",
+            "B": "B) Verification that ethics are properly maintained",
+            "C": "C) Establishment of clear access control of data",
+            "D": "D) Verification that data is kept private and secure",
+            "answer": "A"
+      },
+      "12": {
+            "tag": "CEH",
+            "question": "13. Which mechanism is used by PKI to allow immediate verification of a certificate\u2019s validity?",
+            "A": "A) CRL",
+            "B": "B) MD5",
+            "C": "C) SSHA",
+            "D": "D) OCSP",
+            "answer": "D"
+      },
+      "13": {
+            "tag": "CEH",
+            "question": "14. Which of the following is used to create a VLAN from a physical security perspective?",
+            "A": "A) Hub",
+            "B": "B) Switch",
+            "C": "C) Router",
+            "D": "D) Firewall",
+            "answer": "B"
+      },
+      "14": {
+            "tag": "CEH",
+            "question": "15. A user has just reported that he downloaded a file from a prospective client using IM. The user indicates that the file was called account.doC) The system has been behaving unusually since he downloaded the file. What is the most likely event that occurred?",
+            "A": "A) Your user inadvertently downloaded a macro virus using IM.",
+            "B": "B) Your user may have downloaded a rootkit.",
+            "C": "C) Your user may have accidently changed a setting on the system.",
+            "D": "D) The system is unstable due to the use of IM.",
+            "answer": "A"
+      },
+      "15": {
+            "tag": "CEH",
+            "question": "16. Which mechanism or process is used to enable or disable access to a network resource based on attacks that have been detected?",
+            "A": "A) NIDS",
+            "B": "B) NIPS",
+            "C": "C) NITS",
+            "D": "D) NADS",
+            "answer": "B"
+      },
+      "16": {
+            "tag": "CEH",
+            "question": "17. Which of the following would provide additional security to an Internet web server?",
+            "A": "A) Changing the default port for traffic to 80",
+            "B": "B) Changing the default port for traffic to 1019",
+            "C": "C) Changing the default port for traffic to 443",
+            "D": "D) Changing the default port for traffic to 161",
+            "answer": "C"
+      },
+      "17": {
+            "tag": "CEH",
+            "question": "18. What type of program exists primarily to propagate and spread itself to other systems and can do so without interaction from users?",
+            "A": "A) Virus",
+            "B": "B) Trojan horse",
+            "C": "C) Logic bomb",
+            "D": "D) Worm",
+            "answer": "D"
+      },
+      "18": {
+            "tag": "CEH",
+            "question": "19. An individual presents herself at your office claiming to be a service technician. She is attempting to discuss technical details of your environment such as applications, hardware, and personnel used to manage it. This may be an example of what type of attack?",
+            "A": "A) Social engineering",
+            "B": "B) Access control",
+            "C": "C) Perimeter screening",
+            "D": "D) Behavioral engineering",
+            "answer": "A"
+      },
+      "19": {
+            "tag": "CEH",
+            "question": "20. Which of the following is a major security problem with FTP?",
+            "A": "A) Password files are stored in an unsecure area on disk.",
+            "B": "B) Memory traces can corrupt file access.",
+            "C": "C) User IDs and passwords are unencrypted.",
+            "D": "D) FTP sites are unregistered.",
+            "answer": "C"
+      },
+      "20": {
+            "tag": "CEH",
+            "question": "21. Which system would you install to provide detective capabilities within a network?",
+            "A": "A) NIDS",
+            "B": "B) HIDS",
+            "C": "C) NIPS",
+            "D": "D) HIPS",
+            "answer": "A"
+      },
+      "21": {
+            "tag": "CEH",
+            "question": "22. The process of maintaining the integrity of evidence and ensuring no gaps in possession occur is known as what?",
+            "A": "A) Security investigation",
+            "B": "B) Chain of custody",
+            "C": "C) Three As of investigation",
+            "D": "D) Security policy",
+            "answer": "B"
+      },
+      "22": {
+            "tag": "CEH",
+            "question": "23. What encryption process uses one piece of information as a carrier for another?",
+            "A": "A) Steganography",
+            "B": "B) Hashing",
+            "C": "C) MDA",
+            "D": "D) Cryptointelligence",
+            "answer": "A"
+      },
+      "23": {
+            "tag": "CEH",
+            "question": "24. Which policy dictates how assets can be used by employees of a company?",
+            "A": "A) Security policy",
+            "B": "B) User policy",
+            "C": "C) Use policy",
+            "D": "D) Enforcement policy",
+            "answer": "E"
+      },
+      "24": {
+            "tag": "CEH",
+            "question": "25. Which algorithm is an asymmetric encryption protocol?",
+            "A": "A) RSA",
+            "B": "B) AES",
+            "C": "C) DES",
+            "D": "D) 3DES",
+            "answer": "A"
+      },
+      "25": {
+            "tag": "CEH",
+            "question": "26. Which of the following is an example of a hashing algorithm?",
+            "A": "A) ECC",
+            "B": "B) PKI",
+            "C": "C) SHA",
+            "D": "D) MD",
+            "answer": "C"
+      },
+      "26": {
+            "tag": "CEH",
+            "question": "27. Which of the following creates a fixed-length output from a variable-length input?",
+            "A": "A) MD5",
+            "B": "B) MD7",
+            "C": "C) SHA12",
+            "D": "D) SHA8",
+            "answer": "A"
+      },
+      "27": {
+            "tag": "CEH",
+            "question": "28. Granting access to a system based on a factor such as an individual\u2019s retina during a scan is an example of what type of authentication method?",
+            "A": "A) Smart card",
+            "B": "B) I&A",
+            "C": "C) Biometrics",
+            "D": "D) CHAP",
+            "answer": "C"
+      },
+      "28": {
+            "tag": "CEH",
+            "question": "29. What item is also referred to as a physical address to a computer system?",
+            "A": "A) MAC",
+            "B": "B) DAC",
+            "C": "C) RBAC",
+            "D": "D) STAC",
+            "answer": "A"
+      },
+      "29": {
+            "tag": "CEH",
+            "question": "30. What is the process of investigating a computer system for information relating to a security incident?",
+            "A": "A) Computer forensics",
+            "B": "B) Virus scanning",
+            "C": "C) Security policy",
+            "D": "D) Evidence gathering",
+            "answer": "A"
+      },
+      "30": {
+            "tag": "CEH",
+            "question": "31. Which of the following is seen as a replacement for protocols such as Telnet and FTP?",
+            "A": "A) SSL",
+            "B": "B) SCP",
+            "C": "C) Telnet2",
+            "D": "D) SSH",
+            "answer": "D"
+      },
+      "31": {
+            "tag": "CEH",
+            "question": "32. Which of the following is commonly used to create thumbprints for digital certificates?",
+            "A": "A) MD5",
+            "B": "B) MD7",
+            "C": "C) SHA12",
+            "D": "D) SHA8",
+            "answer": "A"
+      },
+      "32": {
+            "tag": "CEH",
+            "question": "33. Granting access to a system based on a factor such as a password is an example of what?",
+            "A": "A) Something you have",
+            "B": "B) Something you know",
+            "C": "C) Something you are",
+            "D": "D) Something you smell",
+            "answer": "B"
+      },
+      "33": {
+            "tag": "CEH",
+            "question": "34. What item is also referred to as a logical address to a computer system?",
+            "A": "A) IP address",
+            "B": "B) IPX address",
+            "C": "C) MAC address",
+            "D": "D) SMAC address",
+            "answer": "A"
+      },
+      "34": {
+            "tag": "CEH",
+            "question": "35. How many bits are in an IPv6 address?",
+            "A": "A) 32",
+            "B": "B) 64",
+            "C": "C) 128",
+            "D": "D) 256",
+            "answer": "C"
+      },
+      "35": {
+            "tag": "CEH",
+            "question": "1. If you have been contracted to perform an attack against a target system, you are what type of hacker?",
+            "A": "A) White hat",
+            "B": "B) Gray hat",
+            "C": "C) Black hat",
+            "D": "D) Red hat",
+            "answer": "A"
+      },
+      "36": {
+            "tag": "CEH",
+            "question": "2. Which of the following describes an attacker who goes after a target to draw attention to a cause?",
+            "A": "A) Terrorist",
+            "B": "B) Criminal",
+            "C": "C) Hacktivist",
+            "D": "D) Script kiddie",
+            "answer": "C"
+      },
+      "37": {
+            "tag": "CEH",
+            "question": "3. What level of knowledge about hacking does a script kiddie have?",
+            "A": "A) Low",
+            "B": "B) Average",
+            "C": "C) High",
+            "D": "D) Advanced",
+            "answer": "A"
+      },
+      "38": {
+            "tag": "CEH",
+            "question": "4. Which of the following does an ethical hacker require to start evaluating a system?",
+            "A": "A) Training",
+            "B": "B) Permission",
+            "C": "C) Planning",
+            "D": "D) Nothing",
+            "answer": "B"
+      },
+      "39": {
+            "tag": "CEH",
+            "question": "5. A white-box test means the tester has which of the following?",
+            "A": "A) No knowledge",
+            "B": "B) Some knowledge",
+            "C": "C) Complete knowledge",
+            "D": "D) Permission",
+            "answer": "C"
+      },
+      "40": {
+            "tag": "CEH",
+            "question": "6. Which of the following describes a hacker who attacks without regard for being caught or punished?",
+            "A": "A) Hacktivist",
+            "B": "B) Terrorist",
+            "C": "C) Criminal",
+            "D": "D) Suicide hacker",
+            "answer": "D"
+      },
+      "41": {
+            "tag": "CEH",
+            "question": "7. What is a code of ethics?",
+            "A": "A) A law for expected behavior",
+            "B": "B) A description of expected behavior",
+            "C": "C) A corporate policy",
+            "D": "D) A standard for civil conduct",
+            "answer": "B"
+      },
+      "42": {
+            "tag": "CEH",
+            "question": "8. The group Anonymous is an example of what?",
+            "A": "A) Terrorists",
+            "B": "B) Script kiddies",
+            "C": "C) Hacktivists",
+            "D": "D) Grayware",
+            "answer": "C"
+      },
+      "43": {
+            "tag": "CEH",
+            "question": "9. Companies may require a penetration test for which of the following reasons?",
+            "A": "A) Legal reasons",
+            "B": "B) Regulatory reasons",
+            "C": "C) To perform an audit",
+            "D": "D) To monitor network performance",
+            "answer": "A"
+      },
+      "44": {
+            "tag": "CEH",
+            "question": "10. What should a pentester do prior to initiating a new penetration test?",
+            "A": "A) Plan",
+            "B": "B) Study the environment",
+            "C": "C) Get permission",
+            "D": "D) Study the code of ethics",
+            "answer": "C"
+      },
+      "45": {
+            "tag": "CEH",
+            "question": "11. Which of the following best describes what a hacktivist does?",
+            "A": "A) Defaces websites",
+            "B": "B) Performs social engineering",
+            "C": "C) Hacks for political reasons",
+            "D": "D) Hacks with basic skills",
+            "answer": "C"
+      },
+      "46": {
+            "tag": "CEH",
+            "question": "12. Which of the following best describes what a suicide hacker does?",
+            "A": "A) Hacks with permission",
+            "B": "B) Hacks without stealth",
+            "C": "C) Hacks without permission",
+            "D": "D) Hacks with stealth",
+            "answer": "B"
+      },
+      "47": {
+            "tag": "CEH",
+            "question": "13. Which type of hacker may use their skills for both benign and malicious goals at different times?",
+            "A": "A) White hat",
+            "B": "B) Gray hat",
+            "C": "C) Black hat",
+            "D": "D) Suicide hacker",
+            "answer": "B"
+      },
+      "48": {
+            "tag": "CEH",
+            "question": "14. What separates a suicide hacker from other attackers?",
+            "A": "A) A disregard for the law",
+            "B": "B) A desire to be helpful",
+            "C": "C) The intent to reform",
+            "D": "D) A lack of fear of being caught",
+            "answer": "D"
+      },
+      "49": {
+            "tag": "CEH",
+            "question": "15. Which of the following would most likely engage in the pursuit of vulnerability research?",
+            "A": "A) White hat",
+            "B": "B) Gray hat",
+            "C": "C) Black hat",
+            "D": "D) Suicide hacker",
+            "answer": "A"
+      },
+      "50": {
+            "tag": "CEH",
+            "question": "16. Vulnerability research deals with which of the following?",
+            "A": "A) Actively uncovering vulnerabilities",
+            "B": "B) Passively uncovering vulnerabilities",
+            "C": "C) Testing theories",
+            "D": "D) Applying security guidance",
+            "answer": "B"
+      },
+      "51": {
+            "tag": "CEH",
+            "question": "17. How is black-box testing performed?",
+            "A": "A) With no knowledge",
+            "B": "B) With full knowledge",
+            "C": "C) With partial knowledge",
+            "D": "D) By a black hat",
+            "answer": "A"
+      },
+      "52": {
+            "tag": "CEH",
+            "question": "18. A contract is important because it does what?",
+            "A": "A) Gives permission",
+            "B": "B) Gives test parameters",
+            "C": "C) Gives proof",
+            "D": "D) Gives a mission",
+            "answer": "C"
+      },
+      "53": {
+            "tag": "CEH",
+            "question": "19. What does TOE stand for?",
+            "A": "A) Target of evaluation",
+            "B": "B) Time of evaluation",
+            "C": "C) Type of evaluation",
+            "D": "D) Term of evaluation",
+            "answer": "A"
+      },
+      "54": {
+            "tag": "CEH",
+            "question": "20. Which of the following best describes a vulnerability?",
+            "A": "A) A worm",
+            "B": "B) A virus",
+            "C": "C) A weakness",
+            "D": "D) A rootkit",
+            "answer": "C"
+      },
+      "55": {
+            "tag": "CEH",
+            "question": "1. At which layer of the OSI model does a proxy operate?",
+            "A": "A) Physical",
+            "B": "B) Network",
+            "C": "C) Data Link",
+            "D": "D) Application",
+            "answer": "D"
+      },
+      "56": {
+            "tag": "CEH",
+            "question": "2. If a device is using node MAC addresses to funnel traffic, what layer of the OSI model is this device working in?",
+            "A": "A) Layer 1",
+            "B": "B) Layer 2",
+            "C": "C) Layer 3",
+            "D": "D) Layer 4",
+            "answer": "B"
+      },
+      "57": {
+            "tag": "CEH",
+            "question": "3. Which OS holds 90 percent of the desktop market and is one of our largest attack surfaces?",
+            "A": "A) Windows",
+            "B": "B) Linux",
+            "C": "C) Mac OS",
+            "D": "D) iOS",
+            "answer": "A"
+      },
+      "58": {
+            "tag": "CEH",
+            "question": "4. Which port uses SSL to secure web traffic?",
+            "A": "A) 443",
+            "B": "B) 25",
+            "C": "C) 23",
+            "D": "D) 80",
+            "answer": "A"
+      },
+      "59": {
+            "tag": "CEH",
+            "question": "5. What kind of domain resides on a single switchport?",
+            "A": "A) Windows domain",
+            "B": "B) Broadcast domain",
+            "C": "C) Secure domain",
+            "D": "D) Collision domain",
+            "answer": "D"
+      },
+      "60": {
+            "tag": "CEH",
+            "question": "6. Which network topology uses a token-based access methodology?",
+            "A": "A) Ethernet",
+            "B": "B) Star",
+            "C": "C) Bus",
+            "D": "D) Ring",
+            "answer": "D"
+      },
+      "61": {
+            "tag": "CEH",
+            "question": "7. Hubs operate at what layer of the OSI model?",
+            "A": "A) Layer 1",
+            "B": "B) Layer 2",
+            "C": "C) Layer 3",
+            "D": "D) Layer 4",
+            "answer": "A"
+      },
+      "62": {
+            "tag": "CEH",
+            "question": "8. What is the proper sequence of the TCP three-way-handshake?",
+            "A": "A) SYN-ACK, ACK, ACK",
+            "B": "B) SYN, SYN-ACK, ACK",
+            "C": "C) SYN-SYN, SYN-ACK, SYN",
+            "D": "D) ACK, SYN-ACK, SYN",
+            "answer": "B"
+      },
+      "63": {
+            "tag": "CEH",
+            "question": "9. Which of these protocols is a connection-oriented protocol?",
+            "A": "A) FTP",
+            "B": "B) UDP",
+            "C": "C) POP3",
+            "D": "D) TCP",
+            "answer": "D"
+      },
+      "64": {
+            "tag": "CEH",
+            "question": "10. A scan of a network client shows that port 23 is open; what protocol is this aligned with?",
+            "A": "A) Telnet",
+            "B": "B) NetBIOS",
+            "C": "C) DNS",
+            "D": "D) SMTP",
+            "answer": "A"
+      },
+      "65": {
+            "tag": "CEH",
+            "question": "11. What port range is an obscure third-party application most likely to use?",
+            "A": "A) 1 to 1024",
+            "B": "B) 1025 to 32767",
+            "C": "C) 32768 to 49151",
+            "D": "D) 49152 to 65535",
+            "answer": "D"
+      },
+      "66": {
+            "tag": "CEH",
+            "question": "12. Which category of firewall filters is based on packet header data only?",
+            "A": "A) Stateful",
+            "B": "B) Application",
+            "C": "C) Packet",
+            "D": "D) Proxy",
+            "answer": "C"
+      },
+      "67": {
+            "tag": "CEH",
+            "question": "13. An administrator has just been notified of irregular network activity; what appliance functions in this manner?",
+            "A": "A) IPS",
+            "B": "B) Stateful packet filtering",
+            "C": "C) IDS",
+            "D": "D) Firewall",
+            "answer": "C"
+      },
+      "68": {
+            "tag": "CEH",
+            "question": "14. Which topology has built-in redundancy because of its many client connections?",
+            "A": "A) Token ring",
+            "B": "B) Bus",
+            "C": "C) Hybrid",
+            "D": "D) Mesh",
+            "answer": "D"
+      },
+      "69": {
+            "tag": "CEH",
+            "question": "15. When scanning a network via a hardline connection to a wired-switch NIC in promiscuous mode, what would be the extent of network traffic you would expect to see?",
+            "A": "A) Entire network",
+            "B": "B) VLAN you are attached to",
+            "C": "C) All nodes attached to the same port",
+            "D": "D) None",
+            "answer": "C"
+      },
+      "70": {
+            "tag": "CEH",
+            "question": "16. What device acts as an intermediary between an internal client and a web resource?",
+            "A": "A) Router",
+            "B": "B) PBX",
+            "C": "C) VTC",
+            "D": "D) Proxy",
+            "answer": "D"
+      },
+      "71": {
+            "tag": "CEH",
+            "question": "17. Which technology allows the use of a single public address to support many internal clients while also preventing exposure of internal IP addresses to the outside world?",
+            "A": "A) VPN",
+            "B": "B) Tunneling",
+            "C": "C) NTP",
+            "D": "D) NAT",
+            "answer": "D"
+      },
+      "72": {
+            "tag": "CEH",
+            "question": "18. What network appliance senses irregularities and plays an active role in stopping that irregular activity from continuing?",
+            "A": "A) System administrator",
+            "B": "B) Firewall",
+            "C": "C) IPS",
+            "D": "D) IDP",
+            "answer": "C"
+      },
+      "73": {
+            "tag": "CEH",
+            "question": "19. You have selected the option in your IDS to notify you via email if it senses any network irregularities. Checking the logs, you notice a few incidents but you didn\u2019t receive any alerts. What protocol needs to be configured on the IDS?",
+            "A": "A) NTP",
+            "B": "B) SNMP",
+            "C": "C) POP3",
+            "D": "D) SMTP",
+            "answer": "D"
+      },
+      "74": {
+            "tag": "CEH",
+            "question": "20. Choosing a protective network appliance, you want a device that will inspect packets at the most granular level possible while providing improved traffic efficiency. What appliance would satisfy these requirements?",
+            "A": "A) Layer 3 switch",
+            "B": "B) NAT-enabled router",
+            "C": "C) Proxy firewall",
+            "D": "D) Application firewall",
+            "answer": "D"
+      },
+      "75": {
+            "tag": "CEH",
+            "question": "1. Symmetric cryptography is also known as __________.",
+            "A": "A) Shared key cryptography",
+            "B": "B) Public key cryptography",
+            "C": "C) Hashing",
+            "D": "D) Steganography",
+            "answer": "A"
+      },
+      "76": {
+            "tag": "CEH",
+            "question": "2. Which of the following manages digital certificates?",
+            "A": "A) Hub",
+            "B": "B) Key",
+            "C": "C) Public key",
+            "D": "D) Certificate authority",
+            "answer": "D"
+      },
+      "77": {
+            "tag": "CEH",
+            "question": "3. Asymmetric encryption is also referred to as which of the following?",
+            "A": "A) Shared key",
+            "B": "B) Public key",
+            "C": "C) Hashing",
+            "D": "D) Block",
+            "answer": "B"
+      },
+      "78": {
+            "tag": "CEH",
+            "question": "4. Which of the following best describes hashing?",
+            "A": "A) An algorithm",
+            "B": "B) A cipher",
+            "C": "C) Nonreversible",
+            "D": "D) A cryptosystem",
+            "answer": "C"
+      },
+      "79": {
+            "tag": "CEH",
+            "question": "5. A message digest is a product of which kind of algorithm?",
+            "A": "A) Symmetric",
+            "B": "B) Asymmetric",
+            "C": "C) Hashing",
+            "D": "D) Steganography",
+            "answer": "C"
+      },
+      "80": {
+            "tag": "CEH",
+            "question": "6. A public and private key system differs from symmetric because it uses which of the following?",
+            "A": "A) One key",
+            "B": "B) One algorithm",
+            "C": "C) Two keys",
+            "D": "D) Two algorithms",
+            "answer": "C"
+      },
+      "81": {
+            "tag": "CEH",
+            "question": "7. A public key is stored on the local computer by its owner in a __________.",
+            "A": "A) Hash",
+            "B": "B) PKI system",
+            "C": "C) Smart card",
+            "D": "D) Private key",
+            "answer": "B"
+      },
+      "82": {
+            "tag": "CEH",
+            "question": "8. Symmetric key systems have key distribution problems due to __________.",
+            "A": "A) Number of keys",
+            "B": "B) Generation of key pairs",
+            "C": "C) Amount of data",
+            "D": "D) Type of data",
+            "answer": "A"
+      },
+      "83": {
+            "tag": "CEH",
+            "question": "9. What does hashing preserve in relation to data?",
+            "A": "A) Integrity",
+            "B": "B) Confidentiality",
+            "C": "C) Availability",
+            "D": "D) Repudiation",
+            "answer": "A"
+      },
+      "84": {
+            "tag": "CEH",
+            "question": "10. Which of the following is a common hashing protocol?",
+            "A": "A) MD5",
+            "B": "B) AES",
+            "C": "C) DES",
+            "D": "D) RSA",
+            "answer": "A"
+      },
+      "85": {
+            "tag": "CEH",
+            "question": "11. Which of the following best describes PGP?",
+            "A": "A) A symmetric algorithm",
+            "B": "B) A type of key",
+            "C": "C) A way of encrypting data in a reversible method",
+            "D": "D) A key escrow system",
+            "answer": "C"
+      },
+      "86": {
+            "tag": "CEH",
+            "question": "12. SSL is a mechanism for which of the following?",
+            "A": "A) Securing stored data",
+            "B": "B) Securing transmitted data",
+            "C": "C) Verifying data",
+            "D": "D) Authenticating data",
+            "answer": "B"
+      },
+      "87": {
+            "tag": "CEH",
+            "question": "13. Which system does SSL use to function?",
+            "A": "A) AES",
+            "B": "B) DES",
+            "C": "C) 3DES",
+            "D": "D) PKI",
+            "answer": "D"
+      },
+      "88": {
+            "tag": "CEH",
+            "question": "14. In IPsec, encryption and other processes happen at which layer of the OSI model?",
+            "A": "A) Level 1",
+            "B": "B) Level 2",
+            "C": "C) Level 3",
+            "D": "D) Level 4",
+            "answer": "C"
+      },
+      "89": {
+            "tag": "CEH",
+            "question": "15. In IPsec, what does Authentication Header (AH) provide?",
+            "A": "A) Data security",
+            "B": "B) Header security",
+            "C": "C) Authentication services",
+            "D": "D) Encryption",
+            "answer": "C"
+      },
+      "90": {
+            "tag": "CEH",
+            "question": "16. In IPsec, what does Encapsulating Security Payload (ESP) provide?",
+            "A": "A) Data security",
+            "B": "B) Header security",
+            "C": "C) Authentication services",
+            "D": "D) Integrity",
+            "answer": "A"
+      },
+      "91": {
+            "tag": "CEH",
+            "question": "17. At what point can SSL be used to protect data?",
+            "A": "A) On a hard drive",
+            "B": "B) On a flash drive",
+            "C": "C) On Bluetooth",
+            "D": "D) During transmission",
+            "answer": "D"
+      },
+      "92": {
+            "tag": "CEH",
+            "question": "18. Which of the following does IPsec use?",
+            "A": "A) SSL",
+            "B": "B) AES",
+            "C": "C) DES",
+            "D": "D) PKI",
+            "answer": "D"
+      },
+      "93": {
+            "tag": "CEH",
+            "question": "19. Who first developed SSL?",
+            "A": "A) Netscape",
+            "B": "B) Microsoft",
+            "C": "C) Sun",
+            "D": "D) Oracle",
+            "answer": "A"
+      },
+      "94": {
+            "tag": "CEH",
+            "question": "20. IPsec uses which two modes?",
+            "A": "A) AH/ESP",
+            "B": "B) AES/DES",
+            "C": "C) EH/ASP",
+            "D": "D) AES/ESP",
+            "answer": "A"
+      },
+      "95": {
+            "tag": "CEH",
+            "question": "1. Which of the following best describes footprinting?",
+            "A": "A) Enumeration of services",
+            "B": "B) Discovery of services",
+            "C": "C) Discussion with people",
+            "D": "D) Investigation of a target",
+            "answer": "D"
+      },
+      "96": {
+            "tag": "CEH",
+            "question": "2. Which of the following is not typically used during footprinting?",
+            "A": "A) Search engines",
+            "B": "B) Email",
+            "C": "C) Port scanning",
+            "D": "D) Google hacking",
+            "answer": "C"
+      },
+      "97": {
+            "tag": "CEH",
+            "question": "3. Why use Google hacking?",
+            "A": "A) To fine-tune search results",
+            "B": "B) To speed up searches",
+            "C": "C) To target a domain",
+            "D": "D) To look for information about Google",
+            "answer": "A"
+      },
+      "98": {
+            "tag": "CEH",
+            "question": "4. What is the role of social engineering?",
+            "A": "A) To gain information about computers",
+            "B": "B) To gain information about social media",
+            "C": "C) To gain information from human beings",
+            "D": "D) To gain information about posts and cameras",
+            "answer": "C"
+      },
+      "99": {
+            "tag": "CEH",
+            "question": "5. What is EDGAR used to do?",
+            "A": "A) Validate personnel",
+            "B": "B) Check financial filings",
+            "C": "C) Verify a website",
+            "D": "D) Gain technical details",
+            "answer": "B"
+      },
+      "100": {
+            "tag": "CEH",
+            "question": "6. Which of the following can be used to tweak or fine-tune search results?",
+            "A": "A) Archiving",
+            "B": "B) Operators",
+            "C": "C) Hacking",
+            "D": "D) Refining",
+            "answer": "B"
+      },
+      "101": {
+            "tag": "CEH",
+            "question": "7. Which of the following can an attacker use to determine the technology and structure within an organization?",
+            "A": "A) Job boards",
+            "B": "B) Archives",
+            "C": "C) Google hacking",
+            "D": "D) Social engineering",
+            "answer": "A"
+      },
+      "102": {
+            "tag": "CEH",
+            "question": "8. Which of the following can be used to assess physical security?",
+            "A": "A) Web cams",
+            "B": "B) Satellite photos",
+            "C": "C) Street views",
+            "D": "D) Interviews",
+            "answer": "C"
+      },
+      "103": {
+            "tag": "CEH",
+            "question": "9. Which of the following can help you determine business processes of your target through human interaction?",
+            "A": "A) Social engineering",
+            "B": "B) Email",
+            "C": "C) Website",
+            "D": "D) Job boards",
+            "answer": "A"
+      },
+      "104": {
+            "tag": "CEH",
+            "question": "10. The Wayback Machine is used to do which of the following?",
+            "A": "A) Get job postings",
+            "B": "B) View websites",
+            "C": "C) View archived versions of websites",
+            "D": "D) Backup copies of websites",
+            "answer": "C"
+      },
+      "105": {
+            "tag": "CEH",
+            "question": "11. Which record will reveal information about a mail server for a domain?",
+            "A": "A) A",
+            "B": "B) Q",
+            "C": "C) MS",
+            "D": "D) MX",
+            "answer": "D"
+      },
+      "106": {
+            "tag": "CEH",
+            "question": "12. Which tool can be used to view web server information?",
+            "A": "A) Netstat",
+            "B": "B) Netcraft",
+            "C": "C) Warcraft",
+            "D": "D) Packetcraft",
+            "answer": "B"
+      },
+      "107": {
+            "tag": "CEH",
+            "question": "13. What can be configured in most search engines to monitor and alert you of changes to content?",
+            "A": "A) Notifications",
+            "B": "B) Schedules",
+            "C": "C) Alerts",
+            "D": "D) HTTP",
+            "answer": "C"
+      },
+      "108": {
+            "tag": "CEH",
+            "question": "14. What phase comes after footprinting?",
+            "A": "A) System hacking",
+            "B": "B) Enumeration",
+            "C": "C) Scanning",
+            "D": "D) Transfer files",
+            "answer": "C"
+      },
+      "109": {
+            "tag": "CEH",
+            "question": "15. If you can\u2019t gain enough information directly from a target, what is another option?",
+            "A": "A) EDGAR",
+            "B": "B) Social engineering",
+            "C": "C) Scanning",
+            "D": "D) Competitive analysis",
+            "answer": "D"
+      },
+      "110": {
+            "tag": "CEH",
+            "question": "16. What is the purpose of social engineering?",
+            "A": "A) Gain information from a computer through networking and other tools",
+            "B": "B) Gain information from the web looking for employee names",
+            "C": "C) Gain information from a job site using a careful eye",
+            "D": "D) Gain information from a human being through face-to-face or electronic means",
+            "answer": "D"
+      },
+      "111": {
+            "tag": "CEH",
+            "question": "17. Which of the following would be a very effective source of information as it relates to social engineering?",
+            "A": "A) Social networking",
+            "B": "B) Port scanning",
+            "C": "C) Websites",
+            "D": "D) Job boards",
+            "answer": "A"
+      },
+      "112": {
+            "tag": "CEH",
+            "question": "18. Footprinting can determine all of the following except __________?",
+            "A": "A) Hardware types",
+            "B": "B) Software types",
+            "C": "C) Business processes",
+            "D": "D) Distribution and number of personnel",
+            "answer": "D"
+      },
+      "113": {
+            "tag": "CEH",
+            "question": "19. Footprinting has two phases. What are they?",
+            "A": "A) Active and pseudonymous",
+            "B": "B) Active and passive",
+            "C": "C) Social and anonymous",
+            "D": "D) Scanning and enumerating",
+            "answer": "B"
+      },
+      "114": {
+            "tag": "CEH",
+            "question": "20. Which tool can trace the path of a packet?",
+            "A": "A) Ping",
+            "B": "B) Tracert",
+            "C": "C) Whois",
+            "D": "D) DNS",
+            "answer": "B"
+      },
+      "115": {
+            "tag": "CEH",
+            "question": "1. Which of the following is used for banner grabbing?",
+            "A": "A) Telnet",
+            "B": "B) FTP",
+            "C": "C) SSH",
+            "D": "D) Wireshark",
+            "answer": "A"
+      },
+      "116": {
+            "tag": "CEH",
+            "question": "2. Which of the following is used for identifying a web server OS?",
+            "A": "A) Telnet",
+            "B": "B) Netcraft",
+            "C": "C) Fragroute",
+            "D": "D) Wireshark",
+            "answer": "B"
+      },
+      "117": {
+            "tag": "CEH",
+            "question": "3. Which of the following is used to perform customized network scans?",
+            "A": "A) Nessus",
+            "B": "B) Wireshark",
+            "C": "C) AirPcap",
+            "D": "D) nmap",
+            "answer": "D"
+      },
+      "118": {
+            "tag": "CEH",
+            "question": "4. Which of the following is not a flag on a packet?",
+            "A": "A) URG",
+            "B": "B) PSH",
+            "C": "C) RST",
+            "D": "D) END",
+            "answer": "D"
+      },
+      "119": {
+            "tag": "CEH",
+            "question": "5. An SYN attack uses which protocol?",
+            "A": "A) TCP",
+            "B": "B) UDP",
+            "C": "C) HTTP",
+            "D": "D) Telnet",
+            "answer": "A"
+      },
+      "120": {
+            "tag": "CEH",
+            "question": "6. Which of the following types of attack has no flags set?",
+            "A": "A) SYN",
+            "B": "B) NULL",
+            "C": "C) Xmas tree",
+            "D": "D) FIN",
+            "answer": "B"
+      },
+      "121": {
+            "tag": "CEH",
+            "question": "7. What is missing from a half-open scan?",
+            "A": "A) SYN",
+            "B": "B) ACK",
+            "C": "C) SYN-ACK",
+            "D": "D) FIN",
+            "answer": "B"
+      },
+      "122": {
+            "tag": "CEH",
+            "question": "8. During an FIN scan, what indicates that a port is closed?",
+            "A": "A) No return response",
+            "B": "B) RST",
+            "C": "C) ACK",
+            "D": "D) SYN",
+            "answer": "B"
+      },
+      "123": {
+            "tag": "CEH",
+            "question": "9. During a Xmas tree scan what indicates a port is closed?",
+            "A": "A) No return response",
+            "B": "B) RST",
+            "C": "C) ACK",
+            "D": "D) SYN",
+            "answer": "B"
+      },
+      "124": {
+            "tag": "CEH",
+            "question": "10. What is the three-way handshake?",
+            "A": "A) The opening sequence of a TCP connection",
+            "B": "B) A type of half-open scan",
+            "C": "C) A Xmas tree scan",
+            "D": "D) Part of a UDP scan",
+            "answer": "A"
+      },
+      "125": {
+            "tag": "CEH",
+            "question": "11. A full-open scan means that the three-way handshake has been completed. What is the difference between this and a half-open scan?",
+            "A": "A) A half-open uses TCP.",
+            "B": "B) A half-open uses UDP.",
+            "C": "C) A half-open does not include the final ACK.",
+            "D": "D) A half-open includes the final ACK.",
+            "answer": "C"
+      },
+      "126": {
+            "tag": "CEH",
+            "question": "12. What is the sequence of the three-way handshake?",
+            "A": "A) SYN, SYN-ACK, ACK",
+            "B": "B) SYN, SYN-ACK",
+            "C": "C) SYN, ACK, SYN-ACK",
+            "D": "D) SYN, ACK, ACK",
+            "answer": "A"
+      },
+      "127": {
+            "tag": "CEH",
+            "question": "13. What is an ICMP echo scan?",
+            "A": "A) A ping sweep",
+            "B": "B) A SYN scan",
+            "C": "C) A Xmas tree scan",
+            "D": "D) Part of a UDP scan",
+            "answer": "A"
+      },
+      "128": {
+            "tag": "CEH",
+            "question": "14. Which best describes a vulnerability scan?",
+            "A": "A) A way to find open ports",
+            "B": "B) A way to diagram a network",
+            "C": "C) A proxy attack",
+            "D": "D) A way to automate the discovery of vulnerabilities",
+            "answer": "D"
+      },
+      "129": {
+            "tag": "CEH",
+            "question": "15. What is the purpose of a proxy?",
+            "A": "A) To assist in scanning",
+            "B": "B) To perform a scan",
+            "C": "C) To keep a scan hidden",
+            "D": "D) To automate the discovery of vulnerabilities",
+            "answer": "C"
+      },
+      "130": {
+            "tag": "CEH",
+            "question": "16. What is Tor used for?",
+            "A": "A) To hide web browsing",
+            "B": "B) To hide the process of scanning",
+            "C": "C) To automate scanning",
+            "D": "D) To hide the banner on a system",
+            "answer": "B"
+      },
+      "131": {
+            "tag": "CEH",
+            "question": "17. Why would you need to use a proxy to perform scanning?",
+            "A": "A) To enhance anonymity",
+            "B": "B) To fool firewalls",
+            "C": "C) Perform half-open scans",
+            "D": "D) To perform full-open scans",
+            "answer": "A"
+      },
+      "132": {
+            "tag": "CEH",
+            "question": "18. A vulnerability scan is a good way to do what?",
+            "A": "A) Find open ports",
+            "B": "B) Find weaknesses",
+            "C": "C) Find operating systems",
+            "D": "D) Identify hardware",
+            "answer": "A"
+      },
+      "133": {
+            "tag": "CEH",
+            "question": "19. A banner can do what?",
+            "A": "A) Identify an OS",
+            "B": "B) Help during scanning",
+            "C": "C) Identify weaknesses",
+            "D": "D) Identify a service",
+            "answer": "D"
+      },
+      "134": {
+            "tag": "CEH",
+            "question": "20. Nmap is required to perform what type of scan?",
+            "A": "A) Port scan",
+            "B": "B) Vulnerability scan",
+            "C": "C) Service scan",
+            "D": "D) Threat scan",
+            "answer": "A"
+      },
+      "135": {
+            "tag": "CEH",
+            "question": "1. Enumeration is useful to system hacking because it provides which of the following?",
+            "A": "A) Passwords",
+            "B": "B) IP ranges",
+            "C": "C) Configurations",
+            "D": "D) Usernames",
+            "answer": "D"
+      },
+      "136": {
+            "tag": "CEH",
+            "question": "2. Enumeration does not uncover which of the following pieces of information?",
+            "A": "A) Services",
+            "B": "B) User accounts",
+            "C": "C) Ports",
+            "D": "D) Shares",
+            "answer": "C"
+      },
+      "137": {
+            "tag": "CEH",
+            "question": "3. __________ involves grabbing a copy of a zone file.",
+            "A": "A) Zone transfer",
+            "B": "B) nslookup transfers",
+            "C": "C) DNS transfer",
+            "D": "D) Zone update",
+            "answer": "A"
+      },
+      "138": {
+            "tag": "CEH",
+            "question": "4. Which of the following would confirm a user named chell in SMTP?",
+            "A": "A) vrfy chell",
+            "B": "B) vrfy \u2013u chell",
+            "C": "C) expn chell",
+            "D": "D) expn \u2013u chell",
+            "answer": "A"
+      },
+      "139": {
+            "tag": "CEH",
+            "question": "5. VRFY is used to do which of the following?",
+            "A": "A) Validate an email address",
+            "B": "B) Expand a mailing list",
+            "C": "C) Validate an email server",
+            "D": "D) Test a connection",
+            "answer": "A"
+      },
+      "140": {
+            "tag": "CEH",
+            "question": "6. __________ is a method for expanding an email list.",
+            "A": "A) VRFY",
+            "B": "B) EXPN",
+            "C": "C) RCPT TO",
+            "D": "D) SMTP",
+            "answer": "B"
+      },
+      "141": {
+            "tag": "CEH",
+            "question": "7. An attacker can use __________ to enumerate users on a system.",
+            "A": "A) NetBIOS",
+            "B": "B) TCP/IP",
+            "C": "C) NetBEUI",
+            "D": "D) NNTP",
+            "answer": "A"
+      },
+      "142": {
+            "tag": "CEH",
+            "question": "8. A __________ is used to connect to a remote system using NetBIOS.",
+            "A": "A) NULL session",
+            "B": "B) Hash",
+            "C": "C) Rainbow table",
+            "D": "D) Rootkit",
+            "answer": "A"
+      },
+      "143": {
+            "tag": "CEH",
+            "question": "9. __________ is used to synchronize clocks on a network.",
+            "A": "A) SAM",
+            "B": "B) NTP",
+            "C": "C) NetBIOS",
+            "D": "D) FTP",
+            "answer": "B"
+      },
+      "144": {
+            "tag": "CEH",
+            "question": "10. Port number __________ is used for SMTP.",
+            "A": "A) 25",
+            "B": "B) 110",
+            "C": "C) 389",
+            "D": "D) 52",
+            "answer": "A"
+      },
+      "145": {
+            "tag": "CEH",
+            "question": "11. Port number __________ is used by DNS for zone transfers.",
+            "A": "A) 53 TCP",
+            "B": "B) 53 UDP",
+            "C": "C) 25 TCP",
+            "D": "D) 25 UDP",
+            "answer": "A"
+      },
+      "146": {
+            "tag": "CEH",
+            "question": "12. Which command can be used to view NetBIOS information?",
+            "A": "A) netstat",
+            "B": "B) nmap",
+            "C": "C) nbtstat",
+            "D": "D) telnet",
+            "answer": "C"
+      },
+      "147": {
+            "tag": "CEH",
+            "question": "13. SNScan is used to access information for which protocol?",
+            "A": "A) SMTP",
+            "B": "B) FTP",
+            "C": "C) SNMP",
+            "D": "D) HTTP",
+            "answer": "C"
+      },
+      "148": {
+            "tag": "CEH",
+            "question": "14. SMTP is used to perform which function?",
+            "A": "A) Monitor network equipment",
+            "B": "B) Transmit status information",
+            "C": "C) Send email messages",
+            "D": "D) Transfer files",
+            "answer": "C"
+      },
+      "149": {
+            "tag": "CEH",
+            "question": "15. Which ports does SNMP use to function?",
+            "A": "A) 160 and 161",
+            "B": "B) 160 and 162",
+            "C": "C) 389 and 160",
+            "D": "D) 161 and 162",
+            "answer": "D"
+      },
+      "150": {
+            "tag": "CEH",
+            "question": "16. LDAP is used to perform which function?",
+            "A": "A) Query a network",
+            "B": "B) Query a database",
+            "C": "C) Query a directory",
+            "D": "D) Query a file system",
+            "answer": "B"
+      },
+      "151": {
+            "tag": "CEH",
+            "question": "17. SNMP is used to do which of the following?",
+            "A": "A) Transfer files",
+            "B": "B) Synchronize clocks",
+            "C": "C) Monitor network devices",
+            "D": "D) Retrieve mail from a server",
+            "answer": "C"
+      },
+      "152": {
+            "tag": "CEH",
+            "question": "18. SNMP is used to perform which function in relation to hardware?",
+            "A": "A) Trap messages",
+            "B": "B) Monitor and manage traffic",
+            "C": "C) Manage users and groups",
+            "D": "D) Monitor security and violations",
+            "answer": "A"
+      },
+      "153": {
+            "tag": "CEH",
+            "question": "19. What is an SID used to do?",
+            "A": "A) Identify permissions",
+            "B": "B) Identify a domain controller",
+            "C": "C) Identify a user",
+            "D": "D) Identify a mail account",
+            "answer": "C"
+      },
+      "154": {
+            "tag": "CEH",
+            "question": "20. A DNS zone transfer is used to do which of the following?",
+            "A": "A) Copy files",
+            "B": "B) Perform searches",
+            "C": "C) Synchronize server information",
+            "D": "D) Decommission servers",
+            "answer": "C"
+      },
+      "155": {
+            "tag": "CEH",
+            "question": "1. Enumeration is useful to system hacking because it provides __________.",
+            "A": "A) Passwords",
+            "B": "B) IP ranges",
+            "C": "C) Configuration",
+            "D": "D) Usernames",
+            "answer": "A,D"
+      },
+      "156": {
+            "tag": "CEH",
+            "question": "2. What does the enumeration phase not discover?",
+            "A": "A) Services",
+            "B": "B) User accounts",
+            "C": "C) Ports",
+            "D": "D) Shares",
+            "answer": "C"
+      },
+      "157": {
+            "tag": "CEH",
+            "question": "3. How would you use Netcat to set up a server on a system?",
+            "A": "A) nc \u2013l \u2013p 192.168.1.1",
+            "B": "B) nc \u2013l \u2013p 1000",
+            "C": "C) nc \u2013p \u2013u 1000",
+            "D": "D) nc \u2013l \u2013p \u2013t 192.168.1.1",
+            "answer": "A"
+      },
+      "158": {
+            "tag": "CEH",
+            "question": "4. __________ is the process of exploiting services on a system.",
+            "A": "A) System hacking",
+            "B": "B) Privilege escalation",
+            "C": "C) Enumeration",
+            "D": "D) Backdoor",
+            "answer": "A"
+      },
+      "159": {
+            "tag": "CEH",
+            "question": "5. How is a brute-force attack performed?",
+            "A": "A) By trying all possible combinations of characters",
+            "B": "B) By trying dictionary words",
+            "C": "C) By capturing hashes",
+            "D": "D) By comparing hashes",
+            "answer": "A"
+      },
+      "160": {
+            "tag": "CEH",
+            "question": "6. A __________ is a type of offline attack.",
+            "A": "A) Cracking attack",
+            "B": "B) Rainbow attack",
+            "C": "C) Birthday attack",
+            "D": "D) Hashing attack",
+            "answer": "B"
+      },
+      "161": {
+            "tag": "CEH",
+            "question": "7. An attacker can use a(n) __________ to return to a system.",
+            "A": "A) Backdoor",
+            "B": "B) Cracker",
+            "C": "C) Account",
+            "D": "D) Service",
+            "answer": "A"
+      },
+      "162": {
+            "tag": "CEH",
+            "question": "8. A __________ is used to represent a password.",
+            "A": "A) NULL session",
+            "B": "B) Hash",
+            "C": "C) Rainbow table",
+            "D": "D) Rootkit",
+            "answer": "B"
+      },
+      "163": {
+            "tag": "CEH",
+            "question": "9. A __________ is a file used to store passwords.",
+            "A": "A) Network",
+            "B": "B) SAM",
+            "C": "C) Database",
+            "D": "D) NetBIOS",
+            "answer": "B"
+      },
+      "164": {
+            "tag": "CEH",
+            "question": "10. __________ is a hash used to store passwords in older Windows systems.",
+            "A": "A) LM",
+            "B": "B) SSL",
+            "C": "C) SAM",
+            "D": "D) LMv2",
+            "answer": "A"
+      },
+      "165": {
+            "tag": "CEH",
+            "question": "11. __________ is used to partially encrypt the SAM.",
+            "A": "A) SYSKEY",
+            "B": "B) SAM",
+            "C": "C) NTLM",
+            "D": "D) LM",
+            "answer": "A"
+      },
+      "166": {
+            "tag": "CEH",
+            "question": "12. Which system should be used instead of LM or NTLM?",
+            "A": "A) NTLMv2",
+            "B": "B) SSL",
+            "C": "C) Kerberos",
+            "D": "D) LM",
+            "answer": "C"
+      },
+      "167": {
+            "tag": "CEH",
+            "question": "13. NTLM provides what benefit versus LM?",
+            "A": "A) Performance",
+            "B": "B) Security",
+            "C": "C) Mutual authentication",
+            "D": "D) SSL",
+            "answer": "B"
+      },
+      "168": {
+            "tag": "CEH",
+            "question": "14. ADS requires what to be present?",
+            "A": "A) SAM",
+            "B": "B) Domain",
+            "C": "C) NTFS",
+            "D": "D) FAT",
+            "answer": "C"
+      },
+      "169": {
+            "tag": "CEH",
+            "question": "15. What utility may be used to stop auditing or logging of events?",
+            "A": "A) ADS",
+            "B": "B) LM",
+            "C": "C) NTFS",
+            "D": "D) Auditpol",
+            "answer": "D"
+      },
+      "170": {
+            "tag": "CEH",
+            "question": "16. On newer Windows systems, what hashing mechanism is disabled?",
+            "A": "A) Kerberos",
+            "B": "B) LM",
+            "C": "C) NTLM",
+            "D": "D) NTLMv2",
+            "answer": "B"
+      },
+      "171": {
+            "tag": "CEH",
+            "question": "17. Which of the following is a utility used to reset passwords?",
+            "A": "A) TRK",
+            "B": "B) ERC",
+            "C": "C) WinRT",
+            "D": "D) IRD",
+            "answer": "A"
+      },
+      "172": {
+            "tag": "CEH",
+            "question": "18. A good defense against password guessing is __________.",
+            "A": "A) Complex passwords",
+            "B": "B) Password policy",
+            "C": "C) Fingerprints",
+            "D": "D) Use of NTLM",
+            "answer": "A"
+      },
+      "173": {
+            "tag": "CEH",
+            "question": "19. If a domain controller is not present, what can be used instead?",
+            "A": "A) Kerberos",
+            "B": "B) LM",
+            "C": "C) NTLMv1",
+            "D": "D) NTLMv2",
+            "answer": "D"
+      },
+      "174": {
+            "tag": "CEH",
+            "question": "20. Alternate Data Streams are supported in which file systems?",
+            "A": "A) FAT16",
+            "B": "B) FAT32",
+            "C": "C) NTFS",
+            "D": "D) CDFS",
+            "answer": "C"
+      },
+      "175": {
+            "tag": "CEH",
+            "question": "1. Which statement(s) defines malware most accurately?",
+            "A": "A) Malware is a form of virus.",
+            "B": "B) Trojans are malware.",
+            "C": "C) Malware covers all malicious software.",
+            "D": "D) Malware only covers spyware.",
+            "answer": "B,C"
+      },
+      "176": {
+            "tag": "CEH",
+            "question": "2. Which is/are a characteristic of a virus?",
+            "A": "A) A virus is malware.",
+            "B": "B) A virus replicates on its own.",
+            "C": "C) A virus replicates with user interaction.",
+            "D": "D) A virus is an item that runs silently.",
+            "answer": "A,C"
+      },
+      "177": {
+            "tag": "CEH",
+            "question": "3. A virus does not do which of the following?",
+            "A": "A) Replicate with user interaction",
+            "B": "B) Change configuration settings",
+            "C": "C) Exploit vulnerabilities",
+            "D": "D) Display pop-ups",
+            "answer": "D"
+      },
+      "178": {
+            "tag": "CEH",
+            "question": "4. Which of the following is/are true of a worm?",
+            "A": "A) A worm is malware.",
+            "B": "B) A worm replicates on its own.",
+            "C": "C) A worm replicates with user interaction.",
+            "D": "D) A worm is an item that runs silently.",
+            "answer": "A"
+      },
+      "179": {
+            "tag": "CEH",
+            "question": "5. What are worms typically known for?",
+            "A": "A) Rapid replication",
+            "B": "B) Configuration changes",
+            "C": "C) Identity theft",
+            "D": "D) DDoS",
+            "answer": "A"
+      },
+      "180": {
+            "tag": "CEH",
+            "question": "6. What command is used to listen to open ports with netstat?",
+            "A": "A) netstat -an",
+            "B": "B) netstat -ports",
+            "C": "C) netstat -n",
+            "D": "D) netstat -s",
+            "answer": "A"
+      },
+      "181": {
+            "tag": "CEH",
+            "question": "7. Which utility will tell you in real time which ports are listening or in another state?",
+            "A": "A) Netstat",
+            "B": "B) TCPView",
+            "C": "C) Nmap",
+            "D": "D) Loki",
+            "answer": "B"
+      },
+      "182": {
+            "tag": "CEH",
+            "question": "8. Which of the following is not a Trojan?",
+            "A": "A) BO2K",
+            "B": "B) LOKI",
+            "C": "C) Subseven",
+            "D": "D) TCPTROJAN",
+            "answer": "D"
+      },
+      "183": {
+            "tag": "CEH",
+            "question": "9. What is not a benefit of hardware keyloggers?",
+            "A": "A) Easy to hide",
+            "B": "B) Difficult to install",
+            "C": "C) Difficult to detect",
+            "D": "D) Difficult to log",
+            "answer": "B"
+      },
+      "184": {
+            "tag": "CEH",
+            "question": "10. Which of the following is capable of port redirection?",
+            "A": "A) Netstat",
+            "B": "B) TCPView",
+            "C": "C) Netcat",
+            "D": "D) Loki",
+            "answer": "C"
+      },
+      "185": {
+            "tag": "CEH",
+            "question": "11. A Trojan relies on __________ to be activated.",
+            "A": "A) Vulnerabilities",
+            "B": "B) Trickery and deception",
+            "C": "C) Social engineering",
+            "D": "D) Port redirection",
+            "answer": "C"
+      },
+      "186": {
+            "tag": "CEH",
+            "question": "12. A Trojan can include which of the following?",
+            "A": "A) RAT",
+            "B": "B) TCP",
+            "C": "C) Nmap",
+            "D": "D) Loki",
+            "answer": "A"
+      },
+      "187": {
+            "tag": "CEH",
+            "question": "13. What is a covert channel?",
+            "A": "A) An obvious method of using a system",
+            "B": "B) A defined process in a system",
+            "C": "C) A backdoor",
+            "D": "D) A Trojan on a system",
+            "answer": "C"
+      },
+      "188": {
+            "tag": "CEH",
+            "question": "14. An overt channel is __________.",
+            "A": "A) An obvious method of using a system",
+            "B": "B) A defined backdoor process in a system",
+            "C": "C) A backdoor",
+            "D": "D) A Trojan on a system",
+            "answer": "A"
+      },
+      "189": {
+            "tag": "CEH",
+            "question": "15. A covert channel or backdoor may be detected using all of the following except __________.",
+            "A": "A) Nmap",
+            "B": "B) Sniffers",
+            "C": "C) An SDK",
+            "D": "D) Netcat",
+            "answer": "C"
+      },
+      "190": {
+            "tag": "CEH",
+            "question": "16. A remote access Trojan would be used to do all of the following except __________.",
+            "A": "A) Steal information",
+            "B": "B) Remotely control a system",
+            "C": "C) Sniff traffic",
+            "D": "D) Attack another system",
+            "answer": "C"
+      },
+      "191": {
+            "tag": "CEH",
+            "question": "17. A logic bomb has how many parts, typically?",
+            "A": "A) One",
+            "B": "B) Two",
+            "C": "C) Three",
+            "D": "D) Four",
+            "answer": "B"
+      },
+      "192": {
+            "tag": "CEH",
+            "question": "18. A logic bomb is activated by which of the following?",
+            "A": "A) Time and date",
+            "B": "B) Vulnerability",
+            "C": "C) Actions",
+            "D": "D) Events",
+            "answer": "A"
+      },
+      "193": {
+            "tag": "CEH",
+            "question": "19. A polymorphic virus __________.",
+            "A": "A) Evades detection through backdoors",
+            "B": "B) Evades detection through heuristics",
+            "C": "C) Evades detection through rewriting itself",
+            "D": "D) Evades detection through luck",
+            "answer": "C"
+      },
+      "194": {
+            "tag": "CEH",
+            "question": "20. A sparse infector virus __________.",
+            "A": "A) Creates backdoors",
+            "B": "B) Infects data and executables",
+            "C": "C) Infects files selectively",
+            "D": "D) Rewrites itself",
+            "answer": "C"
+      },
+      "195": {
+            "tag": "CEH",
+            "question": "1. On a switch, each switchport represents a ____________.",
+            "A": "A) VLAN",
+            "B": "B) Broadcast domain",
+            "C": "C) Host",
+            "D": "D) Collision domain",
+            "answer": "D"
+      },
+      "196": {
+            "tag": "CEH",
+            "question": "2. Wireless access points function as a ____________.",
+            "A": "A) Hub",
+            "B": "B) Bridge",
+            "C": "C) Router",
+            "D": "D) Repeater",
+            "answer": "A"
+      },
+      "197": {
+            "tag": "CEH",
+            "question": "3. What mode must be configured to allow an NIC to capture all traffic on the wire?",
+            "A": "A) Extended mode",
+            "B": "B) 10/100",
+            "C": "C) Monitor mode",
+            "D": "D) Promiscuous mode",
+            "answer": "D"
+      },
+      "198": {
+            "tag": "CEH",
+            "question": "4. Which of the following prevents ARP poisoning?",
+            "A": "A) ARP Ghost",
+            "B": "B) IP DHCP Snooping",
+            "C": "C) IP Snoop",
+            "D": "D) DNSverf",
+            "answer": "B"
+      },
+      "199": {
+            "tag": "CEH",
+            "question": "5. Jennifer is a system administrator who is researching a technology that will secure network traffic from potential sniffing by unauthorized machines. Jennifer is not concerned with the future impact on legitimate troubleshooting. What technology can Jennifer implement?",
+            "A": "A) SNMP",
+            "B": "B) LDAP",
+            "C": "C) SSH",
+            "D": "D) FTP",
+            "answer": "C"
+      },
+      "200": {
+            "tag": "CEH",
+            "question": "7. Bob is attempting to sniff a wired network in his first pen test contract. He sees only traffic from the segment he is connected to. What can Bob do to gather all switch traffic?",
+            "A": "A) MAC flooding",
+            "B": "B) MAC spoofing",
+            "C": "C) IP spoofing",
+            "D": "D) DOS attack",
+            "answer": "A"
+      },
+      "201": {
+            "tag": "CEH",
+            "question": "8. What technique funnels all traffic back to a single client, allowing sniffing from all connected hosts?",
+            "A": "A) ARP redirection",
+            "B": "B) ARP poisoning",
+            "C": "C) ARP flooding",
+            "D": "D) ARP partitioning",
+            "answer": "B"
+      },
+      "202": {
+            "tag": "CEH",
+            "question": "9. Which Wireshark filter displays only traffic from 192.168.1.1?",
+            "A": "A) ip.addr =! 192.168.1.1",
+            "B": "B) ip.addr ne 192.168.1.1",
+            "C": "C) ip.addr == 192.168.1.1",
+            "D": "D) ip.addr \u2013 192.168.1.1",
+            "answer": "C"
+      },
+      "203": {
+            "tag": "CEH",
+            "question": "10. What common tool can be used for launching an ARP poisoning attack?",
+            "A": "A) Cain & Abel",
+            "B": "B) Nmap",
+            "C": "C) Scooter",
+            "D": "D) Tcpdump",
+            "answer": "A"
+      },
+      "204": {
+            "tag": "CEH",
+            "question": "11. Which command launches a CLI version of Wireshark?",
+            "A": "A) Wireshk",
+            "B": "B) dumpcap",
+            "C": "C) tshark",
+            "D": "D) editcap",
+            "answer": "C"
+      },
+      "205": {
+            "tag": "CEH",
+            "question": "12. Jennifer is using tcpdump to capture traffic on her network. She would like to save the capture for later review. What command can Jennifer use?",
+            "A": "A) tcpdump \u2013r capture.log",
+            "B": "B) tcpdump \u2013l capture.log",
+            "C": "C) tcpdump \u2013t capture.log",
+            "D": "D) tcpdump \u2013w capture.log",
+            "answer": "D"
+      },
+      "206": {
+            "tag": "CEH",
+            "question": "13. What is the generic syntax of a Wireshark filter?",
+            "A": "A) protocol.field operator value",
+            "B": "B) field.protocol operator value",
+            "C": "C) operator.protocol value field",
+            "D": "D) protocol.operator value field",
+            "answer": "A"
+      },
+      "207": {
+            "tag": "CEH",
+            "question": "14. Tiffany is analyzing a capture from a client\u2019s network. She is particularly interested in NetBIOS traffic. What port does Tiffany filter for?",
+            "A": "A) 123",
+            "B": "B) 139",
+            "C": "C) 161",
+            "D": "D) 110",
+            "answer": "B"
+      },
+      "208": {
+            "tag": "CEH",
+            "question": "16. Jennifer is using tcpdump to capture traffic on her network. She would like to review a capture log gathered previously. What command can Jennifer use?",
+            "A": "A) tcpdump \u2013r capture.log",
+            "B": "B) tcpdump \u2013 l capture.log",
+            "C": "C) tcpdump \u2013t capture.log",
+            "D": "D) tcpdump \u2013w capture.log",
+            "answer": "A"
+      },
+      "209": {
+            "tag": "CEH",
+            "question": "17. Wireshark requires a network card to be able to enter which mode to sniff all network traffic?",
+            "A": "A) Capture mode",
+            "B": "B) Promiscuous mode",
+            "C": "C) Pcap mode",
+            "D": "D) Gather mode",
+            "answer": "B"
+      },
+      "210": {
+            "tag": "CEH",
+            "question": "18. Which network device can block sniffing to a single network collision domain, create VLANs, and make use of SPAN ports and port mirroring?",
+            "A": "A) Hub",
+            "B": "B) Switch",
+            "C": "C) Router",
+            "D": "D) Bridge",
+            "answer": "B"
+      },
+      "211": {
+            "tag": "CEH",
+            "question": "19. What device will neither limit the flow of traffic nor have an impact on the effectiveness of sniffing?",
+            "A": "A) Hub",
+            "B": "B) Router",
+            "C": "C) Switch",
+            "D": "D) Gateway",
+            "answer": "A"
+      },
+      "212": {
+            "tag": "CEH",
+            "question": "20. The command-line equivalent of WinDump is known as what?",
+            "A": "A) Wireshark",
+            "B": "B) Tcpdump",
+            "C": "C) WinDump",
+            "D": "D) Netstat",
+            "answer": "B"
+      },
+      "213": {
+            "tag": "CEH",
+            "question": "1. Phishing takes place using __________.",
+            "A": "A) Instant messaging",
+            "B": "B) Email",
+            "C": "C) Websites",
+            "D": "D) Piggybacking",
+            "answer": "B"
+      },
+      "214": {
+            "tag": "CEH",
+            "question": "2. Training and education of end users can be used to prevent __________.",
+            "A": "A) Phishing",
+            "B": "B) Tailgating/piggybacking",
+            "C": "C) Session hijacking",
+            "D": "D) Wireshark",
+            "answer": "A,B"
+      },
+      "215": {
+            "tag": "CEH",
+            "question": "3. Social engineering can be thwarted using what kinds of controls?",
+            "A": "A) Technical",
+            "B": "B) Administrative",
+            "C": "C) Physical",
+            "D": "D) Proactive controls",
+            "answer": "A,B,C"
+      },
+      "216": {
+            "tag": "CEH",
+            "question": "4. Social engineering preys on many weaknesses, including __________.",
+            "A": "A) Technology",
+            "B": "B) People",
+            "C": "C) Human nature",
+            "D": "D) Physical",
+            "answer": "A,B,C,D"
+      },
+      "217": {
+            "tag": "CEH",
+            "question": "5. Social engineering can use all the following except __________.",
+            "A": "A) Mobile phones",
+            "B": "B) Instant messaging",
+            "C": "C) Trojan horses",
+            "D": "D) Viruses",
+            "answer": "D"
+      },
+      "218": {
+            "tag": "CEH",
+            "question": "6. Social engineering is designed to __________.",
+            "A": "A) Manipulate human behavior",
+            "B": "B) Make people distrustful",
+            "C": "C) Infect a system",
+            "D": "D) Gain a physical advantage",
+            "answer": "A"
+      },
+      "219": {
+            "tag": "CEH",
+            "question": "7. Phishing can be mitigated through the use of __________.",
+            "A": "A) Spam filtering",
+            "B": "B) Education",
+            "C": "C) Antivirus",
+            "D": "D) Anti-malware",
+            "answer": "A"
+      },
+      "220": {
+            "tag": "CEH",
+            "question": "8. Which mechanism can be used to influence a targeted individual?",
+            "A": "A) Means of dress or appearance",
+            "B": "B) Technological controls",
+            "C": "C) Physical controls",
+            "D": "D) Training",
+            "answer": "A"
+      },
+      "221": {
+            "tag": "CEH",
+            "question": "9. Jennifer receives an email claiming that her bank account information has been lost and that she needs to click a link to update the bank\u2019s database. However, she doesn\u2019t recognize the bank, because it is not one she does business with. What type of attack is she being presented with?",
+            "A": "A) Phishing",
+            "B": "B) Spam",
+            "C": "C) Whaling",
+            "D": "D) Vishing",
+            "answer": "A"
+      },
+      "222": {
+            "tag": "CEH",
+            "question": "10. What is the best option for thwarting social-engineering attacks?",
+            "A": "A) Technology",
+            "B": "B) Training",
+            "C": "C) Policies",
+            "D": "D) Physical controls",
+            "answer": "B"
+      },
+      "223": {
+            "tag": "CEH",
+            "question": "11. Janet receives an email enticing her to click a link. But when she clicks this link she is taken to a website for her bank, asking her to reset her account info. However, Janet noticed that the bank is not hers and the website is not for her bank. What type of attack is this?",
+            "A": "A) Whaling",
+            "B": "B) Vishing",
+            "C": "C) Phishing",
+            "D": "D) Piggybacking",
+            "answer": "C"
+      },
+      "224": {
+            "tag": "CEH",
+            "question": "12. Jason receives notices that he has unauthorized charges on his credit card account. What type of attack is Jason a victim of?",
+            "A": "A) Social engineering",
+            "B": "B) Phishing",
+            "C": "C) Identity theft",
+            "D": "D) Bad luck",
+            "answer": "C"
+      },
+      "225": {
+            "tag": "CEH",
+            "question": "13. A security camera picks up someone who doesn\u2019t work at the company following closely behind an employee while they enter the building. What type of attack is taking place?",
+            "A": "A) Phishing",
+            "B": "B) Walking",
+            "C": "C) Gate running",
+            "D": "D) Tailgating",
+            "answer": "D"
+      },
+      "226": {
+            "tag": "CEH",
+            "question": "14. What is a vulnerability scan designed to provide to those executing it?",
+            "A": "A) A way to find open ports",
+            "B": "B) A way to diagram a network",
+            "C": "C) A proxy attack",
+            "D": "D) A way to reveal vulnerabilities",
+            "answer": "D"
+      },
+      "227": {
+            "tag": "CEH",
+            "question": "15. In social engineering a proxy is used to __________.",
+            "A": "A) Assist in scanning",
+            "B": "B) Perform a scan",
+            "C": "C) Keep an attacker\u2019s origin hidden",
+            "D": "D) Automate the discovery of vulnerabilities",
+            "answer": "C"
+      },
+      "228": {
+            "tag": "CEH",
+            "question": "16. Social engineering can be used to carry out email campaigns known as __________.",
+            "A": "A) Spamming",
+            "B": "B) Phishing",
+            "C": "C) Vishing",
+            "D": "D) Splashing",
+            "answer": "B"
+      },
+      "229": {
+            "tag": "CEH",
+            "question": "17. Human beings tend to follow set patterns and behaviors known as __________.",
+            "A": "A) Repetition",
+            "B": "B) Habits",
+            "C": "C) Primacy",
+            "D": "D) Piggybacking",
+            "answer": "B"
+      },
+      "230": {
+            "tag": "CEH",
+            "question": "18. When talking to a victim, using __________ can make an attack easier.",
+            "A": "A) Eye contact",
+            "B": "B) Keywords",
+            "C": "C) Jargon",
+            "D": "D) Threats",
+            "answer": "B"
+      },
+      "231": {
+            "tag": "CEH",
+            "question": "19. An attacker can use which technique to influence a victim?",
+            "A": "A) Tailgating",
+            "B": "B) Piggybacking",
+            "C": "C) Name-dropping",
+            "D": "D) Acting like tech support",
+            "answer": "C"
+      },
+      "232": {
+            "tag": "CEH",
+            "question": "20. Jason notices that he is receiving mail, phone calls, and other requests for information. He has also noticed some problems with his credit checks such as bad debts and loans he did not participate in. What type of attack did Jason become a victim of?",
+            "A": "A) Social engineering",
+            "B": "B) Phishing",
+            "C": "C) Identity theft",
+            "D": "D) Bad luck",
+            "answer": "C"
+      },
+      "233": {
+            "tag": "CEH",
+            "question": "1. What is the hexadecimal value of a NOP instruction in an Intel system?",
+            "A": "A) 0x99",
+            "B": "B) 0x90",
+            "C": "C) 0x80",
+            "D": "D) 99x0",
+            "answer": "B"
+      },
+      "234": {
+            "tag": "CEH",
+            "question": "2. Which pointer in a program stack gets shifted or overwritten during a successful overflow attack?",
+            "A": "A) ESP",
+            "B": "B) ECP",
+            "C": "C) EIP",
+            "D": "D) EBP",
+            "answer": "C"
+      },
+      "235": {
+            "tag": "CEH",
+            "question": "3. Groups and individuals who hack systems based on principle or personal beliefs are known as ___________.",
+            "A": "A) White hats",
+            "B": "B) Black hats",
+            "C": "C) Script kiddies",
+            "D": "D) Hacktivists",
+            "answer": "D"
+      },
+      "236": {
+            "tag": "CEH",
+            "question": "5. Which DoS attack sends traffic to the target with a spoofed IP of the target itself?",
+            "A": "A) Land",
+            "B": "B) Smurf",
+            "C": "C) Teardrop",
+            "D": "D) SYN flood",
+            "answer": "A"
+      },
+      "237": {
+            "tag": "CEH",
+            "question": "6. Adding to and removing from a program stack are known as what?",
+            "A": "A) Pop and lock",
+            "B": "B) Push and pop",
+            "C": "C) Stack and pull",
+            "D": "D) Plus and minus",
+            "answer": "B"
+      },
+      "238": {
+            "tag": "CEH",
+            "question": "7. Zombies Inc. is looking for ways to better protect their web servers from potential DoS attacks. Their web admin proposes the use of a network appliance that receives all incoming web requests and forwards them to the web server. He says it will prevent direct customer contact with the server and reduce the risk of DoS attacks. What appliance is he proposing?",
+            "A": "A) Web proxy",
+            "B": "B) IDS",
+            "C": "C) Reverse proxy",
+            "D": "D) Firewall",
+            "answer": "C"
+      },
+      "239": {
+            "tag": "CEH",
+            "question": "8. In a DDoS attack, what communications channel is commonly used to orchestrate the attack?",
+            "A": "A) Internet Relay Chat (IRC)",
+            "B": "B) MSN Messenger",
+            "C": "C) ICMP",
+            "D": "D) Google Talk",
+            "answer": "A"
+      },
+      "240": {
+            "tag": "CEH",
+            "question": "9. What is the name for the dynamic memory space that, unlike the stack, doesn\u2019t rely on sequential ordering or organization?",
+            "A": "A) Pointer",
+            "B": "B) Heap",
+            "C": "C) Pile",
+            "D": "D) Load",
+            "answer": "B"
+      },
+      "241": {
+            "tag": "CEH",
+            "question": "10. Which function(s) are considered dangerous because they don\u2019t check memory bounds? (Choose all that apply.)",
+            "A": "A) gets()",
+            "B": "B) strcpy()",
+            "C": "C) scanf()",
+            "D": "D) strcat()",
+            "answer": "A"
+      },
+      "242": {
+            "tag": "CEH",
+            "question": "11. The stack operates on _______ a basis.",
+            "A": "A) FIFO",
+            "B": "B) LIFO",
+            "C": "C) FILO",
+            "D": "D) LILO",
+            "answer": "B"
+      },
+      "243": {
+            "tag": "CEH",
+            "question": "13. What is a single-button DDoS tool suspected to be used by groups such as Anonymous?",
+            "A": "A) Trinoo",
+            "B": "B) Crazy Pinger",
+            "C": "C) LOIC",
+            "D": "D) DoSHTTP",
+            "answer": "C"
+      },
+      "244": {
+            "tag": "CEH",
+            "question": "14. What is an eight-in-one DoS tool that can launch such attacks as land and teardrop?",
+            "A": "A) Jolt",
+            "B": "B) Targa",
+            "C": "C) TFN2K",
+            "D": "D) Trinoo",
+            "answer": "B"
+      },
+      "245": {
+            "tag": "CEH",
+            "question": "15. What command-line utility can you use to craft custom packets with specific flags set?",
+            "A": "A) Nmap",
+            "B": "B) Zenmap",
+            "C": "C) Ping",
+            "D": "D) hping3",
+            "answer": "D"
+      },
+      "246": {
+            "tag": "CEH",
+            "question": "16. What protocol is used to carry out a fraggle attack?",
+            "A": "A) IPX",
+            "B": "B) TCP",
+            "C": "C) UDP",
+            "D": "D) ICMP",
+            "answer": "C"
+      },
+      "247": {
+            "tag": "CEH",
+            "question": "17. What is the key difference between a smurf and a fraggle attack?",
+            "A": "A) TCP vs. UDP",
+            "B": "B) TCP vs. ICP",
+            "C": "C) UDP vs. ICMP",
+            "D": "D) TCP vs. ICMP",
+            "answer": "A"
+      },
+      "248": {
+            "tag": "CEH",
+            "question": "18. What is the main difference between DoS and DDoS?",
+            "A": "A) Scale of attack",
+            "B": "B) Number of attackers",
+            "C": "C) Goal of the attack",
+            "D": "D) Protocols in use",
+            "answer": "B"
+      },
+      "249": {
+            "tag": "CEH",
+            "question": "19. What is the most common sign of a DoS attack?",
+            "A": "A) Weird messages",
+            "B": "B) Rebooting of a system",
+            "C": "C) Slow performance",
+            "D": "D) Stolen credentials",
+            "answer": "C"
+      },
+      "250": {
+            "tag": "CEH",
+            "question": "20. What response is missing in a SYN flood attack?",
+            "A": "A) ACK",
+            "B": "B) SYN",
+            "C": "C) SYN-ACK",
+            "D": "D) URG",
+            "answer": "A"
+      },
+      "251": {
+            "tag": "CEH",
+            "question": "1. Which statement defines session hijacking most accurately?",
+            "A": "A) Session hijacking involves stealing a user\u2019s login information and using that information to pose as the user later.",
+            "B": "B) Session hijacking involves assuming the role of a user through the compromise of physical tokens such as common access cards.",
+            "C": "C) Session hijacking is an attack that aims at stealing a legitimate session and posing as that user while communicating with the web resource or host machine.",
+            "D": "D) Session hijacking involves only web applications and is specific to stealing session IDs from compromised cookies.",
+            "answer": "C"
+      },
+      "252": {
+            "tag": "CEH",
+            "question": "2. Jennifer has been working with sniffing and session-hijacking tools on her company network. Since she wants to stay white hat\u2014that is, ethical\u2014she has gotten permission to undertake these activities. What would Jennifer\u2019s activities be categorized as?",
+            "A": "A) Passive",
+            "B": "B) Monitoring",
+            "C": "C) Active",
+            "D": "D) Sniffing",
+            "answer": "A"
+      },
+      "253": {
+            "tag": "CEH",
+            "question": "5. Which of the following is not a source of session IDs?",
+            "A": "A) URL",
+            "B": "B) Cookie",
+            "C": "C) Anonymous login",
+            "D": "D) Hidden login",
+            "answer": "C"
+      },
+      "254": {
+            "tag": "CEH",
+            "question": "6. Which kind of values is injected into a connection to the host machine in an effort to increment the sequence number in a predictable fashion?",
+            "A": "A) Counted",
+            "B": "B) Bit",
+            "C": "C) Null",
+            "D": "D) IP",
+            "answer": "C"
+      },
+      "255": {
+            "tag": "CEH",
+            "question": "7. An ethical hacker sends a packet with a deliberate and specific path to its destination. What technique is the hacker using?",
+            "A": "A) IP spoofing",
+            "B": "B) Source routing",
+            "C": "C) ARP poisoning",
+            "D": "D) Host routing",
+            "answer": "B"
+      },
+      "256": {
+            "tag": "CEH",
+            "question": "8. Network-level hijacking focuses on the mechanics of a connection such as the manipulation of packet sequencing. What is the main focus of web app session hijacking?",
+            "A": "A) Breaking user logins",
+            "B": "B) Stealing session IDs",
+            "C": "C) Traffic redirection",
+            "D": "D) Resource DoS",
+            "answer": "B"
+      },
+      "257": {
+            "tag": "CEH",
+            "question": "9. A public use workstation contains the browsing history of multiple users who logged in during the last seven days. While digging through the history, a user runs across the following web address: www.snaze.com/&w25/session=22525. What kind of embedding are you seeing?",
+            "A": "A) URL embedding",
+            "B": "B) Session embedding",
+            "C": "C) Hidden form embedding",
+            "D": "D) Tracking cookie",
+            "answer": "A"
+      },
+      "258": {
+            "tag": "CEH",
+            "question": "11. Session hijacking can be performed on all of the following protocols except which one?",
+            "A": "A) FTP",
+            "B": "B) SMTP",
+            "C": "C) HTTP",
+            "D": "D) IPSec",
+            "answer": "D"
+      },
+      "259": {
+            "tag": "CEH",
+            "question": "12. Which technology can provide protection against session hijacking?",
+            "A": "A) IPSec",
+            "B": "B) UDP",
+            "C": "C) TCP",
+            "D": "D) IDS",
+            "answer": "A"
+      },
+      "260": {
+            "tag": "CEH",
+            "question": "13. Session fixation is a vulnerability in which of the following?",
+            "A": "A) Web applications",
+            "B": "B) Networks",
+            "C": "C) Software applications",
+            "D": "D) Protocols",
+            "answer": "A"
+      },
+      "261": {
+            "tag": "CEH",
+            "question": "14. Session hijacking can be thwarted with which of the following?",
+            "A": "A) SSH",
+            "B": "B) FTP",
+            "C": "C) Authentication",
+            "D": "D) Sniffing",
+            "answer": "C"
+      },
+      "262": {
+            "tag": "CEH",
+            "question": "15. XSS is typically targeted toward which of the following?",
+            "A": "A) Web applications",
+            "B": "B) Email clients",
+            "C": "C) Web browsers",
+            "D": "D) Users",
+            "answer": "C"
+      },
+      "263": {
+            "tag": "CEH",
+            "question": "16. A man-in-the-browser attack is typically enabled by using which mechanism?",
+            "A": "A) Virus",
+            "B": "B) Worms",
+            "C": "C) Logic bombs",
+            "D": "D) Trojans",
+            "answer": "D"
+      },
+      "264": {
+            "tag": "CEH",
+            "question": "17. A man-in-the-middle attack is an attack where the attacking party does which of the following?",
+            "A": "A) Infect the client system",
+            "B": "B) Infect the server system",
+            "C": "C) Insert themselves into an active session",
+            "D": "D) Insert themselves into a web application",
+            "answer": "C"
+      },
+      "265": {
+            "tag": "CEH",
+            "question": "18. A session hijack can happen with which of the following?",
+            "A": "A) Networks and applications",
+            "B": "B) Networks and physical devices",
+            "C": "C) Browsers and applications",
+            "D": "D) Cookies and devices",
+            "answer": "A"
+      },
+      "266": {
+            "tag": "CEH",
+            "question": "19. A session hijack can be initiated from all of the following except which one?",
+            "A": "A) Emails",
+            "B": "B) Browsers",
+            "C": "C) Web applications",
+            "D": "D) Cookies and devices",
+            "answer": "D"
+      },
+      "267": {
+            "tag": "CEH",
+            "question": "20. Session hijacking can do all of the following except which one?",
+            "A": "A) Take over an authenticated session",
+            "B": "B) Be used to steal cookies",
+            "C": "C) Take over a session",
+            "D": "D) Place a cookie on a server",
+            "answer": "D"
+      },
+      "268": {
+            "tag": "CEH",
+            "question": "1. Which of the following best describes a web application?",
+            "A": "A) Code designed to be run on the client",
+            "B": "B) Code designed to be run on the server",
+            "C": "C) SQL code for databases",
+            "D": "D) Targeting of web services",
+            "answer": "B"
+      },
+      "269": {
+            "tag": "CEH",
+            "question": "2. __________ is a client-side scripting language.",
+            "A": "A) JavaScript",
+            "B": "B) ASP",
+            "C": "C) ASP.NET",
+            "D": "D) PHP",
+            "answer": "A"
+      },
+      "270": {
+            "tag": "CEH",
+            "question": "3. Which of the following is an example of a server-side scripting language?",
+            "A": "A) JavaScript",
+            "B": "B) PHP",
+            "C": "C) SQL",
+            "D": "D) HTML",
+            "answer": "B"
+      },
+      "271": {
+            "tag": "CEH",
+            "question": "4. Which of the following is used to access content outside the root of a website?",
+            "A": "A) Brute force",
+            "B": "B) Port scanning",
+            "C": "C) SQL injection",
+            "D": "D) Directory traversal",
+            "answer": "D"
+      },
+      "272": {
+            "tag": "CEH",
+            "question": "5. Which of the following can prevent bad input from being presented to an application through a form?",
+            "A": "A) Request filtering",
+            "B": "B) Input validation",
+            "C": "C) Input scanning",
+            "D": "D) Directory traversing",
+            "answer": "B"
+      },
+      "273": {
+            "tag": "CEH",
+            "question": "6. __________ can be used to identify a web server.",
+            "A": "A) Session hijacking",
+            "B": "B) Banner grab",
+            "C": "C) Traversal",
+            "D": "D) Header analysis",
+            "answer": "B"
+      },
+      "274": {
+            "tag": "CEH",
+            "question": "7. In the field of IT security, the concept of defense in depth is layering more than one control on another. Why would this be helpful in the defense of a system of session hijacking?",
+            "A": "A) To provide better protection",
+            "B": "B) To build dependency among layers",
+            "C": "C) To increase logging ability",
+            "D": "D) To satisfy auditors",
+            "answer": "A"
+      },
+      "275": {
+            "tag": "CEH",
+            "question": "8. Which of the following is used to set permissions on content in a website?",
+            "A": "A) HIDS",
+            "B": "B) ACE",
+            "C": "C) ACL",
+            "D": "D) ALS",
+            "answer": "C"
+      },
+      "276": {
+            "tag": "CEH",
+            "question": "9. What could be used to monitor application errors and violations on a web server or application?",
+            "A": "A) HIDS",
+            "B": "B) HIPS",
+            "C": "C) NIDS",
+            "D": "D) Logs",
+            "answer": "D"
+      },
+      "277": {
+            "tag": "CEH",
+            "question": "10. Which of the following is an attribute used to secure a cookie?",
+            "A": "A) Encrypt",
+            "B": "B) Secure",
+            "C": "C) HttpOnly",
+            "D": "D) Domain",
+            "answer": "B,C,D"
+      },
+      "278": {
+            "tag": "CEH",
+            "question": "11. A POODLE attack targets what exactly?",
+            "A": "A) SSL",
+            "B": "B) TLS",
+            "C": "C) VPN",
+            "D": "D) AES",
+            "answer": "A"
+      },
+      "279": {
+            "tag": "CEH",
+            "question": "12. What is used to store session information?",
+            "A": "A) Cookie",
+            "B": "B) Snoop",
+            "C": "C) Directory",
+            "D": "D) File",
+            "answer": "A"
+      },
+      "280": {
+            "tag": "CEH",
+            "question": "13. Which attack can be used to take over a previous session?",
+            "A": "A) Cookie snooping",
+            "B": "B) Session hijacking",
+            "C": "C) Cookie hijacking",
+            "D": "D) Session sniffing",
+            "answer": "B"
+      },
+      "281": {
+            "tag": "CEH",
+            "question": "14. Which command would retrieve banner information from a website at port 80?",
+            "A": "A) nc 192.168.10.27 80",
+            "B": "B) nc 192.168.19.27 443",
+            "C": "C) nc 192.168.10.27 \u2013p 80",
+            "D": "D) nc 192.168.10.27 \u2013p \u2013l 80",
+            "answer": "A"
+      },
+      "282": {
+            "tag": "CEH",
+            "question": "15. How is a brute-force attack performed?",
+            "A": "A) By trying all possible combinations of characters",
+            "B": "B) By trying dictionary words",
+            "C": "C) By capturing hashes",
+            "D": "D) By comparing hashes",
+            "answer": "A"
+      },
+      "283": {
+            "tag": "CEH",
+            "question": "16. What is the command to retrieve header information from a web server using Telnet?",
+            "A": "A) telnet < website name > 80",
+            "B": "B) telnet < website name > 443",
+            "C": "C) telnet < website name > \u2013port:80",
+            "D": "D) telnet < website name > \u2013port:443",
+            "answer": "A"
+      },
+      "284": {
+            "tag": "CEH",
+            "question": "17. Groups and individuals who may hack a web server or web application based on principle or personal beliefs are known as __________.",
+            "A": "A) White hats",
+            "B": "B) Black hats",
+            "C": "C) Script kiddies",
+            "D": "D) Hacktivists",
+            "answer": "D"
+      },
+      "285": {
+            "tag": "CEH",
+            "question": "18. The Wayback Machine would be useful in viewing what type of information relating to a web application?",
+            "A": "A) Get Job postings",
+            "B": "B) Websites",
+            "C": "C) Archived versions of websites",
+            "D": "D) Backup copies of websites",
+            "answer": "C"
+      },
+      "286": {
+            "tag": "CEH",
+            "question": "19. What may be helpful in protecting the content on a web server from being viewed by unauthorized personnel?",
+            "A": "A) Encryption",
+            "B": "B) Permissions",
+            "C": "C) Redirection",
+            "D": "D) Firewalls",
+            "answer": "A"
+      },
+      "287": {
+            "tag": "CEH",
+            "question": "20. A common attack against web servers and web applications is __________.",
+            "A": "A) Banner grab",
+            "B": "B) Input validation",
+            "C": "C) Buffer validations",
+            "D": "D) Buffer overflow",
+            "answer": "D"
+      },
+      "288": {
+            "tag": "CEH",
+            "question": "1. Input validation is used to prevent which of the following?",
+            "A": "A) Bad input",
+            "B": "B) Formatting issues",
+            "C": "C) Language issues",
+            "D": "D) SQL injection",
+            "answer": "A"
+      },
+      "289": {
+            "tag": "CEH",
+            "question": "2. Web applications are used to __________.",
+            "A": "A) Provide dynamic content",
+            "B": "B) Stream video",
+            "C": "C) Apply scripting",
+            "D": "D) Implement security controls",
+            "answer": "A"
+      },
+      "290": {
+            "tag": "CEH",
+            "question": "3. Which of the following challenges can be solved by firewalls?",
+            "A": "A) Protection against buffer overflows",
+            "B": "B) Protection against scanning",
+            "C": "C) Enforcement of privileges",
+            "D": "D) Ability to use nonstandard ports",
+            "answer": "B"
+      },
+      "291": {
+            "tag": "CEH",
+            "question": "4. Databases can be a victim of code exploits depending on which of the following?",
+            "A": "A) Configuration",
+            "B": "B) Vendor",
+            "C": "C) Patches",
+            "D": "D) Client version",
+            "answer": "A"
+      },
+      "292": {
+            "tag": "CEH",
+            "question": "5. In addition to relational databases, there is also what kind of database?",
+            "A": "A) Hierarchical",
+            "B": "B) SQL",
+            "C": "C) ODBC",
+            "D": "D) Structured",
+            "answer": "A"
+      },
+      "293": {
+            "tag": "CEH",
+            "question": "6. Which of the following is a scripting language?",
+            "A": "A) ActiveX",
+            "B": "B) Java",
+            "C": "C) CGI",
+            "D": "D) ASP.NET",
+            "answer": "C"
+      },
+      "294": {
+            "tag": "CEH",
+            "question": "7. __________ is used to audit databases.",
+            "A": "A) Ping",
+            "B": "B) Ipconfig",
+            "C": "C) SQLPing",
+            "D": "D) Traceroute",
+            "answer": "C"
+      },
+      "295": {
+            "tag": "CEH",
+            "question": "8. Browsers do not display __________.",
+            "A": "A) ActiveX",
+            "B": "B) Hidden fields",
+            "C": "C) Java",
+            "D": "D) JavaScript",
+            "answer": "B"
+      },
+      "296": {
+            "tag": "CEH",
+            "question": "9. Proper input validation can prevent what from occurring?",
+            "A": "A) Client-side issues",
+            "B": "B) Operating system exploits",
+            "C": "C) SQL injection attacks",
+            "D": "D) Software failure",
+            "answer": "B"
+      },
+      "297": {
+            "tag": "CEH",
+            "question": "10. __________ can be used to attack databases.",
+            "A": "A) Buffer overflows",
+            "B": "B) SQL injection",
+            "C": "C) Buffer injection",
+            "D": "D) Input validation",
+            "answer": "B"
+      },
+      "298": {
+            "tag": "CEH",
+            "question": "11. Which command can be used to access the command prompt in SQL Server?",
+            "A": "A) WHERE",
+            "B": "B) SELECT",
+            "C": "C) xp_cmdshell",
+            "D": "D) cmdshell",
+            "answer": "C"
+      },
+      "299": {
+            "tag": "CEH",
+            "question": "12. Which command is used to query data in SQL Server?",
+            "A": "A) cmdshell",
+            "B": "B) WHERE",
+            "C": "C) SELECT",
+            "D": "D) from",
+            "answer": "B"
+      },
+      "300": {
+            "tag": "CEH",
+            "question": "13. Which statement is used to limit data in SQL Server?",
+            "A": "A) cmdshell",
+            "B": "B) WHERE",
+            "C": "C) SELECT",
+            "D": "D) to",
+            "answer": "B"
+      },
+      "301": {
+            "tag": "CEH",
+            "question": "14. Which command is used to remove a table from a database?",
+            "A": "A) cmdshell \u2013drop table",
+            "B": "B) REMOVE",
+            "C": "C) DROPTABLES",
+            "D": "D) drop table",
+            "answer": "D"
+      },
+      "302": {
+            "tag": "CEH",
+            "question": "15. SQL injection attacks are aimed at which of the following?",
+            "A": "A) Web applications",
+            "B": "B) Web servers",
+            "C": "C) Databases",
+            "D": "D) Database engines",
+            "answer": "C"
+      },
+      "303": {
+            "tag": "CEH",
+            "question": "16. Which of the following is another name for a record in a database?",
+            "A": "A) Row",
+            "B": "B) Column",
+            "C": "C) Cell",
+            "D": "D) Label",
+            "answer": "A"
+      },
+      "304": {
+            "tag": "CEH",
+            "question": "17. What type of database has its information spread across many disparate systems?",
+            "A": "A) Hierarchical",
+            "B": "B) Relational",
+            "C": "C) Distributed",
+            "D": "D) Flat",
+            "answer": "C"
+      },
+      "305": {
+            "tag": "CEH",
+            "question": "18. What type of database uses multiple tables linked together in complex relationships?",
+            "A": "A) Hierarchical",
+            "B": "B) Relational",
+            "C": "C) Distributed",
+            "D": "D) Flat",
+            "answer": "B"
+      },
+      "306": {
+            "tag": "CEH",
+            "question": "19. What can an error message tell an attacker?",
+            "A": "A) Success of an attack",
+            "B": "B) Failure of an attack",
+            "C": "C) Structure of a database",
+            "D": "D) All of the above",
+            "answer": "D"
+      },
+      "307": {
+            "tag": "CEH",
+            "question": "20. A blind SQL injection attack is used when which of the following is true?",
+            "A": "A) Error messages are not available.",
+            "B": "B) The database is not SQL compatible.",
+            "C": "C) The database is relational.",
+            "D": "D) All of the above.",
+            "answer": "A"
+      },
+      "308": {
+            "tag": "CEH",
+            "question": "1. WEP is designed to offer security comparable to which of the following?",
+            "A": "A) Bluetooth",
+            "B": "B) Wired networks",
+            "C": "C) IrDA",
+            "D": "D) IPv6",
+            "answer": "B"
+      },
+      "309": {
+            "tag": "CEH",
+            "question": "2. Which of the following operates at 5 GHz?",
+            "A": "A) 802.11a",
+            "B": "B) 802.11b",
+            "C": "C) 802.11g",
+            "D": "D) 802.11i",
+            "answer": "A"
+      },
+      "310": {
+            "tag": "CEH",
+            "question": "3. Which of the following specifies security standards for wireless?",
+            "A": "A) 802.11a",
+            "B": "B) 802.11b",
+            "C": "C) 802.11g",
+            "D": "D) 802.11i",
+            "answer": "D"
+      },
+      "311": {
+            "tag": "CEH",
+            "question": "4. Which of the following options shows the protocols in order from strongest to weakest?",
+            "A": "A) WPA, WEP, WPA2, Open",
+            "B": "B) WEP, WPA2, WPA, Open",
+            "C": "C) Open, WPA, WPA2, WEP",
+            "D": "D) WPA2, WPA, WEP, Open",
+            "answer": "D"
+      },
+      "312": {
+            "tag": "CEH",
+            "question": "5. Which of the following is designed to locate wireless access points?",
+            "A": "A) Site survey",
+            "B": "B) Traffic analysis",
+            "C": "C) Pattern recognition",
+            "D": "D) Cracking",
+            "answer": "A"
+      },
+      "313": {
+            "tag": "CEH",
+            "question": "6. What is a client-to-client wireless connection called?",
+            "A": "A) Infrastructure",
+            "B": "B) Client-server",
+            "C": "C) Peer-to-peer",
+            "D": "D) Ad hoc",
+            "answer": "D"
+      },
+      "314": {
+            "tag": "CEH",
+            "question": "7. When a wireless client is attached to an access point, it is known as which of the following?",
+            "A": "A) Infrastructure",
+            "B": "B) Client-server",
+            "C": "C) Peer-to-peer",
+            "D": "D) Ad hoc",
+            "answer": "A"
+      },
+      "315": {
+            "tag": "CEH",
+            "question": "8. Bluesnarfing is used to perform what type of attack?",
+            "A": "A) Send spam text messages.",
+            "B": "B) Read information from a device.",
+            "C": "C) Deposit malware on a system.",
+            "D": "D) Distribute files onto a system.",
+            "answer": "B"
+      },
+      "316": {
+            "tag": "CEH",
+            "question": "9. Monitor mode is used by wireless cards to do what?",
+            "A": "A) Capture traffic from an associated wireless access point.",
+            "B": "B) Capture information from ad hoc networks.",
+            "C": "C) Capture information about wireless networks.",
+            "D": "D) Capture traffic from access points.",
+            "answer": "C"
+      },
+      "317": {
+            "tag": "CEH",
+            "question": "10. A honeyspot is designed to do what?",
+            "A": "A) Look for patterns of known attacks.",
+            "B": "B) Look for deviations from known traffic patterns.",
+            "C": "C) Attract victims to connect to it.",
+            "D": "D) Analyze attacks patterns.",
+            "answer": "C"
+      },
+      "318": {
+            "tag": "CEH",
+            "question": "11. An SSID is used to do which of the following?",
+            "A": "A) Identify a network.",
+            "B": "B) Identify clients.",
+            "C": "C) Prioritize traffic.",
+            "D": "D) Mask a network.",
+            "answer": "A"
+      },
+      "319": {
+            "tag": "CEH",
+            "question": "12. AirPcap is used to do which of the following?",
+            "A": "A) Assist in the sniffing of wireless traffic.",
+            "B": "B) Allow network traffic to be analyzed.",
+            "C": "C) Allow the identification of wireless networks.",
+            "D": "D) Attack a victim.",
+            "answer": "A"
+      },
+      "320": {
+            "tag": "CEH",
+            "question": "13. What is a rogue access point?",
+            "A": "A) An access point not managed by a company",
+            "B": "B) An unmanaged access point",
+            "C": "C) A second access point",
+            "D": "D) A honeypot device",
+            "answer": "A"
+      },
+      "321": {
+            "tag": "CEH",
+            "question": "14. Bluejacking is a means of which of the following?",
+            "A": "A) Tracking a device",
+            "B": "B) Breaking into a device",
+            "C": "C) Sending unsolicited messages",
+            "D": "D) Crashing a device",
+            "answer": "C"
+      },
+      "322": {
+            "tag": "CEH",
+            "question": "15. The wardriving process involves which of the following?",
+            "A": "A) Locating wireless networks",
+            "B": "B) Breaking into wireless networks",
+            "C": "C) Sniffing traffic",
+            "D": "D) Performing spectrum analysis",
+            "answer": "A"
+      },
+      "323": {
+            "tag": "CEH",
+            "question": "16. Warchalking is used to do which of the following?",
+            "A": "A) Discover wireless networks.",
+            "B": "B) Hack wireless networks.",
+            "C": "C) Make others aware of a wireless network.",
+            "D": "D) Analyze a wireless network.",
+            "answer": "C"
+      },
+      "324": {
+            "tag": "CEH",
+            "question": "17. A closed network is typically which of the following?",
+            "A": "A) Public network",
+            "B": "B) Private network",
+            "C": "C) Hot spot",
+            "D": "D) Kiosk location",
+            "answer": "B"
+      },
+      "325": {
+            "tag": "CEH",
+            "question": "18. Which feature makes WPA easy to defeat?",
+            "A": "A) AES encryption",
+            "B": "B) WPS support",
+            "C": "C) TKIP support",
+            "D": "D) RC4 support",
+            "answer": "B"
+      },
+      "326": {
+            "tag": "CEH",
+            "question": "19. What is a PSK?",
+            "A": "A) The password for the network",
+            "B": "B) The certificate for the network",
+            "C": "C) A key entered into each client",
+            "D": "D) A distributed password for each user",
+            "answer": "C"
+      },
+      "327": {
+            "tag": "CEH",
+            "question": "20. Which of the following is a device used to perform a DoS on a wireless network?",
+            "A": "A) WPA jammer",
+            "B": "B) WPA2 jammer",
+            "C": "C) WEP jammer",
+            "D": "D) Wi-Fi jammer",
+            "answer": "D"
+      },
+      "328": {
+            "tag": "CEH",
+            "question": "1. What is the benefit of encryption on mobile devices?",
+            "A": "A) Protection against stolen devices",
+            "B": "B) Protection of data on lost or stolen devices",
+            "C": "C) Prevention of malware",
+            "D": "D) Protection of data being sent to websites",
+            "answer": "B"
+      },
+      "329": {
+            "tag": "CEH",
+            "question": "2. Jailbreaking a phone refers to what?",
+            "A": "A) Removing DRM from the system",
+            "B": "B) Removing a device from a network",
+            "C": "C) Acquiring root access on a device",
+            "D": "D) Removing ransomware from a system",
+            "answer": "C"
+      },
+      "330": {
+            "tag": "CEH",
+            "question": "3. What does rooting a device do?",
+            "A": "A) Removes updates from a system",
+            "B": "B) Removes access to a user",
+            "C": "C) Provides root-level access to a user on a system",
+            "D": "D) Increases security on a device",
+            "answer": "C"
+      },
+      "331": {
+            "tag": "CEH",
+            "question": "4. Android is based on which operating system?",
+            "A": "A) Windows",
+            "B": "B) OS X",
+            "C": "C) UNIX",
+            "D": "D) Linux",
+            "answer": "D"
+      },
+      "332": {
+            "tag": "CEH",
+            "question": "5. iOS is based on which operating system?",
+            "A": "A) Windows",
+            "B": "B) OS X",
+            "C": "C) Unix",
+            "D": "D) Linux",
+            "answer": "B"
+      },
+      "333": {
+            "tag": "CEH",
+            "question": "6. What could a company do to protect itself from a loss of data when a phone is stolen? (Choose all that apply.)",
+            "A": "A) Passwords",
+            "B": "B) Patching",
+            "C": "C) Encryption",
+            "D": "D) Remote wipe",
+            "answer": "A,C,D"
+      },
+      "334": {
+            "tag": "CEH",
+            "question": "7. A utility for auditing WordPress from Android is __________.",
+            "A": "A) DroidSheep",
+            "B": "B) Firesheep",
+            "C": "C) WPScan",
+            "D": "D) Nmap",
+            "answer": "C"
+      },
+      "335": {
+            "tag": "CEH",
+            "question": "8. What utility could be used to avoid sniffing of traffic?",
+            "A": "A) SandroProxy",
+            "B": "B) Proxify",
+            "C": "C) Psiphon",
+            "D": "D) Shark",
+            "answer": "C"
+      },
+      "336": {
+            "tag": "CEH",
+            "question": "9. Jennifer has captured the following URL: www.se.com/&w25/session=22525. She realizes that she can perform a session hijack. Which utility would she use?",
+            "A": "A) Shark",
+            "B": "B) DroidSheep",
+            "C": "C) Airmon",
+            "D": "D) Droid",
+            "answer": "B"
+      },
+      "337": {
+            "tag": "CEH",
+            "question": "10. Jennifer is concerned about her scans being tracked back to her tablet. What could she use to hide the source of the scans?",
+            "A": "A) Sniffing",
+            "B": "B) SandroProxy",
+            "C": "C) FaceNiff",
+            "D": "D) Blind scanning",
+            "answer": "B"
+      },
+      "338": {
+            "tag": "CEH",
+            "question": "11. What option would you use to install software that\u2019s not from the Google Play store?",
+            "A": "A) Install from unknown sources.",
+            "B": "B) Install unsigned sources.",
+            "C": "C) Install from unknown locations.",
+            "D": "D) Install from unsigned services.",
+            "answer": "A"
+      },
+      "339": {
+            "tag": "CEH",
+            "question": "12. Which technology can provide protection against session hijacking?",
+            "A": "A) IPSec",
+            "B": "B) UDP",
+            "C": "C) TCP",
+            "D": "D) IDS",
+            "answer": "A"
+      },
+      "340": {
+            "tag": "CEH",
+            "question": "13. When a device is rooted, what is the effect on security?",
+            "A": "A) Improved",
+            "B": "B) Lowered",
+            "C": "C) Stays the same",
+            "D": "D) Hardened",
+            "answer": "B"
+      },
+      "341": {
+            "tag": "CEH",
+            "question": "14. Session hijacking can be thwarted with which of the following?",
+            "A": "A) SandroProxy",
+            "B": "B) DroidSheep",
+            "C": "C) FaceNiff",
+            "D": "D) Psiphon",
+            "answer": "D"
+      },
+      "342": {
+            "tag": "CEH",
+            "question": "15. A denial of service application for Android is __________.",
+            "A": "A) Blaster",
+            "B": "B) LOIC",
+            "C": "C) Evil",
+            "D": "D) Pryfi",
+            "answer": "B"
+      },
+      "343": {
+            "tag": "CEH",
+            "question": "16. A man-in-the-browser attack delivered by a piece of malware can be prevented by which of the following?",
+            "A": "A) Anti-virus",
+            "B": "B) Anti-spyware",
+            "C": "C) Using Firefox",
+            "D": "D) Rooting a device",
+            "answer": "A"
+      },
+      "344": {
+            "tag": "CEH",
+            "question": "17. An attack that can be performed using FaceNiff is __________.",
+            "A": "A) Infecting the client system",
+            "B": "B) Infecting the server system",
+            "C": "C) Inserting oneself into an active session",
+            "D": "D) Inserting oneself into a web application",
+            "answer": "C"
+      },
+      "345": {
+            "tag": "CEH",
+            "question": "18. Remote wipes do what? (Choose two.)",
+            "A": "A) Wipe all data off a device.",
+            "B": "B) Remove sensitive information such as contacts from a remote system.",
+            "C": "C) Factory reset a device.",
+            "D": "D) Insert cookies and devices.",
+            "answer": "A"
+      },
+      "346": {
+            "tag": "CEH",
+            "question": "19. A session hijack can be used against a mobile device using all of the following except?",
+            "A": "A) Emails",
+            "B": "B) Browsers",
+            "C": "C) Worms",
+            "D": "D) Cookies",
+            "answer": "C"
+      },
+      "347": {
+            "tag": "CEH",
+            "question": "20. NetCut is used to do what? (Choose two.)",
+            "A": "A) Test firewalls.",
+            "B": "B) Craft packets.",
+            "C": "C) Take over a session.",
+            "D": "D) Scan a network.",
+            "answer": "A"
+      },
+      "348": {
+            "tag": "CEH",
+            "question": "1. An HIDS is used to monitor activity on which of the following?",
+            "A": "A) Network",
+            "B": "B) Application",
+            "C": "C) Log file",
+            "D": "D) Host",
+            "answer": "D"
+      },
+      "349": {
+            "tag": "CEH",
+            "question": "2. Which of the following can be used to identify a firewall?",
+            "A": "A) Search engines",
+            "B": "B) Email",
+            "C": "C) Port scanning",
+            "D": "D) Google hacking",
+            "answer": "C"
+      },
+      "350": {
+            "tag": "CEH",
+            "question": "3. An NIDS is based on technology similar to which of the following?",
+            "A": "A) Packet sniffing",
+            "B": "B) Privilege escalation",
+            "C": "C) Enumeration",
+            "D": "D) Backdoor",
+            "answer": "A"
+      },
+      "351": {
+            "tag": "CEH",
+            "question": "4. Which of the following can be used to evade an IDS?",
+            "A": "A) Packet sniffing",
+            "B": "B) Port scanning",
+            "C": "C) Enumeration",
+            "D": "D) Encryption",
+            "answer": "D"
+      },
+      "352": {
+            "tag": "CEH",
+            "question": "5. Altering a checksum of a packet can be used to do what?",
+            "A": "A) Send an RST.",
+            "B": "B) Send a URG.",
+            "C": "C) Reset a connection.",
+            "D": "D) Evade an NIDS.",
+            "answer": "D"
+      },
+      "353": {
+            "tag": "CEH",
+            "question": "6. Firewalking is done to accomplish which of the following?",
+            "A": "A) Find the configuration of an NIDS.",
+            "B": "B) Find the configuration of an HIDS.",
+            "C": "C) Uncover a honeypot.",
+            "D": "D) Analyze a firewall.",
+            "answer": "D"
+      },
+      "354": {
+            "tag": "CEH",
+            "question": "7. A method for overwhelming an IDS using packets with incorrect TTL values or flags is known as what?",
+            "A": "A) Session splicing",
+            "B": "B) Insertion",
+            "C": "C) Fragmenting",
+            "D": "D) ACK scanning",
+            "answer": "B"
+      },
+      "355": {
+            "tag": "CEH",
+            "question": "8. How does a fragmentation attack, which takes a packet, breaks it into fragments, and sends only some of the fragments to the target, cause a DoS?",
+            "A": "A) By consuming processor power on the IDS",
+            "B": "B) By overwhelming the IDS with too many fragments",
+            "C": "C) By exhausting memory by caching the fragments",
+            "D": "D) By filling virtual memory with too much data",
+            "answer": "C"
+      },
+      "356": {
+            "tag": "CEH",
+            "question": "9. Which of the following uses a database of known attacks?",
+            "A": "A) Signature file",
+            "B": "B) Anomaly",
+            "C": "C) Behavior",
+            "D": "D) Shellcode",
+            "answer": "A"
+      },
+      "357": {
+            "tag": "CEH",
+            "question": "10. An anomaly-based NIDS is designed to look for what?",
+            "A": "A) Patterns of known attacks",
+            "B": "B) Deviations from known traffic patterns",
+            "C": "C) Log alterations",
+            "D": "D) False positives",
+            "answer": "B"
+      },
+      "358": {
+            "tag": "CEH",
+            "question": "11. Multihomed firewall has a minimum of how many network connections?",
+            "A": "A) Two",
+            "B": "B) Three",
+            "C": "C) Four",
+            "D": "D) Five",
+            "answer": "B"
+      },
+      "359": {
+            "tag": "CEH",
+            "question": "12. A DMZ is created with which of the following?",
+            "A": "A) A firewall and a router",
+            "B": "B) A multihomed firewall",
+            "C": "C) Two routers",
+            "D": "D) A multihomed router",
+            "answer": "B"
+      },
+      "360": {
+            "tag": "CEH",
+            "question": "13. A firewall is used to separate which of the following?",
+            "A": "A) Networks",
+            "B": "B) Hosts",
+            "C": "C) Permissions",
+            "D": "D) ACL",
+            "answer": "A"
+      },
+      "361": {
+            "tag": "CEH",
+            "question": "14. In practice a honeypot will be configured how?",
+            "A": "A) As an unpatched system",
+            "B": "B) As a decoy server",
+            "C": "C) As a duplicate of a real system",
+            "D": "D) As an analysis tool",
+            "answer": "C"
+      },
+      "362": {
+            "tag": "CEH",
+            "question": "15. Which ports does SNMP use to function?",
+            "A": "A) 160 and 161",
+            "B": "B) 160 and 162",
+            "C": "C) 389 and 160",
+            "D": "D) 161 and 162",
+            "answer": "D"
+      },
+      "363": {
+            "tag": "CEH",
+            "question": "16. HTTP is typically open on which port in a firewall?",
+            "A": "A) 25",
+            "B": "B) 443",
+            "C": "C) 80",
+            "D": "D) 110",
+            "answer": "C"
+      },
+      "364": {
+            "tag": "CEH",
+            "question": "17. What is a system used as a chokepoint for traffic?",
+            "A": "A) IDS",
+            "B": "B) DMZ",
+            "C": "C) Bastion host",
+            "D": "D) SNMP host",
+            "answer": "C"
+      },
+      "365": {
+            "tag": "CEH",
+            "question": "18. At which layer of the OSI model does a packet-filtering firewall work?",
+            "A": "A) Layer 1",
+            "B": "B) Layer 2",
+            "C": "C) Layer 3",
+            "D": "D) Layer 4",
+            "answer": "C"
+      },
+      "366": {
+            "tag": "CEH",
+            "question": "19. What type of firewall analyzes the status of traffic?",
+            "A": "A) Circuit level",
+            "B": "B) Packet filtering",
+            "C": "C) Stateful inspection",
+            "D": "D) NIDS",
+            "answer": "C"
+      },
+      "367": {
+            "tag": "CEH",
+            "question": "20. What can be used instead of a URL to evade some firewalls?",
+            "A": "A) IP address",
+            "B": "B) Encryption",
+            "C": "C) Stateful inspection",
+            "D": "D) NIDS",
+            "answer": "A"
+      },
+      "368": {
+            "tag": "CEH",
+            "question": "1. SaaS is a cloud hosting environment that offers what?",
+            "A": "A) Development options",
+            "B": "B) Testing options",
+            "C": "C) Software hosting",
+            "D": "D) Improved security",
+            "answer": "C"
+      },
+      "369": {
+            "tag": "CEH",
+            "question": "2. Which of the following can be used to protect data stored in the cloud?",
+            "A": "A) SSL",
+            "B": "B) Drive encryption",
+            "C": "C) Transport encryption",
+            "D": "D) Harvesting",
+            "answer": "B"
+      },
+      "370": {
+            "tag": "CEH",
+            "question": "3. SOAP is used to perform what function?",
+            "A": "A) Transport data",
+            "B": "B) Enable communication between applications",
+            "C": "C) Encrypt information",
+            "D": "D) Wrap data",
+            "answer": "B"
+      },
+      "371": {
+            "tag": "CEH",
+            "question": "4. Which attack alters data in transit within the cloud?",
+            "A": "A) Packet sniffing",
+            "B": "B) Port scanning",
+            "C": "C) MitM",
+            "D": "D) Encryption",
+            "answer": "C"
+      },
+      "372": {
+            "tag": "CEH",
+            "question": "5. Altering a checksum of a packet can be used to do what?",
+            "A": "A) Send an RST",
+            "B": "B) Send a URG",
+            "C": "C) Reset a connection",
+            "D": "D) Evade an NIDS",
+            "answer": "D"
+      },
+      "373": {
+            "tag": "CEH",
+            "question": "6. Cloud technologies are used to accomplish which of the following?",
+            "A": "A) Increase management options",
+            "B": "B) Offload operations onto a third party",
+            "C": "C) Transfer legal responsibility of data to a third party",
+            "D": "D) Cut costs",
+            "answer": "A,B,D"
+      },
+      "374": {
+            "tag": "CEH",
+            "question": "7. A cloud environment can be in which of the following configurations except?",
+            "A": "A) IaaS",
+            "B": "B) PaaS",
+            "C": "C) SaaS",
+            "D": "D) LaaS",
+            "answer": "D"
+      },
+      "375": {
+            "tag": "CEH",
+            "question": "8. What type of cloud service would provide email hosting and associated security services?",
+            "A": "A) PaaS",
+            "B": "B) SaaS",
+            "C": "C) IaaS",
+            "D": "D) SSaS",
+            "answer": "B"
+      },
+      "376": {
+            "tag": "CEH",
+            "question": "9. Who has legal responsibility for data hosted in the cloud?",
+            "A": "A) The Cloud Service Provider",
+            "B": "B) The IT department of the client",
+            "C": "C) The client",
+            "D": "D) The consumer",
+            "answer": "C"
+      },
+      "377": {
+            "tag": "CEH",
+            "question": "10. Why wouldn\u2019t someone create a private cloud?",
+            "A": "A) To reduce costs",
+            "B": "B) To offload technical support",
+            "C": "C) To increase availability",
+            "D": "D) To maintain universal access",
+            "answer": "A"
+      },
+      "378": {
+            "tag": "CEH",
+            "question": "11. There are how many different types of cloud hosting environments?",
+            "A": "A) Two",
+            "B": "B) Three",
+            "C": "C) Four",
+            "D": "D) Five",
+            "answer": "B"
+      },
+      "379": {
+            "tag": "CEH",
+            "question": "12. Which of the following would be hosted as SaaS?",
+            "A": "A) Email",
+            "B": "B) Active Directory",
+            "C": "C) Applications",
+            "D": "D) Firewalls",
+            "answer": "A"
+      },
+      "380": {
+            "tag": "CEH",
+            "question": "13. A cloud-based firewall is used to separate which of the following?",
+            "A": "A) Networks",
+            "B": "B) Hosts",
+            "C": "C) Permissions",
+            "D": "D) ACL",
+            "answer": "A"
+      },
+      "381": {
+            "tag": "CEH",
+            "question": "14. An application would be developed on what type of cloud service?",
+            "A": "A) BaaS",
+            "B": "B) SaaS",
+            "C": "C) IaaS",
+            "D": "D) PaaS",
+            "answer": "D"
+      },
+      "382": {
+            "tag": "CEH",
+            "question": "15. Which of the following issues would be a good reason for moving to a cloud based environment?",
+            "A": "A) Reduced costs",
+            "B": "B) Improved performance",
+            "C": "C) Easier forensics",
+            "D": "D) Increased redundancy",
+            "answer": "A,B,D"
+      },
+      "383": {
+            "tag": "CEH",
+            "question": "16. HTTPS is typically open on which port in a cloud based firewall?",
+            "A": "A) 25",
+            "B": "B) 443",
+            "C": "C) 80",
+            "D": "D) 110",
+            "answer": "B"
+      },
+      "384": {
+            "tag": "CEH",
+            "question": "17. What system is used as a choke point for traffic and could be offered through IaaS?",
+            "A": "A) IDS",
+            "B": "B) DMZ",
+            "C": "C) Bastion host",
+            "D": "D) SNMP host",
+            "answer": "C"
+      },
+      "385": {
+            "tag": "CEH",
+            "question": "18. At which layer of the OSI model would you expect a cloud based solution to operate at?",
+            "A": "A) Layer 1",
+            "B": "B) Layer 2",
+            "C": "C) Layer 3",
+            "D": "D) Layer 4",
+            "answer": "C,D"
+      },
+      "386": {
+            "tag": "CEH",
+            "question": "19. What type of firewall analyzes the status of traffic and would be part of a IaaS solution?",
+            "A": "A) Circuit level",
+            "B": "B) Packet filtering",
+            "C": "C) Stateful inspection",
+            "D": "D) NIDS",
+            "answer": "C"
+      },
+      "387": {
+            "tag": "CEH",
+            "question": "20. What can be used instead of a URL to evade some firewalls used to protect a cloud based web application?",
+            "A": "A) IP address",
+            "B": "B) Encryption",
+            "C": "C) Stateful inspection",
+            "D": "D) NIDS",
+            "answer": "A"
+      },
+      "388": {
+            "tag": "CEH",
+            "question": "1. Physical security can prevent which of the following?",
+            "A": "A) DDoS",
+            "B": "B) FTP",
+            "C": "C) Tailgating",
+            "D": "D) Cracking",
+            "answer": "C"
+      },
+      "389": {
+            "tag": "CEH",
+            "question": "2. Which of the following is a detective control when not used in real time?",
+            "A": "A) Fences",
+            "B": "B) Alarms",
+            "C": "C) CCTV",
+            "D": "D) Locks",
+            "answer": "B"
+      },
+      "390": {
+            "tag": "CEH",
+            "question": "3. For a fence to deter a determined intruder, it should be at least how many feet tall?",
+            "A": "A) 4",
+            "B": "B) 6",
+            "C": "C) 8",
+            "D": "D) 10",
+            "answer": "C"
+      },
+      "391": {
+            "tag": "CEH",
+            "question": "4. A ____________ is used to prevent cars from ramming a building.",
+            "A": "A) Honeypot",
+            "B": "B) Gates",
+            "C": "C) Bollard",
+            "D": "D) Fences",
+            "answer": "C"
+      },
+      "392": {
+            "tag": "CEH",
+            "question": "5. While guards and dogs are both good for physical security, which of the following is a concern with dogs?",
+            "A": "A) Liability",
+            "B": "B) Discernment",
+            "C": "C) Dual role",
+            "D": "D) Multifunction",
+            "answer": "A"
+      },
+      "393": {
+            "tag": "CEH",
+            "question": "6. Which of the following is a good defense against tailgating and piggybacking?",
+            "A": "A) Cameras",
+            "B": "B) Guards",
+            "C": "C) Turnstiles",
+            "D": "D) Mantraps",
+            "answer": "D"
+      },
+      "394": {
+            "tag": "CEH",
+            "question": "7. Which of the following is a wall that is less than full height?",
+            "A": "A) Drop wall",
+            "B": "B) False wall",
+            "C": "C) Short wall",
+            "D": "D) Plenum wall",
+            "answer": "B"
+      },
+      "395": {
+            "tag": "CEH",
+            "question": "8. In the field of IT security, the concept of defense in depth is the layering of more than one control on another. Why is this?",
+            "A": "A) To provide better protection",
+            "B": "B) To build dependency among layers",
+            "C": "C) To increase logging ability",
+            "D": "D) To satisfy auditors",
+            "answer": "A"
+      },
+      "396": {
+            "tag": "CEH",
+            "question": "9. Which intrusion prevention system can be used in conjunction with fences?",
+            "A": "A) Infrared wave patter",
+            "B": "B) Bollards",
+            "C": "C) Audio",
+            "D": "D) PIDAS",
+            "answer": "B"
+      },
+      "397": {
+            "tag": "CEH",
+            "question": "10. Frequency of type 2 errors is also known as what?",
+            "A": "A) False rejection rate",
+            "B": "B) Failure rate",
+            "C": "C) Crossover error rate",
+            "D": "D) False acceptance rate",
+            "answer": "A"
+      },
+      "398": {
+            "tag": "CEH",
+            "question": "11. Which type of biometric system is frequently found on laptops but can be used on entryways as well?",
+            "A": "A) Retina",
+            "B": "B) Fingerprint",
+            "C": "C) Iris",
+            "D": "D) Voice recognition",
+            "answer": "B"
+      },
+      "399": {
+            "tag": "CEH",
+            "question": "12. Which of the following could be considered required components of an alarm system?",
+            "A": "A) A visual alerting method",
+            "B": "B) An audio alerting method",
+            "C": "C) Automatic dialup",
+            "D": "D) Both A and B",
+            "answer": "D"
+      },
+      "400": {
+            "tag": "CEH",
+            "question": "13. Lock-pick sets typically contain which of the following at a minimum?",
+            "A": "A) Tension wrenches and screwdrivers",
+            "B": "B) A pick",
+            "C": "C) A pick and a driver",
+            "D": "D) A pick and a tension wrench",
+            "answer": "D"
+      },
+      "401": {
+            "tag": "CEH",
+            "question": "14. During an assessment you discovered that the target company was using a fax machine. Which of the following is the least important?",
+            "A": "A) The phone number is publicly available.",
+            "B": "B) The fax machine is in an open, unsecured area.",
+            "C": "C) Faxes frequently sit in the printer tray.",
+            "D": "D) The fax machine uses a ribbon.",
+            "answer": "A"
+      },
+      "402": {
+            "tag": "CEH",
+            "question": "15. What is a drop ceiling?",
+            "A": "A) A false ceiling",
+            "B": "B) A tiled ceiling",
+            "C": "C) An insulated ceiling",
+            "D": "D) A weak ceiling",
+            "answer": "A"
+      },
+      "403": {
+            "tag": "CEH",
+            "question": "16. What is another word for portals?",
+            "A": "A) Doors",
+            "B": "B) Mantraps",
+            "C": "C) GlaDOS",
+            "D": "D) Booths",
+            "answer": "B"
+      },
+      "404": {
+            "tag": "CEH",
+            "question": "17. What is a type of combination lock?",
+            "A": "A) Key lock",
+            "B": "B) Card lock",
+            "C": "C) Cipher lock",
+            "D": "D) Trucker lock",
+            "answer": "C"
+      },
+      "405": {
+            "tag": "CEH",
+            "question": "18. What is the first defense that a physical intruder typically encounters?",
+            "A": "A) Fences",
+            "B": "B) Walls",
+            "C": "C) Bollards",
+            "D": "D) Cameras",
+            "answer": "A"
+      },
+      "406": {
+            "tag": "CEH",
+            "question": "19. What mechanism is intended to deter theft of hard drives?",
+            "A": "A) Locks",
+            "B": "B) Backups",
+            "C": "C) Encryption",
+            "D": "D) Size",
+            "answer": "C"
+      },
+      "407": {
+            "tag": "CEH",
+            "question": "20. Which of the following is a characteristic of USB flash drives that makes security a problem?",
+            "A": "A) Encrypted",
+            "B": "B) Easily hidden",
+            "C": "C) Portable",
+            "D": "D) Slow",
+            "answer": "B"
+      }
+}
