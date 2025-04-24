@@ -45,7 +45,7 @@ function startCategoryQuizz(category){
     selectedAnswer = null;
     
     questions = allQuestions.filter(item => item.tag === category);
-    questions = [...questions].sort(() => 0.5 - Math.random()).splice(0, 20);
+    questions = [...questions].sort(() => 0.5 - Math.random()).splice(0, 10);
     
     switchScreen(menuScreen, quizScreen);
     
