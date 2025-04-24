@@ -1,0 +1,273 @@
+{
+    "0": {
+      "tag": "tage",
+      "question": "Quel est le terme utilisé pour désigner la différence entre le prix d'achat et le prix de vente d'un actif financier ?",
+      "A": "Marge",
+      "B": "Spread",
+      "C": "Rentabilité",
+      "D": "Dividende",
+      "answer": "B"
+    },
+    "1": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants fait partie des charges financières d'une entreprise ?",
+      "A": "Loyer",
+      "B": "Intérêt sur emprunt",
+      "C": "Amortissement",
+      "D": "Salaires",
+      "answer": "B"
+    },
+    "2": {
+      "tag": "tage",
+      "question": "Laquelle des données suivantes est nécessaire pour calculer le coefficient bêta d'une action ?",
+      "A": "Le rendement du marché",
+      "B": "Le taux d'intérêt des obligations",
+      "C": "Le dividende de l'action",
+      "D": "Le chiffre d'affaires de l'entreprise",
+      "answer": "A"
+    },
+    "3": {
+      "tag": "tage",
+      "question": "Dans quelle situation une société pourrait émettre des actions ?",
+      "A": "Lors d'un emprunt bancaire",
+      "B": "Pour lever des fonds",
+      "C": "Pour racheter ses propres actions",
+      "D": "Pour distribuer des dividendes",
+      "answer": "B"
+    },
+    "4": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants est un indicateur de rentabilité d'une entreprise ?",
+      "A": "Le ratio de liquidité",
+      "B": "Le ratio de solvabilité",
+      "C": "Le retour sur investissement (ROI)",
+      "D": "Le délai moyen de paiement",
+      "answer": "C"
+    },
+    "5": {
+      "tag": "tage",
+      "question": "Que mesure le ratio de liquidité générale ?",
+      "A": "La rentabilité de l'entreprise",
+      "B": "La capacité de l'entreprise à payer ses dettes à court terme",
+      "C": "L'endettement total de l'entreprise",
+      "D": "Les rendements des actions",
+      "answer": "B"
+    },
+    "6": {
+      "tag": "tage",
+      "question": "Quel est le but principal de l'analyse technique en finance ?",
+      "A": "Évaluer les états financiers d'une entreprise",
+      "B": "Prévoir les mouvements de prix futurs en analysant les tendances passées",
+      "C": "Calculer la rentabilité d'un investissement",
+      "D": "Analyser les facteurs macroéconomiques influençant le marché",
+      "answer": "B"
+    },
+    "7": {
+      "tag": "tage",
+      "question": "Si un investisseur souhaite acheter un actif sans avoir de certitude sur son rendement, il peut utiliser le concept de :",
+      "A": "Rentabilité",
+      "B": "Risque",
+      "C": "Bêta",
+      "D": "Diversification",
+      "answer": "B"
+    },
+    "8": {
+      "tag": "tage",
+      "question": "Que représente le 'bêta' d'une action ?",
+      "A": "Le rendement absolu de l'action",
+      "B": "La volatilité de l'action par rapport au marché",
+      "C": "Le taux de dividende de l'action",
+      "D": "Le risque spécifique de l'action",
+      "answer": "B"
+    },
+    "9": {
+      "tag": "tage",
+      "question": "Lorsqu'une entreprise décide de se financer par le biais de l'émission d'obligations, elle contracte :",
+      "A": "Une dette à long terme",
+      "B": "Un financement en capital",
+      "C": "Une prime de risque",
+      "D": "Une dette à court terme",
+      "answer": "A"
+    },
+    "10": {
+      "tag": "tage",
+      "question": "L'EBITDA correspond à :",
+      "A": "Les bénéfices avant impôts et amortissements",
+      "B": "Les bénéfices avant intérêts, impôts, dépréciations et amortissements",
+      "C": "Les revenus nets après impôts et amortissements",
+      "D": "Les coûts d'exploitation totaux",
+      "answer": "B"
+    },
+    "11": {
+      "tag": "tage",
+      "question": "Quel est le rôle d'un courtier sur le marché financier ?",
+      "A": "Émettre des actions",
+      "B": "Acheter et vendre des titres financiers pour le compte de clients",
+      "C": "Gérer des portefeuilles d'investissements",
+      "D": "Offrir des conseils juridiques aux entreprises",
+      "answer": "B"
+    },
+    "12": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants n'est pas pris en compte dans le calcul du coût du capital ?",
+      "A": "Le coût des fonds propres",
+      "B": "Le coût des dettes",
+      "C": "Le coût des dividendes",
+      "D": "Le taux d'imposition",
+      "answer": "C"
+    },
+    "13": {
+      "tag": "tage",
+      "question": "Si le taux d'intérêt sur un emprunt est supérieur à l'inflation, le pouvoir d'achat des remboursements :",
+      "A": "Augmente",
+      "B": "Reste constant",
+      "C": "Diminue",
+      "D": "Est nul",
+      "answer": "C"
+    },
+    "14": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants est un risque systématique ?",
+      "A": "Risque de crédit",
+      "B": "Risque de taux d'intérêt",
+      "C": "Risque de change",
+      "D": "Risque d'entreprise spécifique",
+      "answer": "B"
+    },
+    "15": {
+      "tag": "tage",
+      "question": "Une augmentation de la masse monétaire dans une économie conduit généralement à :",
+      "A": "Une baisse des taux d'intérêt",
+      "B": "Une réduction de la consommation",
+      "C": "Une augmentation de la demande de monnaie",
+      "D": "Une diminution des investissements",
+      "answer": "A"
+    },
+    "16": {
+      "tag": "tage",
+      "question": "Quel est l'objectif principal de la gestion d'un portefeuille d'investissement ?",
+      "A": "Minimiser le risque",
+      "B": "Maximiser le rendement",
+      "C": "Maximiser le rendement tout en contrôlant le risque",
+      "D": "Obtenir des revenus réguliers",
+      "answer": "C"
+    },
+    "17": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants fait partie de la politique de dividende d'une entreprise ?",
+      "A": "Le taux de rentabilité interne",
+      "B": "La part des bénéfices distribuée aux actionnaires",
+      "C": "Les décisions d'investissement à long terme",
+      "D": "Les coûts fixes de production",
+      "answer": "B"
+    },
+    "18": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants décrit le mieux le principe de la diversification dans un portefeuille d'investissements ?",
+      "A": "Investir uniquement dans des actions à haut rendement",
+      "B": "Réduire le risque global en investissant dans des actifs différents",
+      "C": "Concentrer les investissements dans un secteur spécifique",
+      "D": "Acheter uniquement des obligations d'État",
+      "answer": "B"
+    },
+    "19": {
+      "tag": "tage",
+      "question": "Si le rendement d'un investissement est inférieur à son coût du capital, cela signifie que l'investissement :",
+      "A": "Génère de la valeur pour les actionnaires",
+      "B": "N'est pas rentable",
+      "C": "Va augmenter la rentabilité de l'entreprise",
+      "D": "Est sans risque",
+      "answer": "B"
+    },
+    "20": {
+      "tag": "tage",
+      "question": "Dans quel cas un investisseur serait-il plus susceptible d'acheter une obligation plutôt qu'une action ?",
+      "A": "Si l'investisseur recherche un revenu fixe",
+      "B": "Si l'investisseur veut un potentiel de gain élevé",
+      "C": "Si l'investisseur est prêt à accepter une grande volatilité",
+      "D": "Si l'investisseur recherche un contrôle de l'entreprise",
+      "answer": "A"
+    },
+    "21": {
+      "tag": "tage",
+      "question": "Le taux de rendement interne (TRI) est un indicateur utilisé pour :",
+      "A": "Comparer les investissements en fonction de leur rentabilité",
+      "B": "Calculer la rentabilité brute d'un actif",
+      "C": "Analyser les bénéfices après impôts d'une entreprise",
+      "D": "Calculer la valeur actuelle nette d'un projet",
+      "answer": "A"
+    },
+    "22": {
+      "tag": "tage",
+      "question": "Le ratio de solvabilité permet d'évaluer :",
+      "A": "La rentabilité d'une entreprise",
+      "B": "La capacité d'une entreprise à rembourser ses dettes à long terme",
+      "C": "La liquidité d'une entreprise",
+      "D": "Le risque d'inflation",
+      "answer": "B"
+    },
+    "23": {
+      "tag": "tage",
+      "question": "Quel est l'objectif principal de la politique monétaire d'une banque centrale ?",
+      "A": "Contrôler l'inflation et stabiliser l'économie",
+      "B": "Favoriser la croissance économique en augmentant les impôts",
+      "C": "Accroître la masse monétaire sans tenir compte de l'inflation",
+      "D": "Réduire les taux d'intérêt de manière systématique",
+      "answer": "A"
+    },
+    "24": {
+      "tag": "tage",
+      "question": "Lequel des éléments suivants caractérise une entreprise en phase de croissance ?",
+      "A": "Une rentabilité nette stable",
+      "B": "Une forte augmentation de son chiffre d'affaires",
+      "C": "Des bénéfices élevés et constants",
+      "D": "Un faible taux d'endettement",
+      "answer": "B"
+    },
+    "25": {
+      "tag": "tage",
+      "question": "Le rendement d'une action est composé de :",
+      "A": "L'augmentation du prix de l'action uniquement",
+      "B": "Le dividende uniquement",
+      "C": "Le dividende et l'augmentation du prix de l'action",
+      "D": "La prime de risque",
+      "answer": "C"
+    },
+    "26": {
+      "tag": "tage",
+      "question": "Qu'est-ce qu'une obligation convertie en action ?",
+      "A": "Une obligation échangeable contre d'autres titres de créance",
+      "B": "Une obligation qui peut être convertie en actions de l'entreprise émettrice",
+      "C": "Un emprunt sans intérêt",
+      "D": "Une action avec un rendement garanti",
+      "answer": "B"
+    },
+    "27": {
+      "tag": "tage",
+      "question": "Si une entreprise rembourse une dette avant la date prévue, elle :",
+      "A": "Réduit son endettement",
+      "B": "Augmente son capital",
+      "C": "Génère plus de bénéfices",
+      "D": "N'a aucun impact sur sa situation financière",
+      "answer": "A"
+    },
+    "28": {
+      "tag": "tage",
+      "question": "Le ratio de rentabilité des capitaux propres (ROE) mesure :",
+      "A": "La rentabilité d'une entreprise par rapport à ses actifs",
+      "B": "La rentabilité d'une entreprise par rapport à son capital propre",
+      "C": "Le rendement d'une action",
+      "D": "Le niveau d'endettement d'une entreprise",
+      "answer": "B"
+    },
+    "29": {
+      "tag": "tage",
+      "question": "Quel est l'objectif de l'analyse fondamentale en finance ?",
+      "A": "Prévoir les tendances du marché en fonction des graphiques",
+      "B": "Analyser la solidité financière d'une entreprise et sa valorisation",
+      "C": "Investir dans des actifs à haut risque",
+      "D": "Réduire la volatilité du marché",
+      "answer": "B"
+    }
+  }
+  
