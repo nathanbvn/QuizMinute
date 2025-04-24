@@ -268,6 +268,473 @@
       "C": "Investir dans des actifs à haut risque",
       "D": "Réduire la volatilité du marché",
       "answer": "B"
-    }
+    },
+    "30": {
+      "tag": "tage",
+      "question": "Quel est le principal objectif d'une analyse du ratio d'endettement d'une entreprise ?",
+      "A": "A) Évaluer la capacité de l'entreprise à rembourser ses dettes à long terme",
+      "B": "B) Mesurer la rentabilité des investissements réalisés par l'entreprise",
+      "C": "C) Analyser la liquidité de l'entreprise à court terme",
+      "D": "D) Évaluer la rentabilité de l'entreprise pour ses actionnaires",
+      "answer": "A"
+    },
+    "31": {
+      "tag": "tage",
+      "question": "Lors de l'évaluation d'un projet d'investissement, quel critère est généralement utilisé pour déterminer sa rentabilité ?",
+      "A": "A) Le taux de rentabilité interne (TRI)",
+      "B": "B) La période de récupération du capital investi",
+      "C": "C) Le ratio de rentabilité des actifs",
+      "D": "D) Le taux d'actualisation",
+      "answer": "B"
+    },
+    "32": {
+      "tag": "tage",
+      "question": "Si une entreprise émet des actions nouvelles, quel effet cela aura-t-il généralement sur le bénéfice par action (BPA) ?",
+      "A": "A) Le BPA diminue en raison de la dilution du capital",
+      "B": "B) Le BPA reste inchangé car il n'est pas affecté par l'émission d'actions",
+      "C": "C) Le BPA augmente grâce aux nouveaux fonds levés",
+      "D": "D) Le BPA augmente uniquement si l'entreprise utilise les fonds efficacement",
+      "answer": "C"
+    },
+    "33": {
+      "tag": "tage",
+      "question": "Quel est l'impact immédiat d'une augmentation de la dette sur le ratio de rentabilité des capitaux propres (ROE) ?",
+      "A": "A) L'impact est positif si les rendements de l'investissement sont supérieurs au coût de la dette",
+      "B": "B) L'impact est négatif, réduisant immédiatement le ROE",
+      "C": "C) Aucune incidence sur le ROE à court terme",
+      "D": "D) L'impact est neutre, car la dette ne modifie pas directement le ROE",
+      "answer": "A"
+    },
+    "34": {
+      "tag": "tage",
+      "question": "Quel est l'élément clé pris en compte dans une analyse financière basée sur les flux de trésorerie actualisés (DCF) ?",
+      "A": "A) Les flux de trésorerie futurs générés par l'entreprise",
+      "B": "B) La valeur actuelle des actifs tangibles de l'entreprise",
+      "C": "C) Le prix des actions de l'entreprise",
+      "D": "D) Les bénéfices passés de l'entreprise",
+      "answer": "A"
+    },
+    "35": {
+      "tag": "tage",
+      "question": "Quel est l'impact d'une politique de dividende élevé sur le ratio de couverture des intérêts d'une entreprise ?",
+      "A": "A) Il peut réduire la couverture des intérêts en raison de la sortie de liquidités élevées",
+      "B": "B) Il n'a aucun impact sur la couverture des intérêts",
+      "C": "C) Il améliore la couverture des intérêts en renforçant la stabilité financière",
+      "D": "D) Il augmente la couverture des intérêts en réduisant les dettes à long terme",
+      "answer": "B"
+    },
+    "36": {
+      "tag": "tage",
+      "question": "Quel est le principal avantage d'une structure de capital comportant un fort levier financier ?",
+      "A": "A) Augmenter les rendements pour les actionnaires en période de croissance économique",
+      "B": "B) Réduire le risque de faillite de l'entreprise",
+      "C": "C) Permettre une flexibilité accrue dans la gestion de la trésorerie",
+      "D": "D) Minimiser l'impôt sur les sociétés grâce aux charges d'intérêt",
+      "answer": "C"
+    },
+    "37": {
+      "tag": "tage",
+      "question": "Quel est l'effet d'une opération de rachat d'actions (buyback) sur le bénéfice par action (BPA) d'une entreprise ?",
+      "A": "A) Le BPA augmente car le nombre d'actions en circulation diminue",
+      "B": "B) Le BPA diminue car l'entreprise a moins de liquidités disponibles",
+      "C": "C) Le BPA reste inchangé car il n'est pas influencé par les rachats d'actions",
+      "D": "D) Le BPA augmente uniquement si l'entreprise obtient un rendement plus élevé sur ses investissements",
+      "answer": "A"
+    },
+    "38": {
+      "tag": "tage",
+      "question": "Quel est l'impact d'une hausse des taux d'intérêt sur la valorisation des entreprises ?",
+      "A": "A) La valorisation des entreprises baisse en raison de la hausse du coût du capital",
+      "B": "B) La valorisation des entreprises augmente car les rendements futurs deviennent plus attractifs",
+      "C": "C) Aucune incidence sur la valorisation des entreprises à court terme",
+      "D": "D) La valorisation des entreprises reste inchangée car les taux d'intérêt n'affectent pas la croissance",
+      "answer": "D"
+    },
+    "39": {
+      "tag": "tage",
+      "question": "En cas de hausse des taux d'intérêt, quel impact cela a-t-il généralement sur la valorisation des entreprises ?",
+      "A": "A) La valorisation des entreprises baisse en raison de la hausse du coût du capital",
+      "B": "B) La valorisation des entreprises augmente car les rendements futurs deviennent plus attractifs",
+      "C": "C) Aucune incidence sur la valorisation des entreprises à court terme",
+      "D": "D) La valorisation des entreprises reste inchangée car les taux d'intérêt n'affectent pas la croissance",
+      "answer": "A"
+    },
+    "40": {
+      "tag": "tage",
+      "question": "Dans l'analyse des flux de trésorerie, quel est l'élément crucial pour estimer la capacité d'une entreprise à générer des liquidités ?",
+      "A": "A) Le flux de trésorerie d'exploitation",
+      "B": "B) Les bénéfices avant intérêts, impôts, amortissements et provisions (EBITDA)",
+      "C": "C) Le flux de trésorerie libre (FCF)",
+      "D": "D) Le ratio de rentabilité des capitaux propres",
+      "answer": "B"
+    },
+    "41": {
+      "tag": "tage",
+      "question": "En cas de rachat d'entreprise, quel est l'impact immédiat sur le ratio de rentabilité des capitaux propres (ROE) ?",
+      "A": "A) Le ROE peut augmenter si l'entreprise acheteuse génère des synergies",
+      "B": "B) Le ROE baisse immédiatement en raison des coûts de l'acquisition",
+      "C": "C) Le ROE reste inchangé car l'acquisition n'affecte pas la rentabilité",
+      "D": "D) Le ROE diminue uniquement si l'acquisition est financée par des fonds propres",
+      "answer": "C"
+    },
+    "42": {
+      "tag": "tage",
+      "question": "Quelle méthode est utilisée pour évaluer la valeur des options réelles dans une analyse d'investissement ?",
+      "A": "A) La méthode de l'actualisation des flux de trésorerie",
+      "B": "B) Le modèle de Black-Scholes",
+      "C": "C) Le calcul du taux de rentabilité interne",
+      "D": "D) La méthode des comparables",
+      "answer": "B"
+    },
+    "43": {
+      "tag": "tage",
+      "question": "Quel est le principal objectif d'une analyse des risques dans un projet d'investissement ?",
+      "A": "A) Identifier les facteurs externes susceptibles d'affecter la rentabilité du projet",
+      "B": "B) Maximiser le rendement attendu du projet",
+      "C": "C) Minimiser le coût initial de l'investissement",
+      "D": "D) Estimer la durée nécessaire pour récupérer l'investissement initial",
+      "answer": "D"
+    },
+    "44": {
+      "tag": "tage",
+      "question": "Quel est le principal objectif d'un ratio de liquidité ?",
+      "A": "A) Mesurer la capacité de l'entreprise à honorer ses dettes à court terme",
+      "B": "B) Évaluer la rentabilité de l'entreprise à long terme",
+      "C": "C) Estimer la solvabilité à long terme",
+      "D": "D) Évaluer la rentabilité de l'ensemble de ses actifs",
+      "answer": "A"
+    },
+    "45": {
+      "tag": "tage",
+      "question": "Dans une analyse de rentabilité, quel critère est le plus utilisé pour évaluer le retour sur investissement (ROI) ?",
+      "A": "A) Le taux de rentabilité interne (IRR)",
+      "B": "B) Le flux de trésorerie net actualisé",
+      "C": "C) Le ratio de rentabilité des actifs",
+      "D": "D) Le délai de récupération de l'investissement",
+      "answer": "B"
+    },
+    "46": {
+      "tag": "tage",
+      "question": "Quel est l'impact immédiat de l'augmentation des coûts fixes sur la rentabilité d'une entreprise ?",
+      "A": "A) La rentabilité peut se détériorer si l'entreprise n'augmente pas ses ventes",
+      "B": "B) La rentabilité augmente automatiquement en raison de la baisse des coûts variables",
+      "C": "C) La rentabilité reste inchangée car les coûts fixes ne varient pas avec les ventes",
+      "D": "D) La rentabilité augmente si l'entreprise réduit ses coûts variables",
+      "answer": "A"
+    },
+    "47": {
+      "tag": "tage",
+      "question": "Quel est l'impact d'un ratio de rentabilité élevé sur la valorisation d'une entreprise ?",
+      "A": "A) Il augmente généralement la valorisation en raison des attentes de rendements plus élevés",
+      "B": "B) Il diminue la valorisation car il est perçu comme un signe de risque accru",
+      "C": "C) Il n'a pas d'impact direct sur la valorisation",
+      "D": "D) Il stabilise la valorisation en réduisant la volatilité des rendements",
+      "answer": "D"
+    }, 
+      "48": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une augmentation du taux d'intérêt sur la valorisation d'une entreprise ?",
+        "A": "A) La valorisation de l'entreprise diminue en raison de la hausse du coût du capital",
+        "B": "B) La valorisation de l'entreprise augmente car les rendements futurs deviennent plus attractifs",
+        "C": "C) Aucune incidence sur la valorisation des entreprises",
+        "D": "D) La valorisation de l'entreprise reste inchangée, car le taux d'intérêt n'affecte pas la valorisation",
+        "answer": "A"
+      },
+      "49": {
+        "tag": "tage",
+        "question": "Dans une analyse de rentabilité, quel critère est le plus utilisé pour évaluer la rentabilité d'un investissement ?",
+        "A": "A) Le taux de rentabilité interne (IRR)",
+        "B": "B) Le retour sur investissement (ROI)",
+        "C": "C) Le délai de récupération",
+        "D": "D) Le rendement sur l'actif (ROA)",
+        "answer": "A"
+      },
+      "50": {
+        "tag": "tage",
+        "question": "Lorsqu'une entreprise émet des actions nouvelles, quel est l'impact immédiat sur la valeur par action ?",
+        "A": "A) La valeur par action baisse en raison de la dilution des actions existantes",
+        "B": "B) La valeur par action augmente immédiatement car l'entreprise dispose de plus de liquidités",
+        "C": "C) La valeur par action reste inchangée car les actions nouvelles sont compensées par une augmentation des bénéfices",
+        "D": "D) La valeur par action baisse temporairement mais se stabilise à long terme",
+        "answer": "A"
+      },
+      "51": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une politique de dividende faible sur le coût du capital ?",
+        "A": "A) Le coût du capital diminue, car l'entreprise peut utiliser les fonds pour investir dans des projets rentables",
+        "B": "B) Le coût du capital reste inchangé, car la politique de dividende n'affecte pas les financements externes",
+        "C": "C) Le coût du capital augmente en raison de la perception d'une rentabilité moins élevée par les actionnaires",
+        "D": "D) Le coût du capital diminue, car les actionnaires exigent moins de rendement",
+        "answer": "A"
+      },
+      "52": {
+        "tag": "tage",
+        "question": "Quel ratio permet de mesurer la rentabilité d'une entreprise par rapport à ses capitaux propres ?",
+        "A": "A) Le ratio de rentabilité des capitaux propres (ROE)",
+        "B": "B) Le retour sur actifs (ROA)",
+        "C": "C) Le ratio de rentabilité nette",
+        "D": "D) Le ratio d'endettement",
+        "answer": "A"
+      },
+    
+      "53": {
+        "tag": "tage",
+        "question": "Quel est le principal facteur qui influence le coût du capital d'une entreprise ?",
+        "A": "A) Le taux d'intérêt sans risque",
+        "B": "B) La rentabilité historique de l'entreprise",
+        "C": "C) Le niveau d'endettement de l'entreprise",
+        "D": "D) La politique de dividende de l'entreprise",
+        "answer": "B"
+      },
+      "54": {
+        "tag": "tage",
+        "question": "Dans le cadre d'une analyse de flux de trésorerie actualisés (DCF), quelle est l'importance d'une prévision des flux futurs ?",
+        "A": "A) Les flux futurs sont essentiels pour évaluer la valeur actuelle nette d'un projet",
+        "B": "B) Les flux futurs ne sont pas importants car l'accent est mis sur la rentabilité passée",
+        "C": "C) Les flux futurs ne peuvent pas être prévus de manière fiable et sont donc négligés",
+        "D": "D) Les flux futurs sont secondaires et l'accent est mis sur le coût du capital",
+        "answer": "B"
+      },
+      "55": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une réduction des coûts fixes sur la rentabilité d'une entreprise ?",
+        "A": "A) La rentabilité augmente car les coûts fixes ne varient pas avec le volume de ventes",
+        "B": "B) La rentabilité reste inchangée car les coûts fixes sont fixes",
+        "C": "C) La rentabilité diminue car les coûts fixes sont proportionnels au chiffre d'affaires",
+        "D": "D) La rentabilité augmente seulement si les ventes augmentent également",
+        "answer": "B"
+      },
+      "56": {
+        "tag": "tage",
+        "question": "Quel est l'effet d'une augmentation du capital propre sur la solvabilité d'une entreprise ?",
+        "A": "A) L'augmentation du capital propre améliore la solvabilité de l'entreprise en réduisant la proportion de dette",
+        "B": "B) L'augmentation du capital propre n'a aucun impact sur la solvabilité",
+        "C": "C) La solvabilité diminue car l'entreprise devient plus exposée au risque de marché",
+        "D": "D) La solvabilité diminue à court terme, mais peut s'améliorer à long terme",
+        "answer": "B"
+      },
+      "57": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une hausse des coûts des matières premières sur la rentabilité d'une entreprise ?",
+        "A": "A) La rentabilité baisse car l'entreprise devra augmenter ses prix ou accepter une compression des marges",
+        "B": "B) La rentabilité augmente car l'entreprise bénéficie de marges plus élevées sur ses produits",
+        "C": "C) La rentabilité reste inchangée, car l'entreprise peut compenser les coûts par une meilleure gestion",
+        "D": "D) La rentabilité reste inchangée car la hausse des coûts n'affecte pas directement la rentabilité",
+        "answer": "B"
+      },
+      "58": {
+        "tag": "tage",
+        "question": "Quel est l'effet d'une politique de réduction de la dette à long terme sur le risque d'une entreprise ?",
+        "A": "A) La réduction de la dette à long terme diminue le risque financier en réduisant l'effet de levier",
+        "B": "B) La réduction de la dette à long terme augmente le risque financier car l'entreprise dépend davantage de l'emprunt",
+        "C": "C) La réduction de la dette à long terme n'affecte pas le risque global",
+        "D": "D) La réduction de la dette à long terme a un effet négatif sur la rentabilité à court terme",
+        "answer": "B"
+      },
+      "59": {
+        "tag": "tage",
+        "question": "Quel est l'impact de la hausse des taux d'intérêt sur les entreprises ayant un fort levier financier ?",
+        "A": "A) Les entreprises avec un fort levier financier souffriront davantage de la hausse des taux d'intérêt en raison de l'augmentation des charges d'intérêt",
+        "B": "B) Les entreprises avec un fort levier financier bénéficieront de la hausse des taux d'intérêt en raison d'une augmentation de la rentabilité",
+        "C": "C) Aucune incidence sur ces entreprises, car elles ont un faible niveau de dette",
+        "D": "D) Les entreprises avec un fort levier financier subiront une diminution de leur rentabilité",
+        "answer": "B"
+      },
+    
+      "60": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une forte rentabilité sur le coût du capital d'une entreprise ?",
+        "A": "A) Une forte rentabilité réduit le coût du capital car elle améliore les perspectives de l'entreprise",
+        "B": "B) Une forte rentabilité augmente le coût du capital en raison des attentes plus élevées des investisseurs",
+        "C": "C) Une forte rentabilité n'a pas d'impact direct sur le coût du capital",
+        "D": "D) Une forte rentabilité augmente la perception du risque et donc le coût du capital",
+        "answer": "C"
+      },
+      "61": {
+        "tag": "tage",
+        "question": "Quel est l'impact d'une augmentation de la dette à court terme sur la solvabilité d'une entreprise ?",
+        "A": "A) L'augmentation de la dette à court terme diminue la solvabilité à court terme si l'entreprise n'a pas de liquidités suffisantes",
+        "B": "B) L'augmentation de la dette à court terme améliore la solvabilité si l'entreprise utilise efficacement les fonds",
+        "C": "C) Aucune incidence sur la solvabilité à court terme",
+        "D": "D) L'augmentation de la dette à court terme augmente immédiatement la solvabilité",
+        "answer": "C"
+      },
+    
+      "62": {
+        "tag": "tage",
+        "question": "Quel est l'impact de la baisse des prix des matières premières sur les marges d'une entreprise ?",
+        "A": "A) Les marges bénéficiaires augmentent, car l'entreprise peut réduire ses coûts de production",
+        "B": "B) Les marges bénéficiaires diminuent, car l'entreprise perd en compétitivité",
+        "C": "C) Aucune incidence sur les marges bénéficiaires si l'entreprise ne réduit pas ses prix",
+        "D": "D) Les marges bénéficiaires restent inchangées, car les coûts sont fixes",
+        "answer": "D"
+      },
+    
+      "63": {
+        "tag": "tage",
+        "question": "Quel est l'impact de l'utilisation d'options réelles dans une évaluation d'investissement ?",
+        "A": "A) Les options réelles permettent de valoriser l'option de flexibilité et d'adaptation future des projets",
+        "B": "B) Les options réelles diminuent la valeur d'un projet en raison de l'incertitude",
+        "C": "C) Les options réelles n'affectent pas la valorisation d'un investissement",
+        "D": "D) Les options réelles augmentent la complexité du modèle de valorisation",
+        "answer": "D"
+      },
+    
+      "64": {
+        "tag": "tage",
+        "question": "Quel est l'impact immédiat d'une réduction des stocks sur le fonds de roulement ?",
+        "A": "A) La réduction des stocks libère des liquidités, augmentant ainsi le fonds de roulement",
+        "B": "B) La réduction des stocks n'affecte pas directement le fonds de roulement",
+        "C": "C) La réduction des stocks diminue le fonds de roulement en augmentant les besoins en liquidités",
+        "D": "D) La réduction des stocks augmente le fonds de roulement en réduisant les créances",
+        "answer": "A"
+      },
+      
+      "65": {
+        "tag": "tage",
+        "question": "Quel est l'effet d'une politique de fusion sur la rentabilité à court terme d'une entreprise ?",
+        "A": "A) La rentabilité à court terme peut diminuer en raison des coûts d'intégration et des synergies",
+        "B": "B) La rentabilité à court terme peut augmenter immédiatement grâce à l'effet de taille",
+        "C": "C) La rentabilité reste inchangée à court terme",
+        "D": "D) La rentabilité à court terme diminue en raison des amortissements accrus",
+        "answer": "A"
+      },
+        "66": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une hausse du taux d'intérêt sur la valorisation d'une entreprise ?",
+          "A": "A) La valorisation augmente en raison de l'augmentation des rendements",
+          "B": "B) La valorisation reste inchangée car elle est indépendante des taux d'intérêt",
+          "C": "C) La valorisation diminue uniquement pour les entreprises fortement endettées",
+          "D": "D) La valorisation diminue en raison de l'augmentation du coût du capital",
+          "answer": "D"
+        },
+        "67": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une diminution des coûts fixes sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée car les coûts fixes ne varient pas avec le volume",
+          "B": "B) La rentabilité diminue en raison de la réduction de la capacité de production",
+          "C": "C) La rentabilité augmente en raison de la baisse des ventes",
+          "D": "D) La rentabilité augmente car les coûts fixes réduits permettent de mieux couvrir les charges",
+          "answer": "D"
+        },
+        "68": {
+          "tag": "tage",
+          "question": "Quel est l'effet d'une augmentation de l'endettement sur la solvabilité d'une entreprise ?",
+          "A": "A) La solvabilité s'améliore en raison de la hausse de la rentabilité",
+          "B": "B) La solvabilité reste inchangée car la structure de l'endettement ne varie pas",
+          "C": "C) La solvabilité se maintient grâce aux faibles coûts d'emprunt",
+          "D": "D) La solvabilité se dégrade en raison de l'augmentation du levier financier",
+          "answer": "D"
+        },
+        "69": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une fusion-acquisition sur les coûts opérationnels à court terme ?",
+          "A": "A) Les coûts opérationnels diminuent immédiatement en raison des économies d'échelle",
+          "B": "B) Les coûts opérationnels restent constants car l'intégration est rapide",
+          "C": "C) Les coûts opérationnels augmentent en raison des économies de coûts sur le long terme",
+          "D": "D) Les coûts opérationnels augmentent à court terme en raison des dépenses liées à l'intégration",
+          "answer": "D"
+        },
+        "70": {
+          "tag": "tage",
+          "question": "Quel est l'effet d'une politique de dividende élevé sur le coût du capital d'une entreprise ?",
+          "A": "A) Le coût du capital diminue car l'entreprise attire plus d'investisseurs",
+          "B": "B) Le coût du capital reste inchangé car la politique de dividende ne modifie pas le risque perçu",
+          "C": "C) Le coût du capital augmente car les actionnaires exigent des rendements plus élevés",
+          "D": "D) Le coût du capital augmente en raison de l'augmentation du risque perçu par les investisseurs",
+          "answer": "D"
+        },
+        "71": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une baisse des prix des matières premières sur les marges d'une entreprise ?",
+          "A": "A) Les marges bénéficiaires augmentent mais les coûts de production diminuent",
+          "B": "B) Les marges bénéficiaires diminuent en raison d'une réduction des revenus",
+          "C": "C) Les marges bénéficiaires restent inchangées car l'entreprise ajuste ses prix",
+          "D": "D) Les marges bénéficiaires augmentent car les coûts de production diminuent",
+          "answer": "D"
+        },
+        "72": {
+          "tag": "tage",
+          "question": "Quel est l'effet immédiat de l'augmentation des coûts de main-d'œuvre sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée car les coûts sont répercutés sur les consommateurs",
+          "B": "B) La rentabilité diminue à court terme, mais la situation se stabilise à long terme",
+          "C": "C) La rentabilité diminue en raison de la hausse des charges fixes",
+          "D": "D) La rentabilité diminue immédiatement en raison de l'augmentation des charges de personnel",
+          "answer": "D"
+        },
+        "73": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une opération de rachat d'une entreprise par emprunt sur sa structure financière ?",
+          "A": "A) La structure financière reste inchangée en raison des financements propres",
+          "B": "B) La structure financière se renforce car l'endettement baisse",
+          "C": "C) La structure financière s'améliore en raison de la rentabilité accrue de l'entreprise cible",
+          "D": "D) La structure financière devient plus risquée en raison de l'augmentation de la dette",
+          "answer": "D"
+        },
+        "74": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une réduction des prix de vente sur la rentabilité d'une entreprise en situation de forte concurrence ?",
+          "A": "A) La rentabilité augmente grâce à l'accroissement du volume de ventes",
+          "B": "B) La rentabilité reste inchangée car l'entreprise ajuste sa production",
+          "C": "C) La rentabilité augmente uniquement si les coûts de production diminuent",
+          "D": "D) La rentabilité diminue à court terme en raison de la pression sur les marges",
+          "answer": "D"
+        },
+        "75": {
+          "tag": "tage",
+          "question": "Quel est l'effet d'une politique de réduction des stocks sur le fonds de roulement d'une entreprise ?",
+          "A": "A) La réduction des stocks libère des liquidités et diminue le fonds de roulement",
+          "B": "B) La réduction des stocks augmente le fonds de roulement à court terme",
+          "C": "C) La réduction des stocks n'affecte pas le fonds de roulement",
+          "D": "D) La réduction des stocks libère des liquidités et améliore le fonds de roulement",
+          "answer": "D"
+        },
+        "76": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une forte politique d'investissements en R&D sur la rentabilité à court terme ?",
+          "A": "A) La rentabilité augmente immédiatement grâce à l'innovation",
+          "B": "B) La rentabilité reste inchangée car l'entreprise bénéficie de subventions",
+          "C": "C) La rentabilité diminue en raison des dépenses élevées sans retour immédiat",
+          "D": "D) La rentabilité diminue à court terme mais augmente à long terme grâce à l'innovation",
+          "answer": "D"
+        },
+        "77": {
+          "tag": "tage",
+          "question": "Quel est l'effet d'une politique d'augmentation du capital sur la valeur de l'action d'une entreprise ?",
+          "A": "A) La valeur de l'action augmente immédiatement en raison de la hausse des bénéfices",
+          "B": "B) La valeur de l'action reste inchangée car le capital est augmenté sans impact direct sur les résultats",
+          "C": "C) La valeur de l'action diminue en raison de la dilution des actions existantes",
+          "D": "D) La valeur de l'action diminue immédiatement en raison de la dilution des actions existantes",
+          "answer": "D"
+        },
+        "78": {
+          "tag": "tage",
+          "question": "Quel est l'impact d'une politique de réduction des coûts fixes sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité reste inchangée si les volumes de production sont stables",
+          "B": "B) La rentabilité augmente immédiatement en raison de la réduction des dépenses",
+          "C": "C) La rentabilité diminue en raison de la baisse des recettes",
+          "D": "D) La rentabilité augmente à long terme grâce à la réduction des coûts fixes",
+          "answer": "D"
+        },
+        "79": {
+          "tag": "tage",
+          "question": "Quel est l'impact de l'augmentation des taux d'intérêt sur les entreprises à fort levier financier ?",
+          "A": "A) Ces entreprises bénéficient de l'augmentation des taux d'intérêt",
+          "B": "B) Elles souffrent de la hausse du coût des emprunts et de l'augmentation des charges d'intérêts",
+          "C": "C) Elles n'ont pas d'impact significatif car elles ne dépendent pas du financement par emprunt",
+          "D": "D) Elles souffrent davantage en raison de l'augmentation de la charge d'intérêt",
+          "answer": "D"
+        },
+        "80": {
+          "tag": "tage",
+          "question": "Quel est l'effet d'une hausse des salaires sur la rentabilité d'une entreprise ?",
+          "A": "A) La rentabilité augmente grâce à une meilleure productivité des employés",
+          "B": "B) La rentabilité reste inchangée si les employés sont plus motivés",
+          "C": "C) La rentabilité augmente immédiatement en raison de la hausse des prix des produits",
+          "D": "D) La rentabilité diminue à court terme à cause de l'augmentation des charges salariales",
+          "answer": "D"
+        }
+      
+    
   }
   

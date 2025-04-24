@@ -1,0 +1,287 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: #F5F5F5;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+/* Screen Styles */
+.screen {
+    display: none;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.screen.active {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Menu Screen */
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #58CC02;
+    margin-bottom: 32px;
+    text-align: center;
+}
+
+.menu-button {
+    width: 100%;
+    padding: 16px;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    text-align: center;
+}
+
+.menu-button.streak {
+    background-color: #58CC02;
+}
+
+.menu-button.streak:hover {
+    background-color: #46a302;
+}
+
+.menu-button.network {
+    background-color: #1CB0F6;
+}
+
+.menu-button.network:hover {
+    background-color: #0e9de0;
+}
+
+.menu-button.cloud {
+    background-color: #FF9600;
+}
+
+.menu-button.cloud:hover {
+    background-color: #e08600;
+}
+
+.menu-button.ceh {
+    background-color: #FF4B4B;
+}
+
+.menu-button.ceh:hover {
+    background-color: #e03e3e;
+}
+
+.menu-button.infinite {
+    background-color: #A560E8;
+}
+
+.menu-button.infinite:hover {
+    background-color: #8d4bcc;
+}
+
+.quiz-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 16px;
+}
+
+.exit-button {
+    background: none;
+    border: none;
+    color: #666;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.exit-button:hover {
+    color: #333;
+}
+
+.category-display, .question-counter {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background-color: #e0e0e0;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    background-color: #58CC02;
+    width: 0%;
+    transition: width 0.3s ease;
+}
+
+.card {
+    width: 100%;
+    background-color: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.question-text {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 24px;
+    color: #333;
+}
+
+.options-container {
+    display: grid;
+    gap: 12px;
+}
+
+.option-button {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    text-align: left;
+    background-color: white;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 1rem;
+}
+
+.option-button:hover:not(.selected) {
+    background-color: #f5f5f5;
+}
+
+.option-button.selected {
+    cursor: default;
+}
+
+.option-button.correct {
+    border-color: #58CC02;
+    background-color: #E5F8D3;
+}
+
+.option-button.incorrect {
+    border-color: #FF4B4B;
+    background-color: #FFEDED;
+}
+
+.option-letter {
+    font-weight: bold;
+    margin-right: 12px;
+}
+
+.option-text {
+    flex: 1;
+}
+
+.option-icon {
+    width: 24px;
+    height: 24px;
+    margin-left: 8px;
+}
+
+.feedback-message {
+    margin-top: 16px;
+    padding: 12px;
+    background-color: #E6F4FF;
+    border-radius: 8px;
+    color: #0066CC;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Results Screen */
+.results-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #58CC02;
+    margin-bottom: 16px;
+}
+
+.score-display {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.score-message {
+    font-size: 1.125rem;
+    color: #555;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+#summary-questions{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.question{
+    color: #555;
+    background-color: white;
+    border-radius: 12px;
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    to {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+}
+
+.fade-in {
+    animation: fadeIn 0.3s forwards;
+}
+
+.fade-out {
+    animation: fadeOut 0.3s forwards;
+}

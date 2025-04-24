@@ -3670,5 +3670,700 @@
             "C": "C) Portable",
             "D": "D) Slow",
             "answer": "B"
-      }
+      },
+            "408": {
+              "tag": "Network",
+              "question": "Which layer of the OSI model is responsible for logical addressing?",
+              "A": "A) Network",
+              "B": "B) Data Link",
+              "C": "C) Transport",
+              "D": "D) Session",
+              "answer": "A"
+            },
+            "409": {
+              "tag": "Network",
+              "question": "What protocol is used to assign IP addresses automatically to devices on a network?",
+              "A": "A) DNS",
+              "B": "B) DHCP",
+              "C": "C) FTP",
+              "D": "D) ARP",
+              "answer": "B"
+            },
+            "410": {
+              "tag": "Network",
+              "question": "Which device operates at the Data Link layer and can segment a network?",
+              "A": "A) Router",
+              "B": "B) Modem",
+              "C": "C) Switch",
+              "D": "D) Repeater",
+              "answer": "C"
+            },
+            "411": {
+              "tag": "Network",
+              "question": "Which protocol uses port 443 by default?",
+              "A": "A) HTTP",
+              "B": "B) FTP",
+              "C": "C) SSH",
+              "D": "D) HTTPS",
+              "answer": "D"
+            },
+            "412": {
+              "tag": "Network",
+              "question": "What is the main function of a firewall?",
+              "A": "A) To filter traffic based on rules",
+              "B": "B) To assign IP addresses",
+              "C": "C) To manage domain names",
+              "D": "D) To monitor switch performance",
+              "answer": "A"
+            },
+            "413": {
+              "tag": "Network",
+              "question": "Which type of IP address is used to identify a group of devices?",
+              "A": "A) Unicast",
+              "B": "B) Multicast",
+              "C": "C) Broadcast",
+              "D": "D) Anycast",
+              "answer": "B"
+            },
+            "414": {
+              "tag": "Network",
+              "question": "What device is used to connect different networks together?",
+              "A": "A) Switch",
+              "B": "B) Router",
+              "C": "C) Access Point",
+              "D": "D) Hub",
+              "answer": "B"
+            },
+            "415": {
+              "tag": "Network",
+              "question": "Which protocol is used to securely access a remote computer?",
+              "A": "A) HTTP",
+              "B": "B) Telnet",
+              "C": "C) SSH",
+              "D": "D) FTP",
+              "answer": "C"
+            },
+            "416": {
+              "tag": "Network",
+              "question": "What type of address is FF:FF:FF:FF:FF:FF?",
+              "A": "A) Unicast",
+              "B": "B) Multicast",
+              "C": "C) Broadcast",
+              "D": "D) Anycast",
+              "answer": "C"
+            },
+            "417": {
+              "tag": "Network",
+              "question": "Which protocol is used for secure web communication?",
+              "A": "A) FTP",
+              "B": "B) SMTP",
+              "C": "C) SSH",
+              "D": "D) HTTPS",
+              "answer": "D"
+            },
+            "418": {
+              "tag": "Network",
+              "question": "Which command can show the route packets take to a destination?",
+              "A": "A) ping",
+              "B": "B) traceroute",
+              "C": "C) ipconfig",
+              "D": "D) netstat",
+              "answer": "B"
+            },
+            "419": {
+              "tag": "Network",
+              "question": "What is the function of the ARP protocol?",
+              "A": "A) Resolving MAC to IP",
+              "B": "B) Resolving IP to MAC",
+              "C": "C) Encrypting traffic",
+              "D": "D) Establishing VPNs",
+              "answer": "B"
+            },
+            "420": {
+              "tag": "Network",
+              "question": "Which protocol operates at the Transport layer and is connection-oriented?",
+              "A": "A) UDP",
+              "B": "B) IP",
+              "C": "C) TCP",
+              "D": "D) ICMP",
+              "answer": "C"
+            },
+            "421": {
+              "tag": "Network",
+              "question": "Which tool would you use to analyze packets on a network?",
+              "A": "A) Wireshark",
+              "B": "B) Notepad",
+              "C": "C) Excel",
+              "D": "D) Paint",
+              "answer": "A"
+            },
+            "422": {
+              "tag": "Network",
+              "question": "What is the main purpose of NAT?",
+              "A": "A) Encrypting data",
+              "B": "B) Hiding internal IP addresses",
+              "C": "C) Speeding up DNS resolution",
+              "D": "D) Managing VLANs",
+              "answer": "B"
+            },
+            "423": {
+              "tag": "Network",
+              "question": "Which layer of the OSI model is responsible for reliable communication?",
+              "A": "A) Data Link",
+              "B": "B) Network",
+              "C": "C) Transport",
+              "D": "D) Application",
+              "answer": "C"
+            },
+            "424": {
+              "tag": "Network",
+              "question": "Which command is used to display current TCP/IP network configuration values?",
+              "A": "A) ping",
+              "B": "B) netstat",
+              "C": "C) ipconfig",
+              "D": "D) traceroute",
+              "answer": "C"
+            },
+            "425": {
+              "tag": "Network",
+              "question": "What type of network uses radio waves to transmit data?",
+              "A": "A) Wired",
+              "B": "B) Optical",
+              "C": "C) Cellular",
+              "D": "D) Wireless",
+              "answer": "D"
+            },
+            "426": {
+              "tag": "Network",
+              "question": "Which address class allows for the largest number of hosts?",
+              "A": "A) Class C",
+              "B": "B) Class B",
+              "C": "C) Class A",
+              "D": "D) Class D",
+              "answer": "C"
+            },
+            "427": {
+              "tag": "Network",
+              "question": "Which device helps to prevent broadcast storms by managing traffic intelligently?",
+              "A": "A) Hub",
+              "B": "B) Switch",
+              "C": "C) Bridge",
+              "D": "D) Router",
+              "answer": "B"
+            },
+            "428": {
+    "tag": "Network",
+    "question": "Which routing protocol uses Dijkstra's algorithm to compute the shortest path?",
+    "A": "A) OSPF",
+    "B": "B) RIP",
+    "C": "C) BGP",
+    "D": "D) EIGRP",
+    "answer": "A"
+  },
+  "429": {
+    "tag": "Network",
+    "question": "In BGP, what attribute is used to prevent routing loops?",
+    "A": "A) AS_PATH",
+    "B": "B) NEXT_HOP",
+    "C": "C) ORIGIN",
+    "D": "D) MED",
+    "answer": "B"
+  },
+  "430": {
+    "tag": "Network",
+    "question": "Which protocol is used to securely synchronize time across devices in a network?",
+    "A": "A) TFTP",
+    "B": "B) NTP",
+    "C": "C) SNMP",
+    "D": "D) SMTP",
+    "answer": "B"
+  },
+  "431": {
+    "tag": "Network",
+    "question": "What is the primary function of the OUI part of a MAC address?",
+    "A": "A) It identifies the device model",
+    "B": "B) It indicates the physical port",
+    "C": "C) It identifies the vendor",
+    "D": "D) It defines the VLAN tag",
+    "answer": "C"
+  },
+  "432": {
+    "tag": "Network",
+    "question": "What is the purpose of the TTL field in an IP packet?",
+    "A": "A) To indicate the time a packet was sent",
+    "B": "B) To measure latency",
+    "C": "C) To prevent infinite loops",
+    "D": "D) To define encryption level",
+    "answer": "C"
+  },
+  "433": {
+    "tag": "Network",
+    "question": "Which technology allows multiple VLANs to be carried over a single physical link?",
+    "A": "A) Port mirroring",
+    "B": "B) Trunking",
+    "C": "C) NAT",
+    "D": "D) MAC flooding",
+    "answer": "B"
+  },
+  "434": {
+    "tag": "Network",
+    "question": "Which protocol does SNMPv3 use to provide message integrity and encryption?",
+    "A": "A) TLS",
+    "B": "B) MD5",
+    "C": "C) IPsec",
+    "D": "D) USM (User-based Security Model)",
+    "answer": "D"
+  },
+  "435": {
+    "tag": "Network",
+    "question": "Which multicast address is reserved for all OSPF routers?",
+    "A": "A) 224.0.0.1",
+    "B": "B) 224.0.0.5",
+    "C": "C) 224.0.0.9",
+    "D": "D) 224.0.0.6",
+    "answer": "B"
+  },
+  "436": {
+    "tag": "Network",
+    "question": "Which field in the IPv6 header replaces the IPv4 TTL field?",
+    "A": "A) Payload Length",
+    "B": "B) Flow Label",
+    "C": "C) Hop Limit",
+    "D": "D) Next Header",
+    "answer": "C"
+  },
+  "437": {
+    "tag": "Network",
+    "question": "Which command-line tool is best for diagnosing DNS resolution issues?",
+    "A": "A) netstat",
+    "B": "B) nslookup",
+    "C": "C) traceroute",
+    "D": "D) iperf",
+    "answer": "B"
+  },
+  "438": {
+    "tag": "Network",
+    "question": "What is the purpose of the 'root bridge' in Spanning Tree Protocol (STP)?",
+    "A": "A) To assign IP addresses",
+    "B": "B) To determine the primary path in the topology",
+    "C": "C) To route traffic between VLANs",
+    "D": "D) To apply port security policies",
+    "answer": "B"
+  },
+  "439": {
+    "tag": "Network",
+    "question": "In IPv6, what is the equivalent of a private IP address?",
+    "A": "A) Anycast address",
+    "B": "B) Link-local address",
+    "C": "C) Global unicast address",
+    "D": "D) Unique local address",
+    "answer": "D"
+  },
+  "440": {
+    "tag": "Network",
+    "question": "Which port does SNMP typically use?",
+    "A": "A) 53",
+    "B": "B) 161",
+    "C": "C) 23",
+    "D": "D) 22",
+    "answer": "B"
+  },
+  "441": {
+    "tag": "Network",
+    "question": "What is the primary function of the 'Cost' metric in OSPF?",
+    "A": "A) To assign routing priority based on distance",
+    "B": "B) To define maximum bandwidth",
+    "C": "C) To determine the shortest path",
+    "D": "D) To block untrusted interfaces",
+    "answer": "C"
+  },
+  "442": {
+    "tag": "Network",
+    "question": "Which IPv6 address type is used to communicate with all nodes on a link?",
+    "A": "A) Unique local",
+    "B": "B) Global unicast",
+    "C": "C) Link-local",
+    "D": "D) Multicast",
+    "answer": "D"
+  },
+  "443": {
+    "tag": "Network",
+    "question": "Which of the following is a layer 2 attack vector?",
+    "A": "A) SYN flood",
+    "B": "B) MAC spoofing",
+    "C": "C) SQL injection",
+    "D": "D) Man-in-the-middle via SSL stripping",
+    "answer": "B"
+  },
+  "444": {
+    "tag": "Network",
+    "question": "What is the function of the BGP 'Local Preference' attribute?",
+    "A": "A) Influences the exit path from an AS",
+    "B": "B) Influences the entry path to an AS",
+    "C": "C) Prevents route flapping",
+    "D": "D) Manages external peer timers",
+    "answer": "A"
+  },
+  "445": {
+    "tag": "Network",
+    "question": "Which component in a router stores the running configuration?",
+    "A": "A) ROM",
+    "B": "B) RAM",
+    "C": "C) NVRAM",
+    "D": "D) Flash",
+    "answer": "B"
+  },
+  "446": {
+    "tag": "Network",
+    "question": "In a VPN setup, what is the purpose of the IPsec ESP protocol?",
+    "A": "A) It provides routing information",
+    "B": "B) It encrypts data for confidentiality",
+    "C": "C) It negotiates key exchange",
+    "D": "D) It provides authentication without encryption",
+    "answer": "B"
+  },
+  "447": {
+    "tag": "Network",
+    "question": "Which layer of the OSI model is responsible for end-to-end encryption?",
+    "A": "A) Data Link",
+    "B": "B) Transport",
+    "C": "C) Network",
+    "D": "D) Presentation",
+    "answer": "D"
+  },
+  "448": {
+      "tag": "Cloud",
+      "question": "Which of the following is a primary benefit of using a multi-cloud strategy?",
+      "A": "A) Improved disaster recovery capabilities",
+      "B": "B) Reduced management complexity",
+      "C": "C) Lower network latency",
+      "D": "D) Easier migration between clouds",
+      "answer": "A"
+    },
+    "449": {
+      "tag": "Cloud",
+      "question": "What is the main purpose of a hypervisor in virtualization?",
+      "A": "A) To manage virtual machines and allocate resources",
+      "B": "B) To monitor network traffic between virtual machines",
+      "C": "C) To ensure high availability of virtual machines",
+      "D": "D) To configure firewall settings for virtual machines",
+      "answer": "A"
+    },
+    "450": {
+      "tag": "Cloud",
+      "question": "Which of the following describes a key challenge when deploying a private cloud?",
+      "A": "A) High upfront capital expenditure for hardware and software",
+      "B": "B) Limited scalability compared to public cloud",
+      "C": "C) Poor integration with third-party services",
+      "D": "D) Lack of customization for enterprise needs",
+      "answer": "A"
+    },
+    "451": {
+      "tag": "Cloud",
+      "question": "Which of the following protocols is most commonly used for network virtualization in SDN?",
+      "A": "A) OpenFlow",
+      "B": "B) HTTP/HTTPS",
+      "C": "C) SNMP",
+      "D": "D) FTP",
+      "answer": "A"
+    },
+    "452": {
+      "tag": "Cloud",
+      "question": "Which of the following is a key feature of cloud-native applications?",
+      "A": "A) Microservices architecture",
+      "B": "B) Monolithic design",
+      "C": "C) Static resource allocation",
+      "D": "D) Heavy reliance on on-premise infrastructure",
+      "answer": "A"
+    },
+    "453": {
+      "tag": "Cloud",
+      "question": "Which of the following is the primary responsibility of a cloud service provider in a SaaS model?",
+      "A": "A) Maintaining the underlying infrastructure and platform",
+      "B": "B) Managing user-specific data and access control",
+      "C": "C) Handling customer support for application issues",
+      "D": "D) Designing the user interface of the application",
+      "answer": "B"
+    },
+    "454": {
+      "tag": "Cloud",
+      "question": "What is the primary advantage of using serverless computing?",
+      "A": "A) No need to manage the underlying infrastructure",
+      "B": "B) Better control over server performance",
+      "C": "C) Easier management of virtual machines",
+      "D": "D) More predictable costs",
+      "answer": "B"
+    },
+    "455": {
+      "tag": "Cloud",
+      "question": "Which of the following is the primary challenge when implementing containerization in a cloud environment?",
+      "A": "A) Ensuring secure container orchestration",
+      "B": "B) Maximizing physical hardware utilization",
+      "C": "C) Maintaining high availability of virtual machines",
+      "D": "D) Scaling the database services effectively",
+      "answer": "B"
+    },
+    "456": {
+      "tag": "Cloud",
+      "question": "Which service is typically used to automatically scale resources in a cloud environment?",
+      "A": "A) Auto-scaling",
+      "B": "B) Load balancing",
+      "C": "C) Virtual Machine replication",
+      "D": "D) Snapshotting",
+      "answer": "A"
+    },
+    "457": {
+      "tag": "Cloud",
+      "question": "Which of the following is the best strategy for handling large-scale cloud storage for sensitive data?",
+      "A": "A) Encrypt the data both at rest and in transit",
+      "B": "B) Use distributed file systems without encryption",
+      "C": "C) Store data in a single on-premise server",
+      "D": "D) Only use cloud storage from a single vendor",
+      "answer": "A"
+    },
+    "458": {
+      "tag": "Cloud",
+      "question": "In the context of virtual private clouds (VPCs), what does 'subnetting' allow an organization to do?",
+      "A": "A) Divide a VPC into smaller isolated networks",
+      "B": "B) Directly connect the VPC to on-premise servers",
+      "C": "C) Increase the bandwidth of a cloud instance",
+      "D": "D) Provide encryption for data in transit",
+      "answer": "B"
+    },
+    "459": {
+      "tag": "Cloud",
+      "question": "Which of the following is a common feature of hybrid cloud architectures?",
+      "A": "A) Ability to shift workloads between public and private clouds",
+      "B": "B) Exclusive use of a single public cloud provider",
+      "C": "C) Permanent isolation from on-premise infrastructure",
+      "D": "D) Lack of integration between cloud and on-premise resources",
+      "answer": "B"
+    },
+    "460": {
+      "tag": "Cloud",
+      "question": "Which is a primary reason why containers have become a popular method for deploying cloud applications?",
+      "A": "A) They provide lightweight, portable environments for applications",
+      "B": "B) They offer direct control over the virtual machines",
+      "C": "C) They are easier to configure and require less management",
+      "D": "D) They reduce the need for multi-cloud strategies",
+      "answer": "C"
+    },
+    "461": {
+      "tag": "Cloud",
+      "question": "In cloud computing, what does 'elasticity' refer to?",
+      "A": "A) The ability to scale resources dynamically based on demand",
+      "B": "B) The ability to ensure high availability through redundancy",
+      "C": "C) The capacity to store massive amounts of data",
+      "D": "D) The process of separating workloads into multiple clouds",
+      "answer": "C"
+    },
+    "462": {
+      "tag": "Cloud",
+      "question": "What is the purpose of a cloud access security broker (CASB)?",
+      "A": "A) To provide visibility and control over cloud service usage",
+      "B": "B) To manage cloud infrastructure costs",
+      "C": "C) To automate the provisioning of cloud resources",
+      "D": "D) To control data migration between public and private clouds",
+      "answer": "C"
+    },
+    "463": {
+      "tag": "Cloud",
+      "question": "Which of the following is a typical use case for edge computing in the cloud?",
+      "A": "A) Processing large amounts of data closer to where it is generated",
+      "B": "B) Storing data in a central, regional cloud data center",
+      "C": "C) Running legacy applications in the cloud without modification",
+      "D": "D) Encrypting all incoming traffic to cloud applications",
+      "answer": "D"
+    },
+    "464": {
+      "tag": "Cloud",
+      "question": "What is a key advantage of using cloud-native databases?",
+      "A": "A) They can automatically scale and handle distributed workloads",
+      "B": "B) They provide direct control over database replication",
+      "C": "C) They require minimal network configuration",
+      "D": "D) They are fully isolated from the internet",
+      "answer": "D"
+    },
+    "465": {
+      "tag": "Cloud",
+      "question": "Which of the following best defines a microservices architecture in the cloud?",
+      "A": "A) An application structure where services are loosely coupled and independently deployable",
+      "B": "B) A tightly integrated system that shares a single codebase",
+      "C": "C) A way to deploy monolithic applications as cloud-based services",
+      "D": "D) A model where all services are packaged within one large container",
+      "answer": "D"
+    },
+    "466": {
+      "tag": "Cloud",
+      "question": "Which of the following is the most common cause of cloud infrastructure failure?",
+      "A": "A) Hardware failure",
+      "B": "B) Misconfigured network settings",
+      "C": "C) Inadequate power supply",
+      "D": "D) DDoS attacks",
+      "answer": "A"
+    },
+    "467": {
+      "tag": "Cloud",
+      "question": "What is the main benefit of using containers in cloud computing?",
+      "A": "A) Portability across different environments",
+      "B": "B) Increased physical resource usage",
+      "C": "C) Increased complexity of deployment",
+      "D": "D) Reduced networking overhead",
+      "answer": "B"
+    },
+    "468": {
+      "tag": "Cloud",
+      "question": "Which of the following is a major challenge of using cloud services for big data analytics?",
+      "A": "A) Data security and privacy concerns",
+      "B": "B) High cost of cloud infrastructure",
+      "C": "C) Lack of integration with legacy systems",
+      "D": "D) Limited computational resources in the cloud",
+      "answer": "A"
+    },
+    "469": {
+      "tag": "Cloud",
+      "question": "Which cloud deployment model is most suited for organizations that need to comply with strict regulatory requirements?",
+      "A": "A) Private cloud",
+      "B": "B) Public cloud",
+      "C": "C) Hybrid cloud",
+      "D": "D) Community cloud",
+      "answer": "A"
+    },
+    "470": {
+      "tag": "Cloud",
+      "question": "Which of the following is a characteristic of a containerized application in a cloud environment?",
+      "A": "A) Isolation from other applications and services",
+      "B": "B) Requires a dedicated server for each instance",
+      "C": "C) Increased storage capacity for each instance",
+      "D": "D) Direct interaction with the underlying hardware",
+      "answer": "A"
+    },
+    "471": {
+      "tag": "Cloud",
+      "question": "Which of the following technologies is primarily used for orchestrating containers in the cloud?",
+      "A": "A) Kubernetes",
+      "B": "B) Docker Swarm",
+      "C": "C) Apache Mesos",
+      "D": "D) OpenStack",
+      "answer": "A"
+    },
+    "472": {
+      "tag": "Cloud",
+      "question": "What is a common approach to securing cloud-native applications?",
+      "A": "A) Micro-segmentation of network traffic",
+      "B": "B) Traditional perimeter-based security models",
+      "C": "C) Using a single monolithic firewall",
+      "D": "D) Encrypting data only at rest",
+      "answer": "C"
+    },
+    "473": {
+      "tag": "Cloud",
+      "question": "In the context of cloud networking, what does a VPN (Virtual Private Network) provide?",
+      "A": "A) Secure encrypted communication between cloud instances and on-premises resources",
+      "B": "B) Direct public access to cloud services",
+      "C": "C) Increased cloud storage capacity",
+      "D": "D) Access to cloud-based backup solutions",
+      "answer": "A"
+    },
+    "474": {
+      "tag": "Cloud",
+      "question": "What does a Cloud Service Level Agreement (SLA) define?",
+      "A": "A) The minimum performance and availability metrics guaranteed by the provider",
+      "B": "B) The maximum price a client will pay for cloud services",
+      "C": "C) The required hardware specifications for the cloud infrastructure",
+      "D": "D) The number of cloud instances a client must deploy",
+      "answer": "A"
+    },
+    "475": {
+      "tag": "Cloud",
+      "question": "Which of the following tools is most commonly used for monitoring cloud resources?",
+      "A": "A) CloudWatch",
+      "B": "B) Wireshark",
+      "C": "C) Nagios",
+      "D": "D) Zabbix",
+      "answer": "A"
+    },
+    "476": {
+      "tag": "Cloud",
+      "question": "Which type of cloud service is primarily concerned with providing software applications to end-users over the internet?",
+      "A": "A) Software as a Service (SaaS)",
+      "B": "B) Platform as a Service (PaaS)",
+      "C": "C) Infrastructure as a Service (IaaS)",
+      "D": "D) Container as a Service (CaaS)",
+      "answer": "A"
+    },
+    "477": {
+      "tag": "Cloud",
+      "question": "Which of the following is a disadvantage of a public cloud deployment model?",
+      "A": "A) Limited control over infrastructure and resources",
+      "B": "B) Higher upfront capital investment",
+      "C": "C) Lack of scalability",
+      "D": "D) High latency compared to private clouds",
+      "answer": "A"
+    },
+    "478": {
+      "tag": "Cloud",
+      "question": "Which of the following is an essential aspect of the DevOps approach in cloud environments?",
+      "A": "A) Automation of application deployment and infrastructure management",
+      "B": "B) Strict separation between development and operations teams",
+      "C": "C) Manual intervention in system scaling",
+      "D": "D) Focus on monolithic application development",
+      "answer": "A"
+    },
+    "479": {
+      "tag": "Cloud",
+      "question": "Which service is most commonly used to manage and automate the deployment of infrastructure in cloud environments?",
+      "A": "A) Infrastructure as Code (IaC)",
+      "B": "B) Cloud-based backup services",
+      "C": "C) Cloud-based file storage services",
+      "D": "D) API Gateway services",
+      "answer": "A"
+    },
+    "480": {
+      "tag": "Cloud",
+      "question": "What is a primary function of a cloud access security broker (CASB)?",
+      "A": "A) To enforce security policies across multiple cloud services",
+      "B": "B) To provide secure access to on-premise servers",
+      "C": "C) To ensure compliance with regulatory standards",
+      "D": "D) To monitor on-premise network traffic",
+      "answer": "B"
+    },
+    "481": {
+      "tag": "Cloud",
+      "question": "Which of the following is an example of a container orchestration platform?",
+      "A": "A) Kubernetes",
+      "B": "B) Docker",
+      "C": "C) VirtualBox",
+      "D": "D) OpenStack",
+      "answer": "A"
+    },
+    "482": {
+      "tag": "Cloud",
+      "question": "What does 'serverless' computing primarily eliminate the need for?",
+      "A": "A) Provisioning and managing physical servers",
+      "B": "Using containers for application deployment",
+      "C": "Establishing a database layer for applications",
+      "D": "Managing network traffic within cloud environments",
+      "answer": "A"
+    },
+    "483": {
+      "tag": "Cloud",
+      "question": "Which of the following is a primary benefit of using cloud-based disaster recovery solutions?",
+      "A": "A) Quick and cost-effective recovery from catastrophic failures",
+      "B": "B) Complete control over the physical infrastructure",
+      "C": "C) Isolation of recovery sites from public networks",
+      "D": "D) Reduction of network traffic during recovery operations",
+      "answer": "A"
+    },
+    "484": {
+      "tag": "Cloud",
+      "question": "What is the main goal of using microservices in cloud-native applications?",
+      "A": "A) To decompose an application into smaller, independently deployable components",
+      "B": "B) To run all components within a single, large monolithic container",
+      "C": "C) To eliminate the need for containers in the application architecture",
+      "D": "D) To manage databases as a unified service across multiple environments",
+      "answer": "A"
+    }
+          
+          
 }
