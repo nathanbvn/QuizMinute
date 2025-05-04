@@ -206,15 +206,6 @@
             "D": "D) Cryptointelligence",
             "answer": "A"
       },
-      "23": {
-            "tag": "CEH",
-            "question": "24. Which policy dictates how assets can be used by employees of a company?",
-            "A": "A) Security policy",
-            "B": "B) User policy",
-            "C": "C) Use policy",
-            "D": "D) Enforcement policy",
-            "answer": "E"
-      },
       "24": {
             "tag": "CEH",
             "question": "25. Which algorithm is an asymmetric encryption protocol?",
