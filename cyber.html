@@ -1,12 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cyber Quiz App</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>Cyber Quiz - Quiz Master</title>
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap">
 </head>
 <body>
+    <canvas id="matrix-bg" class="matrix-bg"></canvas>
+    <div id="particles-container"></div>
+    
+    <header class="main-header">
+        <div class="header-content">
+            <div class="logo-container">
+                <div class="logo">Q</div>
+                <h1 class="site-title">Quiz Master</h1>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Accueil</a></li>
+                    <li><a href="cyber.html" class="active">Cyber sécurité</a></li>
+                    <li><a href="finance.html">Finance</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
     <div class="container">
         <div id="menu-screen" class="screen active">
             <h1 class="title">Cyber Quiz</h1>
@@ -66,20 +87,28 @@
             <div id="summary-questions"></div>
         </div>
     </div>
+    
+    <footer class="main-footer">
+        <p>&copy; 2025 Quiz Master - Tous droits réservés</p>
+    </footer>
+
+    <script src="js/animations.js"></script>
     <script>
+        // Load questions from remote JSON
         async function loadQuestions() {
-    try {
-        const response = await fetch('https://nathanbvn.github.io/QuizMinute/quizz-db/cyber.json');
-        const data = await response.json();
-        
-        return Object.values(data);
-    } catch (error) {
-        console.error('Failed to load questions:', error);
-        return [];
-    }
-}
+            try {
+                const response = await fetch('https://nathanbvn.github.io/QuizMinute/quizz-db/cyber.json');
+                const data = await response.json();
+                
+                return Object.values(data);
+            } catch (error) {
+                console.error('Failed to load questions:', error);
+                return [];
+            }
+        }
 
     </script>
     <script src="script.js"></script>
+
 </body>
 </html>

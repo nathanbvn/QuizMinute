@@ -43,10 +43,10 @@ function startCategoryQuizz(category){
     currentQuestionIndex = 0;
     score = 0;
     selectedAnswer = null;
-    
+    console.log(category);
     questions = allQuestions.filter(item => item.tag === category);
     questions = [...questions].sort(() => 0.5 - Math.random()).splice(0, 10);
-    
+    console.log(allQuestions);
     switchScreen(menuScreen, quizScreen);
     
     displayQuestion();
@@ -86,7 +86,7 @@ function displayQuestion() {
     
     questionCounter.textContent = `${currentQuestionIndex + 1}/${questions.length}`;
     progressBar.style.width = `${(currentQuestionIndex / questions.length) * 100}%`;
-    
+
     questionText.textContent = currentQuestion.question;
     
     for (const option of ['A', 'B', 'C', 'D']) {
@@ -149,6 +149,9 @@ function showResults() {
         scoreMessage.textContent = "Aie aie aie, c'est pas encore ça hein";
     }
     
+    // Clear previous results
+    summaryQuestion.innerHTML = '';
+    
     for (let i in questions){
         var card = document.createElement("div");
         card.id= i;  
@@ -173,6 +176,8 @@ function showResults() {
 }
 
 function returnToMenu() {
+    // Clear summary questions when returning to menu
+    summaryQuestion.innerHTML = '';
     switchScreen(document.querySelector('.screen.active'), menuScreen);
 }
 
