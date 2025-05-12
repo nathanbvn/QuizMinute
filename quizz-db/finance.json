@@ -2911,6 +2911,24 @@
     "C": "C) r² × θ",
     "D": "D) (1/2) × r × θ",
     "answer": "A"
+  },
+      "375": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire d’un arc de cercle de rayon r et d’angle θ (en radians) ?",
+    "A": "A) π × r² × (θ / 360)",
+    "B": "B) π × r × θ",
+    "C": "C) (r² × θ) / 2",
+    "D": "D) 2π × r × θ",
+    "answer": "C"
+  },
+  "376": {
+    "tag": "math",
+    "question": "Quelle est la formule de l’aire de la surface d’une sphère de rayon r ?",
+    "A": "A) 4π × r²",
+    "B": "B) 3π × r²",
+    "C": "C) 4/3 × π × r³",
+    "D": "D) π × r²",
+    "answer": "A"
   }
 }
   
