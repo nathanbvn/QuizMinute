@@ -5146,6 +5146,1095 @@
         "C": "As long as the physical access to the network elements is restricted, there is no need for additional measures.",
         "D": "There is no need for specific security measures on the network elements as long as firewalls and IPS systems exist.",
         "answer": "A"
+    },
+          "573": {
+        "tag": "CEH",
+        "question": "Which wireless security protocol replaces the personal pre-shared key (PSK) authentication with Simultaneous Authentication of Equals (SAE) and is therefore resistant to offline dictionary attacks?",
+        "A": "Bluetooth",
+        "B": "WPA3-Personal",
+        "C": "WPA2-Enterprise",
+        "D": "ZigBee",
+        "answer": "B"
+    },
+    "574": {
+        "tag": "CEH",
+        "question": "An organization is performing a vulnerability assessment for mitigating threats. James, a pen tester, scanned the organization by building an inventory of the protocols found on the organization's machines to detect which ports are attached to services such as an email server, a web server, or a database server. After identifying the services, he selected the vulnerabilities on each machine and started executing only the relevant tests.What is the type of vulnerability assessment solution that James employed in the above scenario?",
+        "A": "Tree-based assessment",
+        "B": "Product-based solutions",
+        "C": "Inference-based assessment",
+        "D": "Service-based solutions",
+        "answer": "C"
+    },
+    "575": {
+        "tag": "CEH",
+        "question": "Garry is a network administrator in an organization. He uses SNMP to manage networked devices from a remote location. To manage nodes in the network, he uses MIB, which contains formal descriptions of all network objects managed by SNMP. He accesses the contents of MIB by using a web browser either by entering the IP address and Lseries.mib or by entering the DNS library name and Lseries.mib. He is currently retrieving information from an MIB that contains object types for workstations and server services.Which of the following types of MIB is accessed by Garry in the above scenario?",
+        "A": "WINS.MIB",
+        "B": "DHCP.MIB",
+        "C": "MIB_II.MIB",
+        "D": "LNMIB2.MIB",
+        "answer": "D"
+    },
+    "576": {
+        "tag": "CEH",
+        "question": "Take a look at the following attack on a Web Server using obstructed URL:How would you protect from these attacks?",
+        "A": "Enable Active Scripts Detection at the firewall and routers",
+        "B": "Create rules in IDS to alert on strange Unicode requests",
+        "C": "Configure the Web Server to deny requests involving \"hex encoded\" characters",
+        "D": "Use SSL authentication on Web Servers",
+        "answer": "B"
+    },
+    "577": {
+        "tag": "CEH",
+        "question": "Jason, an attacker, targeted an organization to perform an attack on its Internet-facing web server with the intention of gaining access to backend servers, which are protected by a firewall. In this process, he used a URL https://xyz.com/feed.php?url:externaIsile.com/feed/to to obtain a remote feed and altered the URL input to the local host to view all the local resources on the target server. What is the type of attack Jason performed In the above scenario?",
+        "A": "website defacement",
+        "B": "Server-side request forgery (SSRF) attack",
+        "C": "Web server misconfiguration",
+        "D": "web cache poisoning attack",
+        "answer": "B"
+    },
+    "578": {
+        "tag": "CEH",
+        "question": "You are programming a buffer overflow exploit and you want to create a NOP sled of 200 bytes in the program exploit.cWhat is the hexadecimal value of NOP instruction?",
+        "A": "0x60",
+        "B": "0x70",
+        "C": "0x90",
+        "D": "0x80",
+        "answer": "C"
+    },
+    "579": {
+        "tag": "CEH",
+        "question": "jane, an ethical hacker. Is testing a target organization's web server and website to identity security loopholes. In this process, she copied the entire website and its content on a local drive to view the complete profile of the site's directory structure, file structure, external links, images, web pages, and so on. This information helps jane map the website's directories and gain valuable information. What is the attack technique employed by Jane in the above scenario?",
+        "A": "Session hijacking",
+        "B": "Website defacement<br/>A mirror site may be a website or set of files on a computer server that has been copied to a different computer server in order that the location or files are available from quite one place. A mirror site has its own URL, but is otherwise just like the principal site. Load-balancing devices allow high-volume sites to scale easily, dividing the work between multiple mirror sites. A mirror site is typically updated frequently to make sure it reflects the contents of the first site. In some cases, the first site may arrange for a mirror site at a bigger location with a better speed connection and, perhaps, a better proximity to an outsized audience. If the first site generates an excessive amount of traffic, a mirror site can ensure better availability of the web site or files. For websites that provide copies or updates of widely used software, a mirror site allows the location to handle larger demands and enables the downloaded files to arrive more quickly. Microsoft, Sun Microsystems and other companies have mirror sites from which their browser software are often downloaded. Mirror sites are wont to make site access faster when the first site could also be geographically distant from those accessing it. A mirrored web server is usually located on a special continent from the principal site, allowing users on the brink of the mirror site to urge faster and more reliable access. Mirroring an internet site also can be done to make sure that information are often made available to places where access could also be unreliable or censored. In 2013, when Chinese authorities blocked access to foreign media outlets just like the Wall Street Journal and Reuters, site mirroring was wont to restore access and circumvent government censorship.",
+        "C": "website mirroring",
+        "D": "Web cache poisoning",
+        "answer": "C"
+    },
+    "580": {
+        "tag": "CEH",
+        "question": "Susan, a software developer, wants her web API to update other applications with the latest information. For this purpose, she uses a user-defined HTTP tailback or push APIs that are raised based on trigger events: when invoked, this feature supplies data to other applications so that users can instantly receive real-time Information.Which of the following techniques is employed by Susan?",
+        "A": "web shells",
+        "B": "Webhooks",
+        "C": "REST API",
+        "D": "SOAP API",
+        "answer": "B"
+    },
+    "581": {
+        "tag": "CEH",
+        "question": "You just set up a security system in your network. In what kind of system would you find the following string of characters used as a rule within its configuration? alert tcp any any -> 192.168.100.0/24 21 (msg: \"\"FTP on the network!\"\";)",
+        "A": "A firewall IPTable",
+        "B": "FTP Server rule",
+        "C": "An Intrusion Detection System",
+        "D": "A Router IPTable",
+        "answer": "C"
+    },
+    "582": {
+        "tag": "CEH",
+        "question": "This wireless security protocol allows 192-bit minimum-strength security protocols and cryptographic tools to protect sensitive data, such as GCMP-2S6. MMAC-SHA384, and ECDSA using a 384-bit elliptic curve. Which is this wireless security protocol?",
+        "A": "WPA2 Personal",
+        "B": "WPA3-Personal",
+        "C": "WPA2-Enterprise",
+        "D": "WPA3-Enterprise",
+        "answer": "D"
+    },
+    "583": {
+        "tag": "CEH",
+        "question": "Heather's company has decided to use a new customer relationship management tool. After performing the appropriate research, they decided to purchase a subscription to a cloud-hosted solution. The only administrative task that Heather will need to perform is the management of user accounts. The provider will take care of the hardware, operating system, and software administration including patching and monitoring.Which of the following is this type of solution?",
+        "A": "SaaS",
+        "B": "IaaS",
+        "C": "CaaS",
+        "D": "PasS",
+        "answer": "A"
+    },
+    "584": {
+        "tag": "CEH",
+        "question": "What is the role of test automation in security testing?",
+        "A": "Test automation is not usable in security due to the complexity of the tests.",
+        "B": "It can accelerate benchmark tests and repeat them with a consistent test setup. But it cannot replace manual testing completely.",
+        "C": "It should be used exclusively. Manual testing is outdated because of low speed and possible test setup inconsistencies.",
+        "D": "It is an option but it tends to be very expensive.",
+        "answer": "B"
+    },
+    "585": {
+        "tag": "CEH",
+        "question": "Which ios jailbreaking technique patches the kernel during the device boot so that it becomes jailbroken after each successive reboot?",
+        "A": "Tethered jailbreaking",
+        "B": "Semi-tethered jailbreaking",
+        "C": "Untethered jailbreaking",
+        "D": "Semi-Untethered jailbreaking",
+        "answer": "B"
+    },
+    "586": {
+        "tag": "CEH",
+        "question": "To hide the file on a Linux system, you have to start the filename with a specific character. What is the character?",
+        "A": "Underscore (_)",
+        "B": "Period (.)",
+        "C": "Tilde H",
+        "D": "Exclamation mark (!)",
+        "answer": "B"
+    },
+    "587": {
+        "tag": "CEH",
+        "question": "Gerard, a disgruntled ex-employee of Sunglass IT Solutions, targets this organization to perform sophisticated attacks and bring down its reputation in the market. To launch the attacks process, he performed DNS footprinting to gather information about ONS servers and to identify the hosts connected in the target network. He used an automated tool that can retrieve information about DNS zone data including DNS domain names, computer names. IP addresses. DNS records, and network Who is records. He further exploited this information to launch other sophisticated attacks. What is the tool employed by Gerard in the above scenario?",
+        "A": "Knative",
+        "B": "zANTI",
+        "C": "Towelroot",
+        "D": "Bluto",
+        "answer": "D"
+    },
+    "588": {
+        "tag": "CEH",
+        "question": "Nathan is testing some of his network devices. Nathan is using Macof to try and flood the ARP cache of these switches.If these switches' ARP cache is successfully flooded, what will be the result?",
+        "A": "Depending on the switch manufacturer, the device will either delete every entry in its ARP cache or reroute packets to the nearest switch.",
+        "B": "If the ARP cache is flooded, the switches will drop into pix mode making it less susceptible to attacks.",
+        "C": "The switches will drop into hub mode if the ARP cache is successfully flooded.",
+        "D": "The switches will route all traffic to the broadcast address created collisions.",
+        "answer": "C"
+    },
+    "589": {
+        "tag": "CEH",
+        "question": "What useful information is gathered during a successful Simple Mail Transfer Protocol (SMTP) enumeration?",
+        "A": "A list of all mail proxy server addresses used by the targeted host",
+        "B": "Reveals the daily outgoing message limits before mailboxes are locked",
+        "C": "The two internal commands VRFY and EXPN provide a confirmation of valid users, email addresses, aliases, and mailing lists.",
+        "D": "The internal command RCPT provides a list of ports open to message traffic.",
+        "answer": "C"
+    },
+    "590": {
+        "tag": "CEH",
+        "question": "Scenario: Joe turns on his home computer to access personal online banking. When he enters the URL www.bank.com. the website is displayed, but it prompts him to re-enter his credentials as if he has never visited the site before. When he examines the website URL closer, he finds that the site is not secure and the web address appears different. What type of attack he is experiencing?.",
+        "A": "Dos attack",
+        "B": "DHCP spoofing",
+        "C": "ARP cache poisoning",
+        "D": "DNS hijacking",
+        "answer": "A"
+    },
+    "591": {
+        "tag": "CEH",
+        "question": "What is the common name for a vulnerability disclosure program opened by companies in platforms such as HackerOne?",
+        "A": "Vulnerability hunting program",
+        "B": "White-hat hacking program",
+        "C": "Bug bounty program",
+        "D": "Ethical hacking program",
+        "answer": "C"
+    },
+    "592": {
+        "tag": "CEH",
+        "question": "Which of the following tools can be used to perform a zone transfer?",
+        "A": "Host",
+        "B": "Finger",
+        "C": "Netcat",
+        "D": "Dig",
+        "answer": "A,D,E,F"
+    },
+    "593": {
+        "tag": "CEH",
+        "question": "Alice, a professional hacker, targeted an organization's cloud services. She infiltrated the targets MSP provider by sending spear-phishing emails and distributed custom-made malware to compromise user accounts and gain remote access to the cloud service. Further, she accessed the target customer profiles with her MSP account, compressed the customer data, and stored them in the MSP. Then, she used this information to launch further attacks on the target organization. Which of the following cloud attacks did Alice perform in the above scenario?",
+        "A": "Cloud hopper attack",
+        "B": "Cloud cryptojacking",
+        "C": "Cloudborne attack",
+        "D": "Man-in-the-cloud (MITC) attack",
+        "answer": "A"
+    },
+    "594": {
+        "tag": "CEH",
+        "question": "Samuel a security administrator, is assessing the configuration of a web server. He noticed that the server permits SSlv2 connections, and the same private key certificate is used on a different server that allows SSLv2 connections. This vulnerability makes the web server vulnerable to attacks as the SSLv2 server can leak key information.Which of the following attacks can be performed by exploiting the above vulnerability?",
+        "A": "DROWN attack",
+        "B": "Padding oracle attack",
+        "C": "Side-channel attack",
+        "D": "DUHK attack",
+        "answer": "A"
+    },
+    "595": {
+        "tag": "CEH",
+        "question": "While performing online banking using a Web browser, a user receives an email that contains a link to an interesting Web site. When the user clicks on the link, another Web browser session starts and displays a video of cats playing a piano. The next business day, the user receives what looks like an email from his bank, indicating that his bank account has been accessed from a foreign country. The email asks the user to call his bank and verify the authorization of a funds transfer that took place. What Web browser-based security vulnerability was exploited to compromise the user?",
+        "A": "Clickjacking",
+        "B": "Cross-Site Scripting",
+        "C": "Cross-Site Request Forgery",
+        "D": "Web form input validation",
+        "answer": "C"
+    },
+    "596": {
+        "tag": "CEH",
+        "question": "You are tasked to perform a penetration test. While you are performing information gathering, you find an employee list in Google. You find the receptionist's email, and you send her an email changing the source email to her boss's email (boss@company). In this email, you ask for a pdf with information. She reads your email and sends back a pdf with links. You exchange the pdf links with your malicious links (these links contain malware) and send back the modified pdf, saying that the links don't work. She reads your email, opens the links, and her machine gets infected. You now have access to the company network. What testing method did you use?",
+        "A": "Social engineering",
+        "B": "Eavesdropping",
+        "C": "Piggybacking",
+        "D": "Tailgating",
+        "answer": "A"
+    },
+    "597": {
+        "tag": "CEH",
+        "question": "If you want to only scan fewer ports than the default scan using Nmap tool, which option would you use?",
+        "A": "-r",
+        "B": "-sP",
+        "C": "-F",
+        "D": "-P",
+        "answer": "C"
+    },
+    "598": {
+        "tag": "CEH",
+        "question": "Identify the UDP port that Network Time Protocol (NTP) uses as its primary means of communication?",
+        "A": "123",
+        "B": "113",
+        "C": "161",
+        "D": "69",
+        "answer": "A"
+    },
+    "599": {
+        "tag": "CEH",
+        "question": "Ethical hacker jane Smith is attempting to perform an SQL injection attach. She wants to test the response time of a true or false response and wants to use a second command to determine whether the database will return true or false results for user IDs. which two SQL Injection types would give her the results she is looking for?",
+        "A": "Time-based and union-based",
+        "B": "union-based and error-based",
+        "C": "Time-based and boolean-based",
+        "D": "Out of band and boolean-based",
+        "answer": "D"
+    },
+    "600": {
+        "tag": "CEH",
+        "question": "Elliot is in the process of exploiting a web application that uses SQL as a back-end database. He's determined that the application is vulnerable to SQL injection, and has introduced conditional timing delays into injected queries to determine whether they are successful. What type of SQL injection is Elliot most likely performing?",
+        "A": "Blind SQL injection",
+        "B": "Union-based SQL injection",
+        "C": "NoSQL injection",
+        "D": "Error-based SQL injection",
+        "answer": "A"
+    },
+    "601": {
+        "tag": "CEH",
+        "question": "Wilson, a professional hacker, targets an organization for financial benefit and plans to compromise its systems by sending malicious emails. For this purpose, he uses a tool to track the emails of the target and extracts information such as sender identities, mail servers, sender IP addresses, and sender locations from different public sources. He also checks if an email address was leaked using the haveibeenpwned.com API.Which of the following tools is used by Wilson in the above scenario?",
+        "A": "ZoomInfo",
+        "B": "Infoga",
+        "C": "Factiva",
+        "D": "Netcraft",
+        "answer": "B"
+    },
+    "602": {
+        "tag": "CEH",
+        "question": "Dorian Is sending a digitally signed email to Polly, with which key is Dorian signing this message and how is Poly validating It?",
+        "A": "Dorian Is signing the message with Polys public key. and Poly will verify that the message came from Dorian by using Dorian's public key.",
+        "B": "Dorian is signing the message with his private key. and Poly will verify that the message came from Dorian by using Dorian's public key.",
+        "C": "Dorian is signing the message with his public key. and Poly will verify that the message came from Dorian by using Dorian's private key.",
+        "D": "Dorian is signing the message with Polys private key. and Poly will verify mat the message came from Dorian by using Dorian's public key.",
+        "answer": "B"
+    },
+    "603": {
+        "tag": "CEH",
+        "question": "A technician is resolving an issue where a computer is unable to connect to the Internet using a wireless access point. The computer is able to transfer files locally to other machines, but cannot successfully reach the Internet. When the technician examines the IP address and default gateway they are both on the192.168.1.0/24. Which of the following has occurred?",
+        "A": "The gateway and the computer are not on the same network.",
+        "B": "The computer is not using a private IP address.",
+        "C": "The computer is using an invalid IP address.",
+        "D": "The gateway is not routing to a public IP address.",
+        "answer": "D"
+    },
+    "604": {
+        "tag": "CEH",
+        "question": "Johnson, an attacker, performed online research for the contact details of reputed cybersecurity firms. He found the contact number of sibertech.org and dialed the number, claiming himself to represent a technical support team from a vendor. He warned that a specific server is about to be compromised and requested sibertech.org to follow the provided instructions. Consequently, he prompted the victim to execute unusual commands and install malicious files, which were then used to collect and pass critical Information to Johnson's machine. What is the social engineering technique Steve employed in the above scenario?",
+        "A": "Diversion theft",
+        "B": "Phishing",
+        "C": "Elicitatiom",
+        "D": "Quid pro quo",
+        "answer": "A"
+    },
+    "605": {
+        "tag": "CEH",
+        "question": "Peter extracts the SIDs list from Windows 2000 Server machine using the hacking tool \"SIDExtractor\". Here is the output of the SIDs:From the above list identify the user account with System Administrator privileges.",
+        "A": "Somia",
+        "B": "Chang",
+        "C": "John",
+        "D": "Shawn",
+        "answer": "B"
+    },
+    "606": {
+        "tag": "CEH",
+        "question": "Internet Protocol Security IPsec is actually a suite pf protocols. Each protocol within the suite provides different functionality. Collective IPsec does everything except.",
+        "A": "Encrypt",
+        "B": "Protect the payload and the headers",
+        "C": "Authenticate",
+        "D": "Work at the Data Link Layer",
+        "answer": "C"
+    },
+    "607": {
+        "tag": "CEH",
+        "question": "What is the file that determines the basic configuration (specifically activities, services, broadcast receivers, etc.) in an Android application?",
+        "A": "AndroidManifest.xml",
+        "B": "APK.info",
+        "C": "resources.asrc",
+        "D": "classes.dex",
+        "answer": "A"
+    },
+    "608": {
+        "tag": "CEH",
+        "question": "Which among the following is the best example of the hacking concept called \"clearing tracks\"?",
+        "A": "After a system is breached, a hacker creates a backdoor to allow re-entry into a system.",
+        "B": "During a cyberattack, a hacker injects a rootkit into a server.",
+        "C": "An attacker gains access to a server through an exploitable vulnerability.",
+        "D": "During a cyberattack, a hacker corrupts the event logs on all machines.",
+        "answer": "A"
+    },
+    "609": {
+        "tag": "CEH",
+        "question": "What is the purpose of DNS AAAA record?",
+        "A": "Address database record",
+        "B": "IPv6 address resolution record",
+        "C": "Authorization, Authentication and Auditing record",
+        "D": "Address prefix record",
+        "answer": "B"
+    },
+    "610": {
+        "tag": "CEH",
+        "question": "George is a security professional working for iTech Solutions. He was tasked with securely transferring sensitive data of the organization between industrial systems. In this process, he used a short-range communication protocol based on the IEEE 203.15.4 standard. This protocol is used in devices that transfer data infrequently at a low rate in a restricted area, within a range of 10-100 m. What is the short-range wireless communication technology George employed in the above scenario?",
+        "A": "MQTT",
+        "B": "LPWAN",
+        "C": "Zigbee",
+        "D": "NB-IoT",
+        "answer": "C"
+    },
+    "611": {
+        "tag": "CEH",
+        "question": "_________ is a set of extensions to DNS that provide the origin authentication of DNS data to DNS clients (resolvers) so as to reduce the threat of DNS poisoning, spoofing, and similar types of attacks.",
+        "A": "Zone transfer",
+        "B": "DNSSEC",
+        "C": "Resource records",
+        "D": "Resource transfer",
+        "answer": "B"
+    },
+    "612": {
+        "tag": "CEH",
+        "question": "Which of the following is a command line packet analyzer similar to GUI-based Wireshark?",
+        "A": "tcpdump",
+        "B": "nessus",
+        "C": "ethereal",
+        "D": "jack the ripper",
+        "answer": "A"
+    },
+    "613": {
+        "tag": "CEH",
+        "question": "What firewall evasion scanning technique make use of a zombie system that has low network activity as well as its fragment identification numbers?",
+        "A": "Packet fragmentation scanning",
+        "B": "Idle scanning",
+        "C": "Spoof source address scanning",
+        "D": "Decoy scanning",
+        "answer": "B"
+    },
+    "614": {
+        "tag": "CEH",
+        "question": "To determine if a software program properly handles a wide range of invalid input, a form of automated testing can be used to randomly generate invalid input in an attempt to crash the program.What term is commonly used when referring to this type of testing?",
+        "A": "Fuzzing",
+        "B": "Mutating",
+        "C": "Bounding",
+        "D": "Randomizing",
+        "answer": "A"
+    },
+    "615": {
+        "tag": "CEH",
+        "question": "An attacker identified that a user and an access point are both compatible with WPA2 and WPA3 encryption. The attacker installed a rogue access point with only WPA2 compatibility in the vicinity and forced the victim to go through the WPA2 four-way handshake to get connected. After the connection was established, the attacker used automated tools to crack WPA2-encrypted messages. What is the attack performed in the above scenario?",
+        "A": "Cache-based attack",
+        "B": "Side-channel attack",
+        "C": "Timing-based attack",
+        "D": "Downgrade security attack",
+        "answer": "C"
+    },
+    "616": {
+        "tag": "CEH",
+        "question": "Mr. Omkar performed tool-based vulnerability assessment and found two vulnerabilities. During analysis, he found that these issues are not true vulnerabilities.What will you call these issues?",
+        "A": "True positives",
+        "B": "False negatives",
+        "C": "False positives",
+        "D": "True negatives",
+        "answer": "C"
+    },
+    "617": {
+        "tag": "CEH",
+        "question": "An attacker changes the profile information of a particular user (victim) on the target website. The attacker uses this string to update the victim's profile to a text file and then submit the data to the attacker's database.< iframe src=\"\"http://www.vulnweb.com/updateif.php\"\" style=\"\"display:none\"\" > < /iframe > What is this type of attack (that can use either HTTP GET or HTTP POST) called?",
+        "A": "Browser Hacking",
+        "B": "SQL Injection",
+        "C": "Cross-Site Scripting",
+        "D": "Cross-Site Request Forgery",
+        "answer": "D"
+    },
+    "618": {
+        "tag": "CEH",
+        "question": "Which command can be used to show the current TCP/IP connections?",
+        "A": "Netsh",
+        "B": "Netstat",
+        "C": "Net use connection",
+        "D": "Net use",
+        "answer": "A"
+    },
+    "619": {
+        "tag": "CEH",
+        "question": "You have successfully comprised a server having an IP address of 10.10.0.5.You would like to enumerate all machines in the same network quickly.What is the best Nmap command you will use?",
+        "A": "nmap -T4 -O 10.10.0.0/24",
+        "B": "nmap -T4 -r 10.10.1.0/24",
+        "C": "nmap -T4 -F 10.10.0.0/24",
+        "D": "nmap -T4 -q 10.10.0.0/24",
+        "answer": "C"
+    },
+    "620": {
+        "tag": "CEH",
+        "question": "Study the snort rule given below and interpret the rule. alert tcp any any --> 192.168.1.0/24 111 (content:\"|00 01 86 a5|\"; msG. \"mountd access\";)",
+        "A": "An alert is generated when a TCP packet is originated from port 111 of any IP address to the<br/>192.168.1.0 subnet",
+        "B": "An alert is generated when a TCP packet originating from any IP address is seen on the network and destined for any IP address on the 192.168.1.0 subnet on port 111",
+        "C": "An alert is generated when a TCP packet is generated from any IP on the 192.168.1.0 subnet and destined to any IP on port 111",
+        "D": "An alert is generated when any packet other than a TCP packet is seen on the network and destined for the 192.168.1.0 subnet",
+        "answer": "B"
+    },
+    "621": {
+        "tag": "CEH",
+        "question": "Joe works as an IT administrator in an organization and has recently set up a cloud computing service for the organization. To implement this service, he reached out to a telecom company for providing Internet connectivity and transport services between the organization and the cloud service provider.In the NIST cloud deployment reference architecture, under which category does the telecom company fall in the above scenario?",
+        "A": "Cloud broker",
+        "B": "Cloud auditor",
+        "C": "Cloud consumer",
+        "D": "Cloud carrier",
+        "answer": "D"
+    },
+    "622": {
+        "tag": "CEH",
+        "question": "Harris is attempting to identify the OS running on his target machine. He inspected the initial TTL in the IP header and the related TCP window size and obtained the following results:TTL: 64 Window Size: 5840What is the OS running on the target machine?",
+        "A": "Mac OS",
+        "B": "Windows OS",
+        "C": "Linux OS",
+        "D": "Solaris OS",
+        "answer": "C"
+    },
+    "623": {
+        "tag": "CEH",
+        "question": "An attacker can employ many methods to perform social engineering against unsuspecting employees, including scareware.What is the best example of a scareware attack?",
+        "A": "A pop-up appears to a user stating, \"You have won a free cruise! Click here to claim your prize!\"",
+        "B": "A banner appears to a user stating, \"Your account has been locked. Click here to reset your password and unlock your account.\"",
+        "C": "A pop-up appears to a user stating, \"Your computer may have been infected with spyware. Click here to install an anti-spyware tool to resolve this issue.\"",
+        "D": "A banner appears to a user stating, \"Your Amazon order has been delayed. Click here to find out your new delivery date.\"",
+        "answer": "C"
+    },
+    "624": {
+        "tag": "CEH",
+        "question": "Which of the following is considered an exploit framework and has the ability to perform automated attacks on services, ports, applications and unpatched security flaws in a computer system?",
+        "A": "Nessus",
+        "B": "Wireshark",
+        "C": "Maltego",
+        "D": "Metasploit",
+        "answer": "D"
+    },
+    "625": {
+        "tag": "CEH",
+        "question": "Hackers often raise the trust level of a phishing message by modeling the email to look similar to the internal email used by the target company. This includes using logos, formatting, and names of the target company. The phishing message will often use the name of the company CEO, President, or Managers. The time a hacker spends performing research to locate this information about a company is known as?",
+        "A": "Exploration",
+        "B": "Enumeration",
+        "C": "Reconnaissance",
+        "D": "Investigation",
+        "answer": "C"
+    },
+    "626": {
+        "tag": "CEH",
+        "question": "What is the following command used for?net use \\targetipc$ \"\" /u:\"\"",
+        "A": "Connecting to a Linux computer through Samba.",
+        "B": "This command is used to connect as a null session",
+        "C": "Grabbing the etc/passwd file",
+        "D": "Enumeration of Cisco routers",
+        "answer": "B"
+    },
+    "627": {
+        "tag": "CEH",
+        "question": "Techno Security Inc. recently hired John as a penetration tester. He was tasked with identifying open ports in the target network and determining whether the ports are online and any firewall rule sets are encountered. John decided to perform a TCP SYN ping scan on the target network. Which of the following Nmap commands must John use to perform the TCP SVN ping scan?",
+        "A": "nmap -sn -pp &lt; target ip address &gt;",
+        "B": "nmap -sn -PO &lt; target IP address &gt;",
+        "C": "nmap -sn -PA &lt; target IP address &gt;",
+        "D": "Anmap -sn -PS &lt; target IP address &gt;",
+        "answer": "D"
+    },
+    "628": {
+        "tag": "CEH",
+        "question": "What is the following command used for?sqlmap.py-u ,,http://10.10.1.20/?p=1&forumaction=search\" -dbs",
+        "A": "A Enumerating the databases in the DBMS for the URL",
+        "B": "Searching database statements at the IP address given",
+        "C": "Retrieving SQL statements being executed on the database",
+        "D": "Creating backdoors using SQL injection",
+        "answer": "D"
+    },
+    "629": {
+        "tag": "CEH",
+        "question": "An attacker decided to crack the passwords used by industrial control systems. In this process, he employed a loop strategy to recover these passwords. He used one character at a time to check whether the first character entered is correct; if so, he continued the loop for consecutive characters. If not, he terminated the loop.Furthermore, the attacker checked how much time the device took to finish one complete password authentication process, through which he deduced how many characters entered are correct.What is the attack technique employed by the attacker to crack the passwords of the industrial control systems?",
+        "A": "HMI-based attack",
+        "B": "Buffer overflow attack",
+        "C": "Side-channel attack",
+        "D": "Denial-of-service attack",
+        "answer": "A"
+    },
+    "630": {
+        "tag": "CEH",
+        "question": "Josh has finished scanning a network and has discovered multiple vulnerable services. He knows that several of these usually have protections against external sources but are frequently susceptible to internal users. He decides to draft an email, spoof the sender as the internal IT team, and attach a malicious file disguised as a financial spreadsheet. Before Josh sends the email, he decides to investigate other methods of getting the file onto the system. For this particular attempt, what was the last stage of the cyber kill chain that Josh performed?",
+        "A": "Exploitation",
+        "B": "Reconnaissance",
+        "C": "Weaponization",
+        "D": "Delivery",
+        "answer": "C"
+    },
+    "631": {
+        "tag": "CEH",
+        "question": "A penetration tester is performing the footprinting process and is reviewing publicly available information about an organization by using the Google search engine.Which of the following advanced operators would allow the pen tester to restrict the search to the organization's web domain?",
+        "A": "[link:]",
+        "B": "[site:]",
+        "C": "[allinurl:]",
+        "D": "[location:]",
+        "answer": "B"
+    },
+    "632": {
+        "tag": "CEH",
+        "question": "What is the main security service a cryptographic hash provides?",
+        "A": "Integrity and ease of computation",
+        "B": "Integrity and collision resistance",
+        "C": "Message authentication and collision resistance",
+        "D": "Integrity and computational in-feasibility",
+        "answer": "D"
+    },
+    "633": {
+        "tag": "CEH",
+        "question": "An unauthorized individual enters a building following an employee through the employee entrance after the lunch rush. What type of breach has the individual just performed?",
+        "A": "Piggybacking",
+        "B": "Announced",
+        "C": "Reverse Social Engineering",
+        "D": "Tailgating",
+        "answer": "D"
+    },
+    "634": {
+        "tag": "CEH",
+        "question": "Null sessions are un-authenticated connections (not using a username or password.) to an NT or 2000 system.Which TCP and UDP ports must you filter to check null sessions on your network?",
+        "A": "137 and 443",
+        "B": "139 and 443",
+        "C": "139 and 445",
+        "D": "137 and 139",
+        "answer": "C"
+    },
+    "635": {
+        "tag": "CEH",
+        "question": "An attacker changes the profile information of a particular user (victim) on the target website. The attacker uses this string to update the victim's profile to a text file and then submit the data to the attacker's database.<iframe src=\"\"http://www.vulnweb.com/updateif.php\"\" style=\"\"display:none\"\"> < /iframe >What is this type of attack (that can use either HTTP GET or HTTP POST) called?",
+        "A": "SQL Injection",
+        "B": "Cross-Site Scripting",
+        "C": "Cross-Site Request Forgery",
+        "D": "Browser Hacking",
+        "answer": "C"
+    },
+    "636": {
+        "tag": "CEH",
+        "question": "The company ABC recently contracts a new accountant. The accountant will be working with the financial statements. Those financial statements need to be approved by the CFO and then they will be sent to the accountant but the CFO is worried because he wants to be sure that the information sent to the accountant was not modified once he approved it. Which of the following options can be useful to ensure the integrity of the data?",
+        "A": "The CFO can use an excel file with a password",
+        "B": "The CFO can use a hash algorithm in the document once he approved the financial statements",
+        "C": "The document can be sent to the accountant using an exclusive USB for that document",
+        "D": "The financial statements can be sent twice, one by email and the other delivered in USB and the accountant can compare both to be sure is the same document",
+        "answer": "B"
+    },
+    "637": {
+        "tag": "CEH",
+        "question": "Internet Protocol Security IPsec is actually a suite pf protocols. Each protocol within the suite provides different functionality. Collective IPsec does everything except.",
+        "A": "Protect the payload and the headers",
+        "B": "Encrypt",
+        "C": "Work at the Data Link Layer",
+        "D": "Authenticate",
+        "answer": "C"
+    },
+    "638": {
+        "tag": "CEH",
+        "question": "Some clients of TPNQM SA were redirected to a malicious site when they tried to access the TPNQM main site. Bob, a system administrator at TPNQM SA, found that they were victims of DNS Cache Poisoning.What should Bob recommend to deal with such a threat?",
+        "A": "Client awareness",
+        "B": "The use of double-factor authentication",
+        "C": "The use of DNSSEC",
+        "D": "The use of security agents in clients' computers",
+        "answer": "C"
+    },
+    "639": {
+        "tag": "CEH",
+        "question": "Heather's company has decided to use a new customer relationship management tool. After performing the appropriate research, they decided to purchase a subscription to a cloud-hosted solution. The only administrative task that Heather will need to perform is the management of user accounts. The provider will take care of the hardware, operating system, and software administration including patching and monitoring.Which of the following is this type of solution?",
+        "A": "Iaas",
+        "B": "PaaS",
+        "C": "Saas",
+        "D": "Caas",
+        "answer": "C"
+    },
+    "640": {
+        "tag": "CEH",
+        "question": "A large company intends to use Blackberry for corporate mobile phones and a security analyst is assigned to evaluate the possible threats. The analyst will use the Blackjacking attack method to demonstrate how an attacker could circumvent perimeter defenses and gain access to the Prometric Online Testing - Reportshttps://ibt1.prometric.com/users/custom/report_queue/rq_str... corporate network. What tool should the analyst use to perform a Blackjacking attack?",
+        "A": "Paros Proxy",
+        "B": "BBProxy",
+        "C": "BBCrack",
+        "D": "Blooover",
+        "answer": "B"
+    },
+    "641": {
+        "tag": "CEH",
+        "question": "infecting a system with malware and using phishing to gain credentials to a system or web application are examples of which phase of the ethical hacking methodology?",
+        "A": "Reconnaissance",
+        "B": "Maintaining access",
+        "C": "Scanning",
+        "D": "Gaining access",
+        "answer": "D"
+    },
+    "642": {
+        "tag": "CEH",
+        "question": "Boney, a professional hacker, targets an organization for financial benefits. He performs an attack by sending his session ID using an MITM attack technique. Boney first obtains a valid session ID by logging into a service and later feeds the same session 10 to the target employee. The session ID links the target employee to Boneys account page without disclosing any information to the victim. When the target employee clicks on the link, all the sensitive payment details entered in a form are linked to Boneys account. What is the attack performed by Boney in the above scenario?",
+        "A": "CRIME attack",
+        "B": "Session fixation attack",
+        "C": "Forbidden attack",
+        "D": "Session donation attack",
+        "answer": "D"
+    },
+    "643": {
+        "tag": "CEH",
+        "question": "Attacker Steve targeted an organization's network with the aim of redirecting the company's web traffic to another malicious website. To achieve this goal, Steve performed DNS cache poisoning by exploiting the vulnerabilities In the DNS server software and modified the original IP address of the target website to that of a fake website. What is the technique employed by Steve to gather information for identity theft?",
+        "A": "Pretexting",
+        "B": "Pharming",
+        "C": "Wardriving",
+        "D": "Skimming",
+        "answer": "B"
+    },
+    "644": {
+        "tag": "CEH",
+        "question": "There have been concerns in your network that the wireless network component is not sufficiently secure. You perform a vulnerability scan of the wireless network and find that it is using an old encryption protocol that was designed to mimic wired encryption, what encryption protocol is being used?",
+        "A": "WEP",
+        "B": "RADIUS",
+        "C": "WPA",
+        "D": "WPA3",
+        "answer": "C"
+    },
+    "645": {
+        "tag": "CEH",
+        "question": "John, a professional hacker, performs a network attack on a renowned organization and gains unauthorized access to the target network. He remains in the network without being detected for a long time and obtains sensitive information without sabotaging the organization. Which of the following attack techniques is used by John?",
+        "A": "Advanced persistent",
+        "B": "threat Diversion theft",
+        "C": "Spear-phishing sites",
+        "D": "insider threat",
+        "answer": "A"
+    },
+    "646": {
+        "tag": "CEH",
+        "question": "If you send a TCP ACK segment to a known closed port on a firewall but it does not respond with an RST, what do you know about the firewall you are scanning?",
+        "A": "It is a non-stateful firewall.",
+        "B": "This event does not tell you anything about the firewall.",
+        "C": "There is no firewall in place.",
+        "D": "It is a stateful firewall.",
+        "answer": "B"
+    },
+    "647": {
+        "tag": "CEH",
+        "question": "Bella, a security professional working at an it firm, finds that a security breach has occurred while transferring important files. Sensitive data, employee usernames. and passwords are shared In plaintext, paving the way for hackers 10 perform successful session hijacking. To address this situation. Bella Implemented a protocol that sends data using encryption and digital certificates. Which of the following protocols Is used by Bella?",
+        "A": "FTP",
+        "B": "HTTPS",
+        "C": "FTPS",
+        "D": "IP",
+        "answer": "B"
+    },
+    "648": {
+        "tag": "CEH",
+        "question": "A penetration tester is conducting a port scan on a specific host. The tester found several ports opened that were confusing in concluding the Operating System (OS) version installed. Considering that NMAP result below, which of the following is likely to be installed on the target machine by the OS? Starting NMAP 5.21 at 2011-03-15 11:06 NMAP scan report for 172.16.40.65 Host is up (1.00s latency). Not shown: 993 closed ports PORT STATE SERVICE 21/tcp open ftp 23/tcp open telnet 80/tcp open http 139/tcp open netbios-ssn 515/tcp open 631/tcp open ipp 9100/tcp open MAC Address: 00:00:48:0D:EE:8",
+        "A": "The host is likely a router.",
+        "B": "The host is likely a printer.",
+        "C": "The host is likely a Linux machine.",
+        "D": "The host is likely a Windows machine.",
+        "answer": "B"
+    },
+    "649": {
+        "tag": "CEH",
+        "question": "Email is transmitted across the Internet using the Simple Mail Transport Protocol. SMTP does not encrypt email, leaving the information in the message vulnerable to being read by an unauthorized person. SMTP can upgrade a connection between two mail servers to use TLS. Email transmitted by SMTP over TLS is encrypted.What is the name of the command used by SMTP to transmit email over TLS?",
+        "A": "FORCETLS",
+        "B": "STARTTLS",
+        "C": "UPGRADETLS",
+        "D": "OPPORTUNISTICTLS",
+        "answer": "B"
+    },
+    "650": {
+        "tag": "CEH",
+        "question": "By performing a penetration test, you gained access under a user account. During the test, you established a connection with your own machine via the SMB service and occasionally entered your login and password in plaintext.Which file do you have to clean to clear the password?",
+        "A": ".X session-log",
+        "B": ".bashrc",
+        "C": ".profile",
+        "D": ".bash_history",
+        "answer": "D"
+    },
+    "651": {
+        "tag": "CEH",
+        "question": "You went to great lengths to install all the necessary technologies to prevent hacking attacks, such as expensive firewalls, antivirus software, anti-spam systems and intrusion detection/prevention tools in your company's network. You have configured the most secure policies and tightened every device on your network. You are confident that hackers will never be able to gain access to your network with complex security system in place.Your peer, Peter Smith who works at the same department disagrees with you.He says even the best network security technologies cannot prevent hackers gaining access to the network because of presence of \"weakest link\" in the security chain.What is Peter Smith talking about?",
+        "A": "Continuous Spam e-mails cannot be blocked by your security system since spammers use different techniques to bypass the filters in your gateway",
+        "B": "\"zero-day\" exploits are the weakest link in the security chain since the IDS will not be able to detect these attacks",
+        "C": "\"Polymorphic viruses\" are the weakest link in the security chain since the Anti-Virus scanners will not be able to detect these attacks",
+        "D": "Untrained staff or ignorant computer users who inadvertently become the weakest link in your security chain",
+        "answer": "D"
+    },
+    "652": {
+        "tag": "CEH",
+        "question": "Bob is doing a password assessment for one of his clients. Bob suspects that security policies are not in place. He also suspects that weak passwords are probably the norm throughout the company he is evaluating. Bob is familiar with password weaknesses and key loggers.Which of the following options best represents the means that Bob can adopt to retrieve passwords from his clients hosts and servers?",
+        "A": "Hardware and Software Keyloggers.",
+        "B": "Software only, they are the most effective.",
+        "C": "Passwords are always best obtained using Hardware key loggers.",
+        "D": "Hardware, Software, and Sniffing.",
+        "answer": "D"
+    },
+    "653": {
+        "tag": "CEH",
+        "question": "Roma is a member of a security team. She was tasked with protecting the internal network of an organization from imminent threats. To accomplish this task, Roma fed threat intelligence into the security devices in a digital format to block and identify inbound and outbound malicious traffic entering the organization's network.Which type of threat intelligence is used by Roma to secure the internal network?",
+        "A": "Tactical threat intelligence",
+        "B": "Technical threat intelligence",
+        "C": "Strategic threat intelligence",
+        "D": "Operational threat intelligence",
+        "answer": "B"
+    },
+    "654": {
+        "tag": "CEH",
+        "question": "Kate dropped her phone and subsequently encountered an issue with the phone's internal speaker. Thus, she is using the phone's loudspeaker for phone calls and other activities. Bob, an attacker, takes advantage of this vulnerability and secretly exploits the hardware of Kate's phone so that he can monitor the loudspeaker's output from data sources such as voice assistants, multimedia messages, and audio files by using a malicious app to breach speech privacy. What is the type of attack Bob performed on Kate in the above scenario?",
+        "A": "SIM card attack",
+        "B": "aLTEr attack",
+        "C": "Man-in-the-disk attack",
+        "D": "Spearphone attack",
+        "answer": "D"
+    },
+    "655": {
+        "tag": "CEH",
+        "question": "what are common files on a web server that can be misconfigured and provide useful Information for a hacker such as verbose error messages?",
+        "A": "httpd.conf",
+        "B": "administration.config",
+        "C": "idq.dll",
+        "D": "php.ini",
+        "answer": "D"
+    },
+    "656": {
+        "tag": "CEH",
+        "question": "Fred is the network administrator for his company. Fred is testing an internal switch.From an external IP address, Fred wants to try and trick this switch into thinking it already has established a session with his computer. How can Fred accomplish this?",
+        "A": "Fred can send an IP packet to the switch with the ACK bit and the source address of his machine.",
+        "B": "He can send an IP packet with the SYN bit and the source address of his computer.",
+        "C": "Fred can send an IP packet with the ACK bit set to zero and the source address of the switch.",
+        "D": "Fred can accomplish this by sending an IP packet with the RST/SIN bit and the source address of his computer.",
+        "answer": "A"
+    },
+    "657": {
+        "tag": "CEH",
+        "question": "What is the algorithm used by LM for Windows2000 SAM?",
+        "A": "DES",
+        "B": "MD4",
+        "C": "SHA",
+        "D": "SSL",
+        "answer": "A"
+    },
+    "658": {
+        "tag": "CEH",
+        "question": "After an audit, the auditors Inform you that there is a critical finding that you must tackle Immediately. You read the audit report, and the problem is the service running on port 369. Which service Is this and how can you tackle the problem?",
+        "A": "The service is SMTP, and you must change it to SMIME. which is an encrypted way to send emails.",
+        "B": "The findings do not require immediate actions and are only suggestions.",
+        "C": "The service is NTP. and you have to change It from UDP to TCP in order to encrypt it",
+        "D": "The service is LDAP. and you must change it to 636. which is LDPAPS.",
+        "answer": "D"
+    },
+    "659": {
+        "tag": "CEH",
+        "question": "Suppose that you test an application for the SQL injection vulnerability. You know that the backend database is based on Microsoft SQL Server. In the login/password form, you enter the following credentials:Username: attack' or 1=1 -Password: 123456Based on the above credentials, which of the following SQL commands are you expecting to be executed by the server, if there is indeed an SQL injection vulnerability?",
+        "A": "select * from Users where UserName = 'attack' or 1=1 -- and UserPassword = '123456'",
+        "B": "select * from Users where UserName = 'attack' or 1=1 --' and UserPassword = '123456'",
+        "C": "select * from Users where UserName = 'attack' ' or 1=1 -- and UserPassword = '123456'",
+        "D": "select * from Users where UserName = 'attack or 1=1 -- and UserPassword = '123456'",
+        "answer": "C"
+    },
+    "660": {
+        "tag": "CEH",
+        "question": "John, a professional hacker, decided to use DNS to perform data exfiltration on a target network, in this process, he embedded malicious data into the DNS protocol packets that even DNSSEC cannot detect. Using this technique. John successfully injected malware to bypass a firewall and maintained communication with the victim machine and C&C server. What is the technique employed by John to bypass the firewall?",
+        "A": "DNS cache snooping",
+        "B": "DNSSEC zone walking",
+        "C": "DNS tunneling method",
+        "D": "DNS enumeration",
+        "answer": "C"
+    },
+    "661": {
+        "tag": "CEH",
+        "question": "Sam is working as a system administrator In an organization. He captured the principal characteristics of a vulnerability and produced a numerical score to reflect Its severity using CVSS v3.0 to property assess and prioritize the organization's vulnerability management processes. The base score that Sam obtained after performing cvss rating was 4.0. What is the CVSS severity level of the vulnerability discovered by Sam in the above scenario?",
+        "A": "Medium",
+        "B": "Low",
+        "C": "Critical",
+        "D": "High",
+        "answer": "A"
+    },
+    "662": {
+        "tag": "CEH",
+        "question": "In an internal security audit, the white hat hacker gains control over a user account and attempts to acquire access to another account's confidential files and information. How can he achieve this?",
+        "A": "Hacking Active Directory",
+        "B": "Shoulder-Surfing",
+        "C": "Privilege Escalation",
+        "D": "Port Scanning",
+        "answer": "C"
+    },
+    "663": {
+        "tag": "CEH",
+        "question": "You are a penetration tester and are about to perform a scan on a specific server. The agreement that you signed with the client contains the following specific condition for the scan: \"The attacker must scan every port on the server several times using a set of spoofed sources IP addresses. \" Suppose that you are using Nmap to perform this scan. What flag will you use to satisfy this requirement?",
+        "A": "The -A flag",
+        "B": "The -g flag",
+        "C": "The -f flag",
+        "D": "The -D flag",
+        "answer": "B"
+    },
+    "664": {
+        "tag": "CEH",
+        "question": "While testing a web application in development, you notice that the web server does not properly ignore the \"dot dot slash\" (../) character string and instead returns the file listing of a folder higher up in the folder structure of the server.What kind of attack is possible in this scenario?",
+        "A": "SQL injection",
+        "B": "Denial of service",
+        "C": "Cross-site scripting",
+        "D": "Directory traversal",
+        "answer": "D"
+    },
+    "665": {
+        "tag": "CEH",
+        "question": "To invisibly maintain access to a machine, an attacker utilizes a toolkit that sits undetected In the core components of the operating system. What is this type of rootkit an example of?",
+        "A": "Mypervisor rootkit",
+        "B": "Kernel toolkit",
+        "C": "Hardware rootkit",
+        "D": "Firmware rootkit",
+        "answer": "B"
+    },
+    "666": {
+        "tag": "CEH",
+        "question": "An organization decided to harden its security against web-application and web-server attacks. John, a security personnel in the organization, employed a security scanner to automate web-application security testing and to guard the organization's web infrastructure against web-application threats. Using that tool, he also wants to detect XSS, directory transversal problems, fault injection, SQL injection, attempts to execute commands, and several other attacks. Which of the following security scanners will help John perform the above task?",
+        "A": "AlienVault\u00aeOSSIM\u2122",
+        "B": "Cisco ASA",
+        "C": "Syhunt Hybrid",
+        "D": "Saleae Logic Analyzer",
+        "answer": "C"
+    },
+    "667": {
+        "tag": "CEH",
+        "question": "A user on your Windows 2000 network has discovered that he can use L0phtcrack to sniff the SMB exchanges which carry user logons. The user is plugged into a hub with 23 other systems.However, he is unable to capture any logons though he knows that other users are logging in.What do you think is the most likely reason behind this?",
+        "A": "There is a NIDS present on that segment.",
+        "B": "Kerberos is preventing it.",
+        "C": "Windows logons cannot be sniffed.",
+        "D": "L0phtcrack only sniffs logons to web servers.",
+        "answer": "B"
+    },
+    "668": {
+        "tag": "CEH",
+        "question": "Bob is going to perform an active session hijack against Brownies Inc. He has found a target that allows session oriented connections (Telnet) and performs the sequence prediction on the target operating system. He manages to find an active session due to the high level of traffic on the network. What is Bob supposed to do next?",
+        "A": "Take over the session",
+        "B": "Reverse sequence prediction",
+        "C": "Take one of the parties offline",
+        "D": "Guess the sequence numbers",
+        "answer": "D"
+    },
+    "669": {
+        "tag": "CEH",
+        "question": "Calvin, a software developer, uses a feature that helps him auto-generate the content of a web page without manual involvement and is integrated with SSI directives. This leads to a vulnerability in the developed web application as this feature accepts remote user inputs and uses them on the page. Hackers can exploit this feature and pass malicious SSI directives as input values to perform malicious activities such as modifying and erasing server files. What is the type of injection attack Calvin's web application is susceptible to?",
+        "A": "Server-side JS injection",
+        "B": "A Server-side includes injection",
+        "C": "Qserver-side template injection",
+        "D": "CRLF injection",
+        "answer": "B"
+    },
+    "670": {
+        "tag": "CEH",
+        "question": "While browsing his Facebook feed, Matt sees a picture one of his friends posted with the caption, \"Learn more about your friends!\", as well as a number of personal questions. Matt is suspicious and texts his friend, who confirms that he did indeed post it. With assurance that the post is legitimate, Matt responds to the questions on the post. A few days later, Matt's bank account has been accessed, and the password has been changed.What most likely happened?",
+        "A": "Matt's computer was infected with a keylogger.",
+        "B": "Matt inadvertently provided the answers to his security questions when responding to the post.",
+        "C": "Matt inadvertently provided his password when responding to the post.",
+        "D": "Matt's bank-account login information was brute forced.",
+        "answer": "B"
+    },
+    "671": {
+        "tag": "CEH",
+        "question": "Bill is a network administrator. He wants to eliminate unencrypted traffic inside his company's network. He decides to setup a SPAN port and capture all traffic to the datacenter. He immediately discovers unencrypted traffic in port UDP 161. what protocol is this port using and how can he secure that traffic?",
+        "A": "it is not necessary to perform any actions, as SNMP is not carrying important information.",
+        "B": "SNMP and he should change it to SNMP V3",
+        "C": "RPC and the best practice is to disable RPC completely",
+        "D": "SNMP and he should change it to SNMP v2, which is encrypted",
+        "answer": "B"
+    },
+    "672": {
+        "tag": "CEH",
+        "question": "Stella, a professional hacker, performs an attack on web services by exploiting a vulnerability that provides additional routing information in the SOAP header to support asynchronous communication. This further allows the transmission of web-service requests and response messages using different TCP connections.Which of the following attack techniques is used by Stella to compromise the web services?",
+        "A": "SOAPAction spoofing",
+        "B": "WS-Address spoofing",
+        "C": "XML injection",
+        "D": "Web services parsing attacks",
+        "answer": "A"
+    },
+    "673": {
+        "tag": "CEH",
+        "question": "What would you enter if you wanted to perform a stealth scan using Nmap?",
+        "A": "nmap -sT",
+        "B": "nmap -sM",
+        "C": "nmap -sU",
+        "D": "nmap -sS",
+        "answer": "D"
+    },
+    "674": {
+        "tag": "CEH",
+        "question": "Becky has been hired by a client from Dubai to perform a penetration test against one of their remote offices. Working from her location in Columbus, Ohio, Becky runs her usual reconnaissance scans to obtain basic information about their network. When analyzing the results of her Whois search, Becky notices that the IP was allocated to a location in Le Havre, France. Which regional Internet registry should Becky go to for detailed information?",
+        "A": "ARIN",
+        "B": "RIPE",
+        "C": "LACNIC",
+        "D": "APNIC",
+        "answer": "B"
+    },
+    "675": {
+        "tag": "CEH",
+        "question": "Wilson, a professional hacker, targets an organization for financial benefit and plans to compromise its systems by sending malicious emails. For this purpose, he uses a tool to track the emails of the target and extracts information such as sender identities, mall servers, sender IP addresses, and sender locations from different public sources. He also checks if an email address was leaked using the haveibeenpwned.com API.Which of the following tools is used by Wilson in the above scenario?",
+        "A": "Netcraft",
+        "B": "Factiva",
+        "C": "Zoominfo",
+        "D": "infoga",
+        "answer": "B"
+    },
+    "676": {
+        "tag": "CEH",
+        "question": "Which of the following is an extremely common IDS evasion technique in the web world?",
+        "A": "Unicode Characters",
+        "B": "Subnetting",
+        "C": "Spyware",
+        "D": "Port Knocking",
+        "answer": "A"
+    },
+    "677": {
+        "tag": "CEH",
+        "question": "Robin, a professional hacker, targeted an organization's network to sniff all the traffic. During this process.Robin plugged in a rogue switch to an unused port in the LAN with a priority lower than any other switch in the network so that he could make it a root bridge that will later allow him to sniff all the traffic in the network.What is the attack performed by Robin in the above scenario?",
+        "A": "ARP spoofing attack",
+        "B": "VLAN hopping attack",
+        "C": "DNS poisoning attack",
+        "D": "STP attack",
+        "answer": "D"
+    },
+    "678": {
+        "tag": "CEH",
+        "question": "Firewalls are the software or hardware systems that are able to control and monitor the traffic coming in and out the target network based on pre-defined set of rules. Which of the following types of firewalls can protect against SQL injection attacks?",
+        "A": "Stateful firewall",
+        "B": "Web application firewall",
+        "C": "Packet firewall",
+        "D": "Data-driven firewall",
+        "answer": "B"
+    },
+    "679": {
+        "tag": "CEH",
+        "question": "What ports should be blocked on the firewall to prevent NetBIOS traffic from not coming through the firewall if your network is comprised of Windows NT, 2000, and XP?",
+        "A": "135",
+        "B": "161",
+        "C": "110",
+        "D": "1024",
+        "answer": "A,E,F"
+    },
+    "680": {
+        "tag": "CEH",
+        "question": "There have been concerns in your network that the wireless network component is not sufficiently secure. You perform a vulnerability scan of the wireless network and find that it is using an old encryption protocol that was designed to mimic wired encryption, what encryption protocol is being used?",
+        "A": "WEP",
+        "B": "RADIUS",
+        "C": "WPA",
+        "D": "WPA3",
+        "answer": "C"
+    },
+    "681": {
+        "tag": "CEH",
+        "question": "You want to analyze packets on your wireless network. Which program would you use?",
+        "A": "Ethereal with Winpcap",
+        "B": "Airsnort with Airpcap",
+        "C": "Wireshark with Airpcap",
+        "D": "Wireshark with Winpcap",
+        "answer": "C"
+    },
+    "682": {
+        "tag": "CEH",
+        "question": "The tools which receive event logs from servers, network equipment, and applications, and perform analysis and correlation on those logs, and can generate alarms for security relevant issues, are known as what?",
+        "A": "Intrusion prevention Server",
+        "B": "Vulnerability Scanner",
+        "C": "Security incident and event Monitoring",
+        "D": "network Sniffer",
+        "answer": "C"
+    },
+    "683": {
+        "tag": "CEH",
+        "question": "Which of the following antennas is commonly used in communications for a frequency band of 10 MHz to VHF and UHF?",
+        "A": "Yagi antenna",
+        "B": "Parabolic grid antenna",
+        "C": "Omnidirectional antenna",
+        "D": "Dipole antenna",
+        "answer": "A"
+    },
+    "684": {
+        "tag": "CEH",
+        "question": "John is investigating web-application firewall logs and observers that someone is attempting to inject the following:char buff[10];buff[>o] - 'a':What type of attack is this?",
+        "A": "CSRF",
+        "B": "XSS",
+        "C": "Buffer overflow",
+        "D": "SQL injection",
+        "answer": "C"
+    },
+    "685": {
+        "tag": "CEH",
+        "question": "Kevin, an encryption specialist, implemented a technique that enhances the security of keys used for encryption and authentication. Using this technique, Kevin input an initial key to an algorithm that generated an enhanced key that is resistant to brute-force attacks. What is the technique employed by Kevin to improve the security of encryption keys?",
+        "A": "A Public key infrastructure",
+        "B": "Key reinstallation",
+        "C": "Key stretching",
+        "D": "Key derivation function",
+        "answer": "C"
+    },
+    "686": {
+        "tag": "CEH",
+        "question": "Which Nmap option would you use if you were not concerned about being detected and wanted to perform a very fast scan?",
+        "A": "-T5",
+        "B": "-O",
+        "C": "-T0",
+        "D": "-A",
+        "answer": "A"
+    },
+    "687": {
+        "tag": "CEH",
+        "question": "To create a botnet. the attacker can use several techniques to scan vulnerable machines. The attacker first collects Information about a large number of vulnerable machines to create a list. Subsequently, they infect the machines. The list Is divided by assigning half of the list to the newly compromised machines. The scanning process runs simultaneously. This technique ensures the spreading and installation of malicious code in little time.Which technique is discussed here?",
+        "A": "Subnet scanning technique",
+        "B": "Topological scanning technique",
+        "C": "Permutation scanning technique",
+        "D": "Hit-list-scanning technique",
+        "answer": "D"
+    },
+    "688": {
+        "tag": "CEH",
+        "question": "infecting a system with malware and using phishing to gain credentials to a system or web application are examples of which phase of the ethical hacking methodology?",
+        "A": "Reconnaissance",
+        "B": "Maintaining access",
+        "C": "Scanning",
+        "D": "Gaming access",
+        "answer": "D"
+    },
+    "689": {
+        "tag": "CEH",
+        "question": "Robin, a professional hacker, targeted an organization's network to sniff all the traffic. During this process.Robin plugged in a rogue switch to an unused port in the LAN with a priority lower than any other switch in the network so that he could make it a root bridge that will later allow him to sniff all the traffic in the network.What is the attack performed by Robin in the above scenario?",
+        "A": "ARP spoofing attack",
+        "B": "VLAN hopping attack",
+        "C": "DNS poisoning attack",
+        "D": "STP attack",
+        "answer": "D"
+    },
+    "690": {
+        "tag": "CEH",
+        "question": "When a security analyst prepares for the formal security assessment - what of the following should be done in order to determine inconsistencies in the secure assets database and verify that system is compliant to the minimum security baseline?",
+        "A": "Source code review",
+        "B": "Interviewing employees and network engineers",
+        "C": "Data items and vulnerability scanning",
+        "D": "Reviewing the firewalls configuration",
+        "answer": "C"
+    },
+    "691": {
+        "tag": "CEH",
+        "question": "Which of the following is the BEST way to defend against network sniffing?",
+        "A": "Using encryption protocols to secure network communications",
+        "B": "Restrict Physical Access to Server Rooms hosting Critical Servers",
+        "C": "Use Static IP Address",
+        "D": "Register all machines MAC Address in a Centralized Database",
+        "answer": "A"
+    },
+    "692": {
+        "tag": "CEH",
+        "question": "if you send a TCP ACK segment to a known closed port on a firewall but it does not respond with an RST.what do you know about the firewall you are scanning?",
+        "A": "It is a stateful firewall",
+        "B": "It Is a non-stateful firewall.",
+        "C": "This event does not tell you encrypting about the firewall.",
+        "D": "There is no firewall in place.",
+        "answer": "A"
+    },
+    "693": {
+        "tag": "CEH",
+        "question": "During the process of encryption and decryption, what keys are shared?During the process of encryption and decryption, what keys are shared?",
+        "A": "Public and private keys",
+        "B": "Private keys",
+        "C": "User passwords",
+        "D": "Public keys",
+        "answer": "D"
     }
           
           
