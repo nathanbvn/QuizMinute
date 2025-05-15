@@ -5469,7 +5469,7 @@
         "B": "During a cyberattack, a hacker injects a rootkit into a server.",
         "C": "An attacker gains access to a server through an exploitable vulnerability.",
         "D": "During a cyberattack, a hacker corrupts the event logs on all machines.",
-        "answer": "A"
+        "answer": "D"
     },
     "609": {
         "tag": "CEH",
@@ -5649,7 +5649,7 @@
         "B": "Searching database statements at the IP address given",
         "C": "Retrieving SQL statements being executed on the database",
         "D": "Creating backdoors using SQL injection",
-        "answer": "D"
+        "answer": "A"
     },
     "629": {
         "tag": "CEH",
